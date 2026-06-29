@@ -1,5 +1,4 @@
 
-2. Install dependencies: `npm install`
 3. Deploy contracts: `truffle migrate --network rinkeby`
 4. Launch the app: `npm start`
 5. Mint your first NFT! 🎉
