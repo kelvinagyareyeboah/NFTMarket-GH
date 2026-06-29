@@ -1,7 +1,4 @@
-fl
-
-```bash
-# 1. Clone the repository
+e the repository
 git clone https://github.com/KelvCodes/NFTMarketGH.git
 cd NFTMarketGH
 
