@@ -1,8 +1,6 @@
 venance tracking on the Ethereum Rinkeby testnet
 - **React Frontend** — Clean, responsive UI for browsing, minting, and trading
-- **Web3 Integration** — Connect your wallet and interact with the blockchain seamlessly
-
----
+- **Web3 Integr
 
 ## Tech Stack
 
