@@ -1,7 +1,5 @@
 anaian artists, powered by blockchain! 🇬🇭
-
-## Features ✨
-- Mint NFTs with ERC-721 standard 🖼️
+andard 🖼️
 - Decentralized storage via IPFS 📦
 - Ownership history tracking on Rinkeby testnet 📜
 - User-friendly React frontend 🚀
