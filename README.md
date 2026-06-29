@@ -1,7 +1,5 @@
 end 🚀
-
-## Tech Stack 🛠️
-- **Blockchain**: Solidity, Ethereum Rinkeby
+, Ethereum Rinkeby
 - **Frontend**: React
 - **Storage**: IPFS
 - **Integration**: Web3.js
