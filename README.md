@@ -1,6 +1,5 @@
 
-
-A vibrant NFT minting and trading platform tailored for Ghanaian artists, powered by blockchain! 🇬🇭
+g platform tailored for Ghanaian artists, powered by blockchain! 🇬🇭
 
 ## Features ✨
 - Mint NFTs with ERC-721 standard 🖼️
