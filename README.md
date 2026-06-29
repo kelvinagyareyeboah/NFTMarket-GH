@@ -1,16 +1,3 @@
-tall dependencies
-npm install
-
-
-1. **Connect** your MetaMask wallet to the Rinkeby testnet
-2. **Upload** your artwork — it's pinned to IPFS automatically
-3. **Mint** an ERC-721 token tied to your piece
-4. **Trade** — list it for sale or transfer ownership directly
-5. **Track** the full ownership history on-chain, forever
-
----
-
-## Project Structure
 
 ```
 NFTMarketGH/
