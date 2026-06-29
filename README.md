@@ -1,8 +1,4 @@
-fle (`npm install -g truffle`)
-- MetaMask browser extension
-- Rinkeby testnet ETH ([faucet](https://faucets.chain.link/rinkeby))
-
-### Installation
+fl
 
 ```bash
 # 1. Clone the repository
