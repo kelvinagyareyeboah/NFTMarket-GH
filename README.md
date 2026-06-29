@@ -1,4 +1,4 @@
- for Ghanaian artists.**
+sts.**
 
 ## Features
 
