@@ -1,6 +1,4 @@
-
-
-**A decentralized NFT minting and trading platform built for Ghanaian artists.**
+ for Ghanaian artists.**
 
 NFTMarket GH bridges the gap between African creativity and blockchain technology — giving local artists a transparent, trustless way to tokenize, showcase, and sell their work.
 
