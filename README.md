@@ -1,5 +1,4 @@
 
-1. Clone the repo: `git clone https://github.com/KelvCodes/NFTMarketGH.git`
 2. Install dependencies: `npm install`
 3. Deploy contracts: `truffle migrate --network rinkeby`
 4. Launch the app: `npm start`
