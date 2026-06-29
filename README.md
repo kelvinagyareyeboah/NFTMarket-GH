@@ -1,6 +1,4 @@
 e the repository
-git clone https://github.com/KelvCodes/NFTMarketGH.git
-cd NFTMarketGH
 
 # 2. Install dependencies
 npm install
