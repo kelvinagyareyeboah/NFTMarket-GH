@@ -1,7 +1,4 @@
-t |
-
-- Node.js ≥ 16
-- Truffle (`npm install -g truffle`)
+fle (`npm install -g truffle`)
 - MetaMask browser extension
 - Rinkeby testnet ETH ([faucet](https://faucets.chain.link/rinkeby))
 
