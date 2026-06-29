@@ -1,2 +1,2 @@
 
-Empowers local artists to t
+Empowers local arti
