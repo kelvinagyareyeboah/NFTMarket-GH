@@ -1,7 +1,4 @@
-sts.**
-
-## Feazed Storage** — Assets stored off-chain, permanently and censorship-resistant
-- **Ownership History** — Full provenance tracking on the Ethereum Rinkeby testnet
+venance tracking on the Ethereum Rinkeby testnet
 - **React Frontend** — Clean, responsive UI for browsing, minting, and trading
 - **Web3 Integration** — Connect your wallet and interact with the blockchain seamlessly
 
