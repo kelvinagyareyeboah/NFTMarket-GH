@@ -1,2 +1,2 @@
 
-Empowers local arti
+Empowers loc
