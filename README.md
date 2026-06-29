@@ -1,8 +1,4 @@
-ology |
-|---|---|
-| Smart Contracts | Solidity (ERC-721) |
-| Blockchain | Ethereum — Rinkeby Testnet |
-| Frontend | React |
+t |
 | Storage | IPFS |
 | Web3 Integration | Web3.js |
 
