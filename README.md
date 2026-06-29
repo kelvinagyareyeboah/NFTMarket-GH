@@ -1,6 +1,4 @@
-*: React
-- **Storage**: IPFS
-- **Integration**: Web3.js
+tion**: Web3.js
 
 ## Getting Started ⚡
 1. Clone the repo: `git clone https://github.com/KelvCodes/NFTMarketGH.git`
