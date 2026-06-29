@@ -1,6 +1,4 @@
-venance tracking on the Ethereum Rinkeby testnet
-- **React Frontend** — Clean, responsive UI for browsing, minting, and trading
-- **Web3 Integr
+
 
 ## Tech Stack
 
