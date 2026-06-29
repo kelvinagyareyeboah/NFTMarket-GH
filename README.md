@@ -1,5 +1,4 @@
-S 📦
-- Ownership history tracking on Rinkeby testnet 📜
+
 - User-friendly React frontend 🚀
 
 ## Tech Stack 🛠️
