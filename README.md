@@ -1,4 +1,4 @@
-eby`
+
 4. Launch the app: `npm start`
 5. Mint your first NFT! 🎉
 
