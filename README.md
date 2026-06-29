@@ -1,5 +1,4 @@
-, powered by blockchain! 🇬🇭
-andard 🖼️
+
 - Decentralized storage via IPFS 📦
 - Ownership history tracking on Rinkeby testnet 📜
 - User-friendly React frontend 🚀
