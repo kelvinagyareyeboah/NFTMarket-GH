@@ -1,9 +1,4 @@
 t |
----
-
-## Getting Started
-
-### Prerequisites
 
 - Node.js ≥ 16
 - Truffle (`npm install -g truffle`)
