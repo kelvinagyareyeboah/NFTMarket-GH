@@ -1,18 +1,6 @@
 tall dependencies
 npm install
 
-# 3. Deploy smart contracts to Rinkeby
-truffle migrate --network rinkeby
-
-# 4. Start the app
-npm start
-```
-
-Open [http://localhost:3000](http://localhost:3000) and connect your MetaMask wallet to mint your first NFT.
-
----
-
-## How It Works
 
 1. **Connect** your MetaMask wallet to the Rinkeby testnet
 2. **Upload** your artwork — it's pinned to IPFS automatically
