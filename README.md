@@ -1,8 +1,4 @@
-
-
-## Tech Stack
-
-| Layer | Technology |
+ology |
 |---|---|
 | Smart Contracts | Solidity (ERC-721) |
 | Blockchain | Ethereum — Rinkeby Testnet |
