@@ -1,5 +1,4 @@
-
-g platform tailored for Ghanaian artists, powered by blockchain! 🇬🇭
+anaian artists, powered by blockchain! 🇬🇭
 
 ## Features ✨
 - Mint NFTs with ERC-721 standard 🖼️
