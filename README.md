@@ -1,4 +1,4 @@
-anaian artists, powered by blockchain! 🇬🇭
+, powered by blockchain! 🇬🇭
 andard 🖼️
 - Decentralized storage via IPFS 📦
 - Ownership history tracking on Rinkeby testnet 📜
