@@ -1,7 +1,5 @@
  for Ghanaian artists.**
 
-NFTMarket GH 
-
 ## Features
 
 - **ERC-721 NFT Minting** — Mint unique, standards-compliant tokens from any artwork
