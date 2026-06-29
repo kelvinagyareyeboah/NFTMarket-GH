@@ -1,7 +1,4 @@
 t |
-| Storage | IPFS |
-| Web3 Integration | Web3.js |
-
 ---
 
 ## Getting Started
