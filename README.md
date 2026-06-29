@@ -1,4 +1,4 @@
-# NFTMarket GH
+
 
 **A decentralized NFT minting and trading platform built for Ghanaian artists.**
 
