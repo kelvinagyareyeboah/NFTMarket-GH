@@ -1,5 +1,4 @@
-
-- Decentralized storage via IPFS 📦
+storage via IPFS 📦
 - Ownership history tracking on Rinkeby testnet 📜
 - User-friendly React frontend 🚀
 
