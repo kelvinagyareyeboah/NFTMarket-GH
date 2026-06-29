@@ -1,6 +1,4 @@
-e the repository
-
-# 2. Install dependencies
+tall dependencies
 npm install
 
 # 3. Deploy smart contracts to Rinkeby
