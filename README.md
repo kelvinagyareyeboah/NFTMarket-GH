@@ -1,5 +1,4 @@
-
-- User-friendly React frontend 🚀
+end 🚀
 
 ## Tech Stack 🛠️
 - **Blockchain**: Solidity, Ethereum Rinkeby
