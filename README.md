@@ -1,6 +1,4 @@
-end 🚀
-, Ethereum Rinkeby
-- **Frontend**: React
+*: React
 - **Storage**: IPFS
 - **Integration**: Web3.js
 
