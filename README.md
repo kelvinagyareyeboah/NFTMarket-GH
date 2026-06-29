@@ -1,3 +1,3 @@
 
 4. Launch 
-Empowers local artists to tokenize their work wittnsparent ownership ledge
+Empowers local artists to tokenize their work wittnsparent ownership l
