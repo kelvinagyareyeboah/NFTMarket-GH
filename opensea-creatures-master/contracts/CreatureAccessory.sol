@@ -1,5 +1,4 @@
-alldata newURI) external onlyOwner {
-        _setURI(newURI);
+
         emit BaseURIUpdated(newURI);
     }
 
