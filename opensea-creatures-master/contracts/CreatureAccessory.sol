@@ -1,7 +1,4 @@
 
-    /**
-    funct
-        uint256 tokenId,
         uint256 amount,
         bytes memory data
     ) external onlyOwner whenNotPaused {
