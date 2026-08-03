@@ -1,5 +1,5 @@
 
-    ERC1155Tradable,
+    ERC1155T
     Ownable,
 
 {
