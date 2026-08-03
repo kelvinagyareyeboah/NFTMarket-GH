@@ -1,7 +1,6 @@
 
     /**
-    function mint(
-        address to,
+    funct
         uint256 tokenId,
         uint256 amount,
         bytes memory data
