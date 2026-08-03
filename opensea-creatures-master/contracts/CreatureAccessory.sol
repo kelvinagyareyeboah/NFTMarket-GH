@@ -5,9 +5,7 @@
 import "./ERC1155Tradable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/security/Pausable.sol";
-import "@openzeppelin/contracts/interfaces/IERC2981.sol";
-
-/**
+import "@openzeppelin/contracts/interfaces
  * @tit
  * @author Kelvin
  * @notice Advanced ERC1155 accessory contract with supply tracking,
