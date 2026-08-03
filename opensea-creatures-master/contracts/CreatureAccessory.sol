@@ -1,7 +1,4 @@
 
-        emit BaseURIUpdated(newURI);
-    }
-
     function setRoyalty(address receiver, uint96 fee) external onlyOwner {
         require(fee <= 1000, "Max 10%");
         royaltyReceiver = receiver;
