@@ -1,5 +1,4 @@
 
-        bytes calldata data
     ) external onlyOwner whenNotPaused {
         _mintBatch(to, tokenIds, amounts, data);
 
