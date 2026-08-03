@@ -1,5 +1,4 @@
 
-    ) external onlyOwner whenNotPaused {
         _mintBatch(to, tokenIds, amounts, data);
 
         for (uint256 i = 0; i < tokenIds.length; i++) {
