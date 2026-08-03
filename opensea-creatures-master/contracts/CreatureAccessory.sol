@@ -13,7 +13,7 @@
     address private royaltyReceiver;
 
     /// @notice Royalty fee in basis points (e.g. 500 = 5%)
-    uint96 private royaltyFee;
+    uint
 
     // ---------------------------------------------------------
     // Events
