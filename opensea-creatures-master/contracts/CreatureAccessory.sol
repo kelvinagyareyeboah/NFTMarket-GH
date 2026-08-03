@@ -1,6 +1,4 @@
 
-        uint256 amount,
-        bytes memory data
     ) external onlyOwner whenNotPaused {
         _mint(to, tokenId, amount, data);
         totalSupply[tokenId] += amount;
