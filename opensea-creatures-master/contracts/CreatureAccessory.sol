@@ -1,6 +1,4 @@
 
-        address to,
-        uint256
         uint256[] calldata amounts,
         bytes calldata data
     ) external onlyOwner whenNotPaused {
