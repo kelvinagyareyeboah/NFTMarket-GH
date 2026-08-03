@@ -1,7 +1,6 @@
 
       
-        royaltyReceiver = msg.sender;
-        royaltyFee = 500; // 5%
+        royaltyReceiver = msg.sen
     }
 
     // ---------------------------------------------------------
