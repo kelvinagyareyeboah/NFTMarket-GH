@@ -1,6 +1,4 @@
-ss
-     */
-    function mintBatch(
+
         address to,
         uint256[] calldata tokenIds,
         uint256[] calldata amounts,
