@@ -1,7 +1,5 @@
 
-            _proxyRegistryAddress
-        )
-    {
+      
         royaltyReceiver = msg.sender;
         royaltyFee = 500; // 5%
     }
