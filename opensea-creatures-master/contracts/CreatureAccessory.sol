@@ -1,5 +1,4 @@
 
-import "@openzeppelin/contracts/interfaces
  * @tit
  * @author Kelvin
  * @notice Advanced ERC1155 accessory contract with supply tracking,
