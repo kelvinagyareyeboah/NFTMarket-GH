@@ -1,7 +1,5 @@
 
 // ---------------------------------------------------------
-// Imports
-// ---------------------------------------------------------
 import "./ERC1155Tradable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/security/Pausable.sol";
