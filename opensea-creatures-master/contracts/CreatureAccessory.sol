@@ -1,6 +1,4 @@
 
-
-        for (uint256 i = 0; i < tokenIds.length; i++) {
             totalSupply[tokenIds[i]] += amounts[i];
             emit Minted(to, tokenIds[i], amounts[i]);
         }
