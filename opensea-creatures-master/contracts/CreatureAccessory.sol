@@ -1,6 +1,4 @@
 
-        uint256 amount
-    ) external {
         require(
             from == msg.sender || isApprovedForAll(from, msg.sender),
             "Not authorized"
