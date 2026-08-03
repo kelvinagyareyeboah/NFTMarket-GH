@@ -1,5 +1,4 @@
---------------------------------------------
-    // Constr-----------------------------------------
+
 
     constructor(address _proxyRegistryAddress)
         ERC1155Tradable(
