@@ -1,7 +1,4 @@
-
-
-    /**
-     * @notice Batch mint multiple token IDs
+ mint multiple token IDs
      */
     function mintBatch(
         address to,
