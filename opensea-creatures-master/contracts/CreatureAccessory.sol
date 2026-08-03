@@ -1,8 +1,4 @@
 
-    // ---------------------------------------------------------
-
-    /**
-     * @notice Burn tokens you own
      */
     function burn(
         address from,
