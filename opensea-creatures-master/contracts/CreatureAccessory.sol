@@ -1,10 +1,4 @@
-ID
-    mapping(uint256 => uint256) public totalSupply;
-
-    /// @notice Royalty receiver
-    address private royaltyReceiver;
-
-    /// @notice Royalty fee in basis points (e.g. 500 = 5%)
+ fee in basis points (e.g. 500 = 5%)
     uint
 
     // ---------------------------------------------------------
