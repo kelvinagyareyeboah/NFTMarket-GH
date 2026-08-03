@@ -1,5 +1,4 @@
-----------------------------
-        address indexed to,
+-----------------------
         uint256 indexed 
 
     event Burned(
