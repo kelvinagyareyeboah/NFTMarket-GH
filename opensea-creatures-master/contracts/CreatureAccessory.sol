@@ -1,7 +1,4 @@
-ct with supply tracking,
- *         royalties, pausability, and owner-controlled minting.
- */
-contract CreatureAccessory is
+
     ERC1155Tradable,
     Ownable,
     Pausable,
