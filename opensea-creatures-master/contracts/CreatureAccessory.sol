@@ -1,8 +1,6 @@
 ----------------------------
         address indexed to,
-        uint256 indexed tokenId,
-        uint256 amount
-    );
+        uint256 indexed 
 
     event Burned(
         address indexed from,
