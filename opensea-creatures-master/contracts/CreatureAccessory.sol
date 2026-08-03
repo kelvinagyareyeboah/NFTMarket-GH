@@ -1,5 +1,4 @@
 
-        totalSupply[tokenId] += amount;
 
         emit Minted(to, tokenId, amount);
     }
