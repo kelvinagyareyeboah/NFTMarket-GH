@@ -1,6 +1,4 @@
-
-    event Bas
-    event RoyaltyUpdated(address receiver, uint96 fee);
+s receiver, uint96 fee);
 
     // ---------------------------------------------------------
     // Constructor
