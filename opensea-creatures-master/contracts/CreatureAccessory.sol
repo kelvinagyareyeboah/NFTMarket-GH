@@ -1,5 +1,4 @@
-
-            "OpenSea Creature Accessory",
+Creature Accessory",
             "OSCA",
             "https://creatures-api.opensea.io/api/accessory/{id}",
             _proxyRegistryAddress
