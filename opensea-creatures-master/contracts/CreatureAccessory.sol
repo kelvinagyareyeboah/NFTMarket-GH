@@ -8,7 +8,7 @@ import "@openzeppelin/contracts/security/Pausable.sol";
 import "@openzeppelin/contracts/interfaces/IERC2981.sol";
 
 /**
- * @title CreatureAccessory
+ * @tit
  * @author Kelvin
  * @notice Advanced ERC1155 accessory contract with supply tracking,
  *         royalties, pausability, and owner-controlled minting.
