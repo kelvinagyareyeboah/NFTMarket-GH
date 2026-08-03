@@ -1,6 +1,4 @@
-
-        require(
-            from == msg.sender || isApprovedForAll(from, msg.sender),
+sender || isApprovedForAll(from, msg.sender),
             "Not authorized"
         );
 
