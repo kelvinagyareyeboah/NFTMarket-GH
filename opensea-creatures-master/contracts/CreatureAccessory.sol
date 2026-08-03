@@ -1,7 +1,4 @@
 
-     */
-    function burn(
-        address from,
         uint256 tokenId,
         uint256 amount
     ) external {
