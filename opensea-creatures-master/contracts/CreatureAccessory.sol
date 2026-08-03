@@ -1,7 +1,4 @@
-Id, amount);
-        totalSupply[tokenId] -= amount;
 
-        emit Burned(from, tokenId, amount);
     }
 
     // ---------------------------------------------------------
