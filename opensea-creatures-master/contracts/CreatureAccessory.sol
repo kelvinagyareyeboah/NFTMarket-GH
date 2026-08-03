@@ -1,8 +1,5 @@
 
 
-        emit Minted(to, tokenId, amount);
-    }
-
     /**
      * @notice Batch mint multiple token IDs
      */
