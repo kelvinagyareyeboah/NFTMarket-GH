@@ -1,5 +1,4 @@
-sender || isApprovedForAll(from, msg.sender),
-            "Not authorized"
+horized"
         );
 
         _burn(from, tokenId, amount);
