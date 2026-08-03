@@ -1,7 +1,5 @@
 
     /**
-     * @notice Mint a specific amount of a token ID
-     */
     function mint(
         address to,
         uint256 tokenId,
