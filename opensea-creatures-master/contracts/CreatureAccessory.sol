@@ -1,5 +1,4 @@
-
- * @notice Advanced ERC1155 accessory contract with supply tracking,
+ct with supply tracking,
  *         royalties, pausability, and owner-controlled minting.
  */
 contract CreatureAccessory is
