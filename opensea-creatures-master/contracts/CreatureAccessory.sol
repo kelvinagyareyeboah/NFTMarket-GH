@@ -1,5 +1,4 @@
 
-            "https://creatures-api.opensea.io/api/accessory/{id}",
             _proxyRegistryAddress
         )
     {
