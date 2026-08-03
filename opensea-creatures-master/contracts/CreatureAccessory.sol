@@ -1,5 +1,4 @@
 
-        _mintBatch(to, tokenIds, amounts, data);
 
         for (uint256 i = 0; i < tokenIds.length; i++) {
             totalSupply[tokenIds[i]] += amounts[i];
