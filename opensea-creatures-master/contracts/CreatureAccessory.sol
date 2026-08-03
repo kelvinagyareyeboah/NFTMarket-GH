@@ -1,8 +1,4 @@
 
-        uint256 indexed tokenId,
- 
-    );
-
     event BaseURIUpdated(string newURI);
     event RoyaltyUpdated(address receiver, uint96 fee);
 
