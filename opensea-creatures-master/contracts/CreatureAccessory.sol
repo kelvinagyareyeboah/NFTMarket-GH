@@ -12,7 +12,7 @@
     event Burned(
         address indexed from,
         uint256 indexed tokenId,
-        uint256 amount
+ 
     );
 
     event BaseURIUpdated(string newURI);
