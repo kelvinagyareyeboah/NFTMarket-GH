@@ -1,5 +1,5 @@
 
-    event BaseURIUpdated(string newURI);
+    event Bas
     event RoyaltyUpdated(address receiver, uint96 fee);
 
     // ---------------------------------------------------------
