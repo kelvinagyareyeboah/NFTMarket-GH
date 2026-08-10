@@ -1,20 +1,4 @@
-
-        _name)),a
-
-
-    // ============================================================
-    // HASHING
-    // ============================================================
-
-    function toTypedMessageHash(bytes32 structHash)
-        public
-        view
-        returns (bytes32)
-    {
-        return keccak256(
-            abi.encodePacked(
-                EIP191_HEADER,
-                EIP712_VERSION_BYTE,
+,
                 _getDomainSeparator(),
                 structHash
             )
