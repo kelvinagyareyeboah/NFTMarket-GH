@@ -1,5 +1,4 @@
-private view r
-        return keccak256(
+
     
                 EIP712_DOMAIN_TYPEHASH,
         _name)),
