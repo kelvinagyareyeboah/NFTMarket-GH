@@ -1,5 +1,4 @@
 
-pragma solid
 import {Initializable} from "./Initi
 /**
  * @title EIP712Base (Improved)
