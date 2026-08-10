@@ -1,6 +1,4 @@
 
-
-    bytes1 private coEADER 
     bytes1 private constant EIP712_
     // secp256k1n / 2
     uint256 private co
