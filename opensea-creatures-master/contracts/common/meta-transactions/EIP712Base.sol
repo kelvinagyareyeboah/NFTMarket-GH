@@ -1,5 +1,4 @@
-g memory name) internal initializer {
-        if (_initializ
+
         _name = name;
         _initialChainId = block.chainid;
         _domainSeparator = _buildDomainSeparator();
