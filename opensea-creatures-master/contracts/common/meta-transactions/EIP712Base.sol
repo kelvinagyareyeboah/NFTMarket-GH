@@ -1,5 +1,4 @@
-Id;
-    string private _name;
+
     bool private _initialized;
 
     // ============================================================
