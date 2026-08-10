@@ -1,5 +1,4 @@
-
-        _initialChainId = block.chainid;
+.chainid;
         _domainSeparator = _buildDomainSeparator();
 
         _initialized = true;
