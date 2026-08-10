@@ -1,7 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solid
-import {Initializable} from "./Initializable.sol";
-
+import {Initializable} from "./Initi
 /**
  * @title EIP712Base (Improved)
  * @dev Optimized and secure EIP-712 implementation
