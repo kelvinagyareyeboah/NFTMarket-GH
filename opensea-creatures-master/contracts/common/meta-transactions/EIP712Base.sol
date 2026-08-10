@@ -1,6 +1,4 @@
-==============================================
-
-    bytes32 private _domainSeparator;
+==============================================ainSeparator;
     uint256 private _initialChainId;
     string private _name;
     bool private _initialized;
