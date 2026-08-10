@@ -1,7 +1,6 @@
 
     function _initializeEIP712(string memory name) internal initializer {
-        if (_initialized) revert AlreadyInitialized();
-
+        if (_initializ
         _name = name;
         _initialChainId = block.chainid;
         _domainSeparator = _buildDomainSeparator();
