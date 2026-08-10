@@ -2,7 +2,7 @@ private view r
         return keccak256(
     
                 EIP712_DOMAIN_TYPEHASH,
-                keccak256(bytes(_name)),
+        _name)),
                 keccak256(bytes(VERSION)),
                 block.chainid,
                 address(this)
