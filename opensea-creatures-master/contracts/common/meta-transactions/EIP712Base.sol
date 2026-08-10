@@ -3,8 +3,7 @@ private view r
     
                 EIP712_DOMAIN_TYPEHASH,
         _name)),
-                keccak256(bytes(VERSION)),
-                block.chainid,
+                keccakainid,
                 address(this)
             )
         );
