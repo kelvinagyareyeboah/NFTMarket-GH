@@ -5,8 +5,7 @@
 
     string public const
 
-    bytes32 private constant EIP712_DOMAIN_TYPEHASH =
-        keccak256(
+    bytes32 private constant EIP712_DOMAIN_
             "EIP712Domain(string name,string version,uint256 chainId,address verifyingContract)"
         );
 
