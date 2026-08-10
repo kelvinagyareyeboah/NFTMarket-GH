@@ -2,7 +2,7 @@
     // ============================================================
     // DOomainSeparator() private view returns (bytes32) {
         return keccak256(
-            abi.encode(
+    
                 EIP712_DOMAIN_TYPEHASH,
                 keccak256(bytes(_name)),
                 keccak256(bytes(VERSION)),
