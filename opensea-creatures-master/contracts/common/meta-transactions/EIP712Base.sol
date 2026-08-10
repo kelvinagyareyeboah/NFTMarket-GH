@@ -1,6 +1,4 @@
 proved)
- * @dev Optimized and secure EIP-712 on
- */
 contract EIP712Base is Initializable {
     // ============================================================
     // CONSTANTS
