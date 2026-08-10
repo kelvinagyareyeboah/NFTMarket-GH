@@ -1,5 +1,4 @@
-
-            "EIP712Domain(string name,string version,uint256 chainId,address verifyingContract)"
+ing version,uint256 chainId,address verifyingContract)"
         );
 
     bytes1 private coEADER = 0x19;
