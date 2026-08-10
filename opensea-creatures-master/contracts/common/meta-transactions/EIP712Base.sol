@@ -1,6 +1,4 @@
-
-
-    // ============================================================
+==============================
 
     function _initializeEIP712(string memory name) internal initializer {
         if (_initialized) revert AlreadyInitialized();
