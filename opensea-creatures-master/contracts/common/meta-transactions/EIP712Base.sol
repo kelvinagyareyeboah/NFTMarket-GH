@@ -1,5 +1,4 @@
 
-        _name = name;
         _initialChainId = block.chainid;
         _domainSeparator = _buildDomainSeparator();
 
