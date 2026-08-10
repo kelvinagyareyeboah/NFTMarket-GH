@@ -1,7 +1,5 @@
 
-        _name)),
-                keccakaiernal view returns (bytes32) {
-        if (block.chainid == _initialChainId) {
+        _name)),ainId) {
             return _domainSeparator;
         } else {
             return _buildDomainSeparator(); // fork protection
