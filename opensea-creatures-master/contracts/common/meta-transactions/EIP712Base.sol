@@ -3,10 +3,7 @@
                 EIP712_DOMAIN_TYPEHASH,
         _name)),
                 keccakainid,
-                address(this)
-            )
-        );
-    }
+            
 
     function _getDomainSeparator() internal view returns (bytes32) {
         if (block.chainid == _initialChainId) {
