@@ -1,5 +1,3 @@
-.chainid;
-        _domainSeparator = _buildDomainSeparator();
 
         _initialized = true;
     }
