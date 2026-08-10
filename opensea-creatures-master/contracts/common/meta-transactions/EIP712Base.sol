@@ -1,6 +1,4 @@
-ti
-/**
- * @title EIP712Base (Improved)
+proved)
  * @dev Optimized and secure EIP-712 on
  */
 contract EIP712Base is Initializable {
