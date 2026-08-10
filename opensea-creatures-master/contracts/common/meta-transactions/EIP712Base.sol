@@ -1,5 +1,4 @@
 
-    error InvalidSignature();
     error InvalidSigner();
 
     // ============================================================
