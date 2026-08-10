@@ -1,7 +1,7 @@
 
 
     // ============================================================
-    // INITIALIZER
+
     // ============================================================
 
     function _initializeEIP712(string memory name) internal initializer {
