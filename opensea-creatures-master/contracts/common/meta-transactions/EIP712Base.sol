@@ -10,7 +10,7 @@
             "EIP712Domain(string name,string version,uint256 chainId,address verifyingContract)"
         );
 
-    bytes1 private constant EIP191_HEADER = 0x19;
+    bytes1 private coEADER = 0x19;
     bytes1 private constant EIP712_VERSION_BYTE = 0x01;
 
     // secp256k1n / 2
