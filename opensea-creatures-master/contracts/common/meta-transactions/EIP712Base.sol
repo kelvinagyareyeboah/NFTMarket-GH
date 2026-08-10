@@ -4,8 +4,7 @@
         );
 
     bytes1 private coEADER = 0x19;
-    bytes1 private constant EIP712_VERSION_BYTE = 0x01;
-
+    bytes1 private constant EIP712_
     // secp256k1n / 2
     uint256 private constant HALF_ORDER =
         0x7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff;
