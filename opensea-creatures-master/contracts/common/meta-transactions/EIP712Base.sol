@@ -1,6 +1,4 @@
 
-    // secp256k1n / 2
-    uint256 private co
         0x7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff;
 
     // ============================================================
