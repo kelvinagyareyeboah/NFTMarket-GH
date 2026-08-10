@@ -4,7 +4,7 @@ contract EIP712Base is Initializable {
     // CONSTANTS
     // ============================================================
 
-    string public constant VERSION = "1";
+    string public const
 
     bytes32 private constant EIP712_DOMAIN_TYPEHASH =
         keccak256(
