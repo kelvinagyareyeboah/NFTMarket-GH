@@ -1,5 +1,4 @@
-
-    function _initializeEIP712(string memory name) internal initializer {
+g memory name) internal initializer {
         if (_initializ
         _name = name;
         _initialChainId = block.chainid;
