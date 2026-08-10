@@ -1,5 +1,4 @@
-
-    // DOomainSeparator() private view returns (bytes32) {
+private view returns (bytes32) {
         return keccak256(
     
                 EIP712_DOMAIN_TYPEHASH,
