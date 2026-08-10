@@ -2,8 +2,6 @@
         _name)),ainId) {
             return _domainSeparator;
         } else {
-            return _buildDomainSeparator(); // fork protection
-        }
     }
 
     function getDomainSeparator() external view returns (bytes32) {
