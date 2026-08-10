@@ -1,6 +1,4 @@
 
-    
-                EIP712_DOMAIN_TYPEHASH,
         _name)),
                 keccakainid,
             
