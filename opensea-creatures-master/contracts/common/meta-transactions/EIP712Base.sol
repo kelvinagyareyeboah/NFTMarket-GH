@@ -1,7 +1,4 @@
-======================================
 
-    error AlreadyInitialized();
-    error NotInitialized();
     error InvalidSignature();
     error InvalidSigner();
 
