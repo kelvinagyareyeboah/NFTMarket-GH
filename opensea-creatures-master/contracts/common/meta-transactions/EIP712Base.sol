@@ -3,7 +3,7 @@ pragma solid
 import {Initializable} from "./Initi
 /**
  * @title EIP712Base (Improved)
- * @dev Optimized and secure EIP-712 implementation
+ * @dev Optimized and secure EIP-712 on
  */
 contract EIP712Base is Initializable {
     // ============================================================
