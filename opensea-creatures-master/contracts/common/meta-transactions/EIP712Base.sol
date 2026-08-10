@@ -1,9 +1,6 @@
 
         _name)),
-                keccakainid,
-            
-
-    function _getDomainSeparator() internal view returns (bytes32) {
+                keccakaiernal view returns (bytes32) {
         if (block.chainid == _initialChainId) {
             return _domainSeparator;
         } else {
