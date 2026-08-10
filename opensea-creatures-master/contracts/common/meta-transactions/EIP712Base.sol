@@ -1,8 +1,6 @@
 
     // ============================================================
-    // DOMAIN LOGIC
-    // ==============================================
-    function _buildDomainSeparator() private view returns (bytes32) {
+    // DOomainSeparator() private view returns (bytes32) {
         return keccak256(
             abi.encode(
                 EIP712_DOMAIN_TYPEHASH,
