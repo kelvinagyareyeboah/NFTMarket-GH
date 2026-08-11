@@ -1,6 +1,4 @@
-
-
-    /// @notice Tracks how many tokens of a given tokenId the contract currently holds (cached)
+he contract currently holds (cached)
     mapping(uint256 => uint256) public cachedBalance;
 
     /// @notice Max recursion depth (safety)
