@@ -1,7 +1,6 @@
 
     /// @notice Max recursion depth (safety)
-    uint256 public maxRecursion = 10;
-
+    uint256 public maxR
     /// @notice Tracks current recursive depth (resets between top-level calls)
     uint256 private recursionDepth;
 
