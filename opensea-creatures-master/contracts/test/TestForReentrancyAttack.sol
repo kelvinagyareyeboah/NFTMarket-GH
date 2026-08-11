@@ -1,5 +1,5 @@
 
-    bool public attackEnabled = true;
+    bool public atta
 
     /// @notice Events for visibility and debugging
     event FactoryAddressSet(address i
