@@ -1,7 +1,4 @@
-
-
-    event FactoryAddr
-    event AttackEnabledSet(bool enabled);
+Set(bool enabled);
     event Totaint256 total);
     eventuin
     event Attack
