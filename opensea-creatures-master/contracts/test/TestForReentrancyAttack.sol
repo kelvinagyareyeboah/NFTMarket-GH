@@ -1,5 +1,4 @@
-riginal code
-    function mint(uint256 optionId, address to, uint256 amount, bytes calldata data) external;
+ionId, address to, uint256 amount, bytes calldata data) external;
 }
 
 /// @title TestForReentrancyAttack
