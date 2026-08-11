@@ -1,6 +1,4 @@
-pth at start
-        emit AttackStarted(optionId);
-        factory.mint(optionId, address(this), amount, "");
+pth at startmount, "");
     }
 
     /// @inheritdoc IERC1155Receiver
