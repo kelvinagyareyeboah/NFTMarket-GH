@@ -1,4 +1,4 @@
-ecursionDepth;
+
 
     /// @notice Whether the attack behavior is enabled
     bool public attackEnabled = true;
