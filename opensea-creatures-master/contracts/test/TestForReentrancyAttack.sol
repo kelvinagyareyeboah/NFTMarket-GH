@@ -1,5 +1,4 @@
 
-        require(_factory != address(0), "zero address");
         factory = ICreatureAccessoryFactory(_factory);
         emit FactoryAddressS
     }
