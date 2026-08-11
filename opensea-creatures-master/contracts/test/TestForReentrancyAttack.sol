@@ -1,7 +1,4 @@
-
-
-    /// @notice Owner triggers an initial mint from the factory to start the flow.
-    /// @param optionId The factory option (your original code used `1` as the lootbox option)
+riginal code used `1` as the lootbox option)
     /// @param amount Amount to request (usually 1)
     function startAttack(uint256 optionId, uint256 amount) external onlyOwner {
         require(address(factory) != address(0), "factory not set");
