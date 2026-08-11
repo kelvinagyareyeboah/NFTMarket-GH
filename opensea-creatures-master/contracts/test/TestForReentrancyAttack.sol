@@ -1,6 +1,5 @@
 contracts/token/ERC1155/IERC1155Receiver.sol";
-
-interface ICreatureAccessoryFactory {
+ {
     /// @notice expected si your original code
     function mint(uint256 optionId, address to, uint256 amount, bytes calldata data) external;
 }
