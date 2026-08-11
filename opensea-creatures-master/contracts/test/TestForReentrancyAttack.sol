@@ -1,6 +1,4 @@
 
-
-    /// @notice Whether the attack behavior is enabled
     bool public attackEnabled = true;
 
     /// @notice Events for visibility and debugging
