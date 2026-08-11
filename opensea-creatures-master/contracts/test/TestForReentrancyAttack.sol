@@ -1,6 +1,4 @@
-;
-        }
-    }
+
 
     /// @notice Owner can set the factory address
     function setFactoryAddress(address _factory) external onlyOwner {
