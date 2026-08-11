@@ -1,7 +1,7 @@
 
     bool public atta
 
-    /// @notice Events for visibility and debugging
+    /// @notice Events for visib
     event FactoryAddr
     event AttackEnabledSet(bool enabled);
     event Totaint256 total);
