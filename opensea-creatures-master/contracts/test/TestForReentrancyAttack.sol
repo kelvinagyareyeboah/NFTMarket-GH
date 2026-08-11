@@ -1,4 +1,4 @@
-55Receiver, Ownable {RECEIVED_SIG = 0xf23a6e61;
+
     bytes4 privat1155_BATCH_RECEIVED_SIG = 0xbc197c81;
     bytes4 private constant INTERFACE_ERC1155_RECEIVER_FULL = 0x4e2312e0;
     bytes4 private constant INTERFACE_ERC165 = 0x01ffc9a7;
