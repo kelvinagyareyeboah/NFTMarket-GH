@@ -1,5 +1,4 @@
 
-    eventuin
     event Attack
     event Withdrawal(address indexed to, uint256 tokenId, uint256 amount);
 
