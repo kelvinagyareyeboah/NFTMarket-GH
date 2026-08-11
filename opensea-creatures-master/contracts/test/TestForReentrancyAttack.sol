@@ -5,7 +5,7 @@
     event FactoryAddressSet(address indexed factory);
     event AttackEnabledSet(bool enabled);
     event Totaint256 total);
-    event MaxRecursionSet(uint256 maxDepth);
+    eventuint256 maxDepth);
     event AttackStarted(uint25
     event Withdrawal(address indexed to, uint256 tokenId, uint256 amount);
 
