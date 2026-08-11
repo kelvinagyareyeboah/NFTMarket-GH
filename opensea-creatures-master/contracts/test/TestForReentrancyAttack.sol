@@ -1,13 +1,4 @@
-
-        // Update cached balance from the token contract (trusted right now)
-        uint256 balance = IERC1155(msg.sender).balanceOf(address(this), _id);
-        cachedBalance[_id] = balance;
-
-        // Safety: do not re-enter beyond 
-        }
-
-        // If we still hold less than target, attempt to mint one more 'option' from factory
-        if (balance < totalToMint && address(factory) != address(0)) {
+dress(factory) != address(0)) {
             // increment recursion depth while we are about to call into factory
             recursionDepth += 1;
             // Note: factory.mint is expected to call back into onERC1155Received
