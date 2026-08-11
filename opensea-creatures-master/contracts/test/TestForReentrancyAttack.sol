@@ -1,7 +1,4 @@
-
-nt to acquire before stopping
-    function setTotalToMint(uint256 _totalToMint) external onlyOwner {
-        require(_totalToMint > 0, 0");
+ 0");
         totalToMint = _totalToMint;
         emit TotalToMintSet(_totalToMint);
     }
