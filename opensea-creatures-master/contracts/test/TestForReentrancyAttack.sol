@@ -1,6 +1,5 @@
+s
 
-    /// @notice Factory contract (must implement ICreatureAccessoryFactory.mint)
-    ICreatureAccessoryFactory public factory;
 
     /// @notice Target total balance per token id before stopping reentrancy attempts
     uint256 public totalToMint = 3;
