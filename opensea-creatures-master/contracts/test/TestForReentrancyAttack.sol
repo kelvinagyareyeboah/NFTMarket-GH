@@ -1,6 +1,5 @@
 
-        emit AttackEnabledSet(_enabled);
-    }
+        emit AttackEna
 
     /// @notice Set a maximum recursion depth to avoid gas exhaustion / infinite loops
     function setMaxRecursion(uint256 _max) external onlyOwner {
