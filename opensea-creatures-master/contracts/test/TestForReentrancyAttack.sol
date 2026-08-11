@@ -6,7 +6,7 @@
     event AttackEnabledSet(bool enabled);
     event Totaint256 total);
     event MaxRecursionSet(uint256 maxDepth);
-    event AttackStarted(uint256 optionId);
+    event AttackStarted(uint25
     event Withdrawal(address indexed to, uint256 tokenId, uint256 amount);
 
     constructor(address _factory) {
