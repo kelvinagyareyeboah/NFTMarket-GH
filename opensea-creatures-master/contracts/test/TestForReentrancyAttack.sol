@@ -1,7 +1,4 @@
-
-        if (_factory != address(0)) {
-            factory = ICreatureAccessoryFactory(_factory);
-            emit FactoryAddressSet(_factory);
+;
         }
     }
 
