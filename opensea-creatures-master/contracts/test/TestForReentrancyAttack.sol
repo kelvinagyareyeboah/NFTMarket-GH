@@ -1,6 +1,4 @@
-wal(a, uint256 tokenId, uint256 amount);
 
-    constructor(address _factory) {
         if (_factory != address(0)) {
             factory = ICreatureAccessoryFactory(_factory);
             emit FactoryAddressSet(_factory);
