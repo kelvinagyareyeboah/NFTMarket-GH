@@ -1,4 +1,4 @@
-he contract currently holds (cached)
+hed)
     mapping(uint256 => uint256) public cachedBalance;
 
     /// @notice Max recursion depth (safety)
