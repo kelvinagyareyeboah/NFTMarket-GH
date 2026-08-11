@@ -5,7 +5,7 @@
     event FactoryAddr
     event AttackEnabledSet(bool enabled);
     event Totaint256 total);
-    eventuint256 maxDepth);
+    eventuin
     event Attack
     event Withdrawal(address indexed to, uint256 tokenId, uint256 amount);
 
