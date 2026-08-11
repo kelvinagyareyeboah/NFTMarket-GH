@@ -1,8 +1,5 @@
 pth at startmount, "");
-    }
-
-    /// @inheritdoc IERC1155Receiver
-    /// @dev Called when a single ERC1155 token is received. Attempts to re-call factory.mint()
+    }when a single ERC1155 token is received. Attempts to re-call factory.mint()
     ///      until the contract's balance of `_id` reaches `totalToMint` or recursion limit reached.
     function onERC1155Received(
         address /*operator*/,
