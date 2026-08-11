@@ -1,5 +1,4 @@
-n/ERC1155/IERC1155.sol";
-import "@openzeppelin/contracts/token/ERC1155/IERC1155Receiver.sol";
+contracts/token/ERC1155/IERC1155Receiver.sol";
 
 interface ICreatureAccessoryFactory {
     /// @notice expected si your original code
