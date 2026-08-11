@@ -1,5 +1,4 @@
- 0");
-        totalToMint = _totalToMint;
+
         emit TotalToMintSet(_totalToMint);
     }
 
