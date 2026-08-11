@@ -1,4 +1,4 @@
-sance per token id before stopping reentrancy attempts
+
     uint256 public totalToMint = 3;
 
     /// @notice Tracks how many tokens of a given tokenId the contract currently holds (cached)
