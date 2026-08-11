@@ -1,7 +1,4 @@
-
-    uint256 public maxR
-    /// @notice Tracks current recursive depth (resets between top-level calls)
-    uint256 private recursionDepth;
+ecursionDepth;
 
     /// @notice Whether the attack behavior is enabled
     bool public attackEnabled = true;
