@@ -1,5 +1,4 @@
-rols, counters and safety limits.
-contract TestForReentrancyAttack is IERC1155Receiver, Ownable {
+55Receiver, Ownable {
     // ERC-1155 receiver return signatures
     bytes4 private constant ERC1155_RECEIVED_SIG = 0xf23a6e61;
     bytes4 private constant ERC1155_BATCH_RECEIVED_SIG = 0xbc197c81;
