@@ -1,6 +1,4 @@
-wner {
-        require(_max > 0,
-    }
+
 
     /// @notice Owner triggers an initial mint from the factory to start the flow.
     /// @param optionId The factory option (your original code used `1` as the lootbox option)
