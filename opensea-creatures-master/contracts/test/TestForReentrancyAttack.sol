@@ -1,6 +1,4 @@
-,
-        uint256 _id,
-        uint256 /*value*/,
+
         bytes calldata /*data*/
     ) external override returns (bytes4) {
         // If attack behavior is disabled, simply return the selector.
