@@ -6,7 +6,7 @@
     event AttackEnabledSet(bool enabled);
     event Totaint256 total);
     eventuint256 maxDepth);
-    event AttackStarted(uint25
+    event Attack
     event Withdrawal(address indexed to, uint256 tokenId, uint256 amount);
 
     constructor(address _factory) {
