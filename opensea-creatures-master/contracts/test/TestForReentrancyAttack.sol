@@ -2,7 +2,7 @@
     bool public atta
 
     /// @notice Events for visibility and debugging
-    event FactoryAddressSet(address i
+    event FactoryAddr
     event AttackEnabledSet(bool enabled);
     event Totaint256 total);
     eventuint256 maxDepth);
