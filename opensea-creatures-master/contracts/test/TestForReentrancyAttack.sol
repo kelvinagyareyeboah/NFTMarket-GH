@@ -1,13 +1,4 @@
-dress(factory) != address(0)) {
-            // increment recursion depth while we are about to call into factory
-            recursionDepth += 1;
-            // Note: factory.mint is expected to call back into onERC1155Received
-            // which will again check recursionDepth and cached balances.
-            try factory.mint(1, address(this), 1, "") {
-                // success - nothing to do
-            } catch {
-                // swallow errors; do not revert the receipt
-            }
+
             // decrement after returning from attempt
             recursionDepth -= 1;
         }
