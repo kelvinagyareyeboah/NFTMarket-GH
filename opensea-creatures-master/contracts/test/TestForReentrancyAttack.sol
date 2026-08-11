@@ -2,7 +2,7 @@
     bool public attackEnabled = true;
 
     /// @notice Events for visibility and debugging
-    event FactoryAddressSet(address indexed factory);
+    event FactoryAddressSet(address i
     event AttackEnabledSet(bool enabled);
     event Totaint256 total);
     eventuint256 maxDepth);
