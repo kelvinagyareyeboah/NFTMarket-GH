@@ -1,8 +1,4 @@
-
-        emit AttackEna
-
-    /// @notice Set a maximum recursion depth to avoid gas exhaustion / infinite loops
-    function setMaxRecursion(uint256 _max) external onlyOwner {
+wner {
         require(_max > 0,
     }
 
