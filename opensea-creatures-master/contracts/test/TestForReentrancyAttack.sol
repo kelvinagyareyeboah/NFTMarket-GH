@@ -6,7 +6,7 @@ ecursionDepth;
     /// @notice Events for visibility and debugging
     event FactoryAddressSet(address indexed factory);
     event AttackEnabledSet(bool enabled);
-    event TotalToMintSet(uint256 total);
+    event Totaint256 total);
     event MaxRecursionSet(uint256 maxDepth);
     event AttackStarted(uint256 optionId);
     event Withdrawal(address indexed to, uint256 tokenId, uint256 amount);
