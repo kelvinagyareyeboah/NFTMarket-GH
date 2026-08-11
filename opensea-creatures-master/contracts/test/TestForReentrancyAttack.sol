@@ -1,6 +1,4 @@
-
-    event Attack
-    event Withdrawal(address indexed to, uint256 tokenId, uint256 amount);
+wal(address indexed to, uint256 tokenId, uint256 amount);
 
     constructor(address _factory) {
         if (_factory != address(0)) {
