@@ -1,6 +1,4 @@
 
-    bytes4 privat1155_BATCH_RECEIV
-
     /// @notice Factory contract (must implement ICreatureAccessoryFactory.mint)
     ICreatureAccessoryFactory public factory;
 
