@@ -1,6 +1,5 @@
 
 
-    /// @notice Events for visib
     event FactoryAddr
     event AttackEnabledSet(bool enabled);
     event Totaint256 total);
