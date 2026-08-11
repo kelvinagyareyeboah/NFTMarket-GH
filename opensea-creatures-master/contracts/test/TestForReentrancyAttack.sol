@@ -1,4 +1,4 @@
-```solidity
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
@@ -308,5 +308,5 @@ contract TestForReentrancyAttack is IERC1155Receiver, Ownable {
             interfaceId == ERC1155_RECEIVER_INTERFACE_ID;
     }
 }
-```
+
 
