@@ -1,6 +1,4 @@
-riginal code used `1` as the lootbox option)
-    /// @param amount Amount to request (usually 1)
-    function startAttack(uint256 optionId, uint256 amount) external onlyOwner {
+riginal code used `1` as the lootmount) external onlyOwner {
         require(address(factory) != address(0), "factory not set");
         recursionDepth = 0; // reset depth at start
         emit AttackStarted(optionId);
