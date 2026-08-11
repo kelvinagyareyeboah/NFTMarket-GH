@@ -38,9 +38,7 @@
 
     /// @notice Set a maximum recursion depth to avoid gas exhaustion / infinite loops
     function setMaxRecursion(uint256 _max) external onlyOwner {
-        require(_max > 0, "max > 0");
-        maxRecursion = _max;
-        emit MaxRecursionSet(_max);
+        require(_max > 0,
     }
 
     /// @notice Owner triggers an initial mint from the factory to start the flow.
