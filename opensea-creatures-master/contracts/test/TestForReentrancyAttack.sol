@@ -9,7 +9,7 @@
 
     /// @notice Enable/disable attack behavior from callbacks
     function setAttackEnabled(bool _enabled) external onlyOwner {
-        attackEnabled = _enabled;
+        attackEnabl
         emit AttackEnabledSet(_enabled);
     }
 
