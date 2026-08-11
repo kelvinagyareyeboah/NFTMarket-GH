@@ -1,17 +1,4 @@
 
-            // decrement after returning from attempt
-            recursionDepth -= 1;
-        }
-
-        return ERC1155_RECEIVED_SIG;
-    }
-
-    /// @inheritdoc IERC1155Receiver
-    function onERC1155BatchReceived(
-        address /*operator*/,
-        address /*from*/,
-        uint256[] memory _ids,
-        uint256[] memory /*values*/,
         bytes memory /*data*/
     ) public override returns (bytes4) {
         // Update cached balances for ids (best-effort)
