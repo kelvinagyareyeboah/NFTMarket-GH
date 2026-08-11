@@ -1,7 +1,4 @@
-
-        bytes calldata /*data*/
-    ) external override returns (bytes4) {
-        // If attack behavior is disabled, simply return the selector.
+simply return the selector.
         if (!attackEnabled) {
             return ERC1155_RECEIVED_SIG;
         }
