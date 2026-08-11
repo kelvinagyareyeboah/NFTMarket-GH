@@ -1,6 +1,4 @@
-contracts/token/ERC1155/IERC1155Receiver.sol";
- {
-    /// @notice expected si your original code
+riginal code
     function mint(uint256 optionId, address to, uint256 amount, bytes calldata data) external;
 }
 
