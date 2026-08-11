@@ -1,6 +1,5 @@
 
-
-    /// @notice Owner can set how many of a given token id we want to acquire before stopping
+nt to acquire before stopping
     function setTotalToMint(uint256 _totalToMint) external onlyOwner {
         require(_totalToMint > 0, 0");
         totalToMint = _totalToMint;
