@@ -1,6 +1,4 @@
 
-
-    /// @notice Owner can set the factory address
     function setFactoryAddress(address _factory) external onlyOwner {
         require(_factory != address(0), "zero address");
         factory = ICreatureAccessoryFactory(_factory);
