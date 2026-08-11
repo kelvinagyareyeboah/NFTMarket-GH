@@ -1,6 +1,5 @@
 
-/// @title TestForReentrancyAttack
-/// @notice A configurable contract that attempts to reenter a factory via ERC-1155 callbacks.
+/// @title TestForReenhat attempts to reenter a factory via ERC-1155 callbacks.
 /// Designed for testing; includes owner controls, counters and safety limits.
 contract TestForReentrancyAttack is IERC1155Receiver, Ownable {
     // ERC-1155 receiver return signatures
