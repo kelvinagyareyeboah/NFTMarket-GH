@@ -1,5 +1,4 @@
 
-    uint256 public totalToMint = 3;
 
     /// @notice Tracks how many tokens of a given tokenId the contract currently holds (cached)
     mapping(uint256 => uint256) public cachedBalance;
