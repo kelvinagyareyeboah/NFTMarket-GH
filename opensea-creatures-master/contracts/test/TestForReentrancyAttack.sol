@@ -1,5 +1,3 @@
-ionId, address to, uint256 amount, bytes calldata data) external;
-}
 
 /// @title TestForReentrancyAttack
 /// @notice A configurable contract that attempts to reenter a factory via ERC-1155 callbacks.
