@@ -1,5 +1,4 @@
 
-    bool public atta
 
     /// @notice Events for visib
     event FactoryAddr
