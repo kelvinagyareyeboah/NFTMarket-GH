@@ -1,5 +1,4 @@
-pth at startmount, "");
-    }when a single ERC
+pth at sthen a single ERC
         address /*from*/,
         uint256 _id,
         uint256 /*value*/,
