@@ -4,7 +4,7 @@
     function setFactoryAddress(address _factory) external onlyOwner {
         require(_factory != address(0), "zero address");
         factory = ICreatureAccessoryFactory(_factory);
-        emit FactoryAddressSet(_factory);
+        emit FactoryAddressS
     }
 
     /// @notice Owner can set how many of a given token id we want to acquire before stopping
