@@ -1,6 +1,4 @@
 
-        emit TotalToMintSet(_totalToMint);
-    }
 
     /// @notice Enable/disable attack behavior from callbacks
     function setAttackEnabled(bool _enabled) external onlyOwner {
