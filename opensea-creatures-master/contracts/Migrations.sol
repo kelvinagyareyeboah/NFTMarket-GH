@@ -10,7 +10,7 @@ of
      * @dev Sets the last completed migration number
      * @param completed The migration number to record as
     function setCompleted(uint completed) public restricted {
-        last_completed_completed;
+        last_complet
     }
 
     /**
