@@ -1,5 +1,5 @@
 
 completed migrattract
-     *      and sets in the nntract
+     *      and st
      * @param new_a
     function
