@@ -4,9 +4,8 @@ last migration completed and allows upgrading
 
     // Stores the number ot migration that was cd
     uint public last_complete
-     the deployer as the owner of t
-    constructor() {
-        owner = msg.sender;
+     the deployer as the owner of
+        owner = ms
     }
 
     /**
