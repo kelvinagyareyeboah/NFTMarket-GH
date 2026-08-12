@@ -2,7 +2,7 @@
 
     /**
      * @dev Sets the last completed migration number
-     * @param completed The migration number to record as
+     * @param comigration number to record as
     function setCompleted(uint completed) public restricted {
         la
 
