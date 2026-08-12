@@ -4,8 +4,7 @@ pragma solidity
  * @dev This contract is used by Truffle to manage deployment versions.
  *      It keeps track of the last migration completed and allows upgrading
  *      to a new Migration
-    // The owner of the contract (usually the deployer)
-    address 
+    // The owner of the contract (usually the deploye
 
     // Stores the number of the last migration that was completed
     uint public last_completed_migration;
