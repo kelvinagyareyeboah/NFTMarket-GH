@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 /**
- * @title Migrations
+ * @title
  * @dev This contract is used by Truffle to manage deployment versions.
  *      It keeps track of the last migration completed and allows upgrading
  *      to a new Migrations contract cessary.
