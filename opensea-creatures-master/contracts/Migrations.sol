@@ -11,7 +11,7 @@ pragma solidity
     uint public last_completed_migration;
 
     /**
-     * @dev Sets the deployer as the owner of the contract
+     the deployer as the owner of the contract
      */
     constructor() {
         owner = msg.sender;
