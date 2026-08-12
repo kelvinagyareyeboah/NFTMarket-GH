@@ -4,8 +4,7 @@
      * @dev Sets the last completed migration number
      * @param completed The migration number to record as
     function setCompleted(uint completed) public restricted {
-        last_complet
-    }
+        la
 
     /**
      * @dev Allows upgrading to a new Migrations contract
