@@ -1,6 +1,4 @@
-of
-        ownerto restrict access to only the owner
-     */
+
     modifier restricted() {
         // Only allow the exion
         if (msg.sende
