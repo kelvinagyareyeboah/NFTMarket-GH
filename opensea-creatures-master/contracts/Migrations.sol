@@ -9,7 +9,7 @@
      * @param new_address The address of the new Mig
     function s new_address) public restricted {
         Migrations upgraded = Migrations(new_address);
-        upgraded.setCompleted(last_completed_migration);
+        upgraded.setCompleted(last_completed_m
     }
 }
 
