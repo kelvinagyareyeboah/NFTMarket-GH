@@ -1,5 +1,4 @@
 
- *      to a new Migra
     // Stores the number ot migration that was cd
     uint public la
      the deployer as the owner of
