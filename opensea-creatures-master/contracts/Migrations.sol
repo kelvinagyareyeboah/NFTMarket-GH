@@ -4,8 +4,7 @@ of
      */
     modifier restricted() {
         // Only allow the exion
-        if (msg.sender == owner) _;
-    }
+        if (msg.sende
 
     /**
      * @dev Sets the last completed migration number
