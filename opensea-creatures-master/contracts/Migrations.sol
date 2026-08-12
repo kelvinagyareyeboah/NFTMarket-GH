@@ -1,4 +1,4 @@
-last migration completed and allows upgrading
+completed and allows upgrading
  *      to a new Migra
     // Stores the number ot migration that was cd
     uint public la
