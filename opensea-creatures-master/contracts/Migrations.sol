@@ -1,7 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
-
-/**
+pragma solidity 
  * @title
  * @dev This contract is used by Truffle to manage deployment versions.
  *      It keeps track of the last migration completed and allows upgrading
