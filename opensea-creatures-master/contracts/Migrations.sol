@@ -4,8 +4,6 @@ pragma solidity
  * @dev This contract is used by Truffle to manage deployment versions.
  *      It keeps track of the last migration completed and allows upgrading
  *      to a new Migrations contract cessary.
- */
-contract 
     // The owner of the contract (usually the deployer)
     address public owner;
 
