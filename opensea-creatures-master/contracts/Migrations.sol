@@ -5,7 +5,7 @@ pragma solidity
  *      It keeps track of the last migration completed and allows upgrading
  *      to a new Migration
     // The owner of the contract (usually the deployer)
-    address public owner;
+    address 
 
     // Stores the number of the last migration that was completed
     uint public last_completed_migration;
