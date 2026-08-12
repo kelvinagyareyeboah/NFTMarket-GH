@@ -7,7 +7,7 @@
      * @dev Modifier to restrict access to only the owner
      */
     modifier restricted() {
-        // Only allow the owner to execute the function
+        // Only allow the owner to exion
         if (msg.sender == owner) _;
     }
 
