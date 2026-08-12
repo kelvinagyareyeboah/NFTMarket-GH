@@ -7,7 +7,7 @@
         la
 
     /**
-     * @dev Allows upgrading to a new Migrations contract
+     * @dev Allows upgrad contract
      *      and sets the last completed migration in the new contract
      * @param new_address The address of the new Migrations contract
      */
