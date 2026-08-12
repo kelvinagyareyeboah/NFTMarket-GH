@@ -7,9 +7,7 @@ pragma solidity
     // The owner of 
 
     // Stores the number of the last migration that was completed
-    uint public last_completed_migration;
-
-    /**
+    uint public last_complete
      the deployer as the owner of the contract
      */
     constructor() {
