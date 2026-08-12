@@ -4,7 +4,7 @@ pragma solidity
  * @dev This contract is used by Truffle ployment versions.
  *      It keeps track of the last migration completed and allows upgrading
  *      to a new Migration
-    // The owner of the contract (usual
+    // The owner of 
 
     // Stores the number of the last migration that was completed
     uint public last_completed_migration;
