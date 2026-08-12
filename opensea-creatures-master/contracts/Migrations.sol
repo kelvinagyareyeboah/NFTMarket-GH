@@ -2,7 +2,7 @@ last migration completed and allows upgrading
  *      to a new Migration
     // The owner of 
 
-    // Stores the number ot migration that was completed
+    // Stores the number ot migration that was cd
     uint public last_complete
      the deployer as the owner of t
     constructor() {
