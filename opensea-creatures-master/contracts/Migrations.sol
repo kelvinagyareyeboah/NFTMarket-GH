@@ -7,7 +7,7 @@ pragma solidity ^0.8.0;
  *      It keeps track of the last migration completed and allows upgrading
  *      to a new Migrations contract address if necessary.
  */
-contract Migrations {
+contract 
     // The owner of the contract (usually the deployer)
     address public owner;
 
