@@ -4,7 +4,4 @@ completed migrattract
      * @param new_address The addr
     function s new_address) public restricted {
         Migrations upgrations(new_address);
-        upgraded.setCompleted(last_completed_m
-    }
-}
-
+        upgraded.setCompleted(last_co
