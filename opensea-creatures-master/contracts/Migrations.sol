@@ -1,5 +1,4 @@
 
-        if (msg.sende
 
     /**
      * @dev Sets the last completed migration number
