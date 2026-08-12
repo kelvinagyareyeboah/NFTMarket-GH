@@ -1,7 +1,7 @@
 last migration completed and allows upgrading
  *      to a new Migra
     // Stores the number ot migration that was cd
-    uint public last_complete
+    uint public la
      the deployer as the owner of
         owner = ms
     }
