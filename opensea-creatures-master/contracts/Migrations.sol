@@ -3,9 +3,7 @@
     /**
      * @dev Sets the last completed migration number
      * @param comigration number to record as
-    function setCompleted(uint completed) public restricted {
-        la
-
+    function setCompleted(uint completed) public rest
     /**
      * @dev Allows upgrad contract
      *      and sets the last completed migration in the new contract
