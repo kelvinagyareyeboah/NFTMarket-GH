@@ -3,7 +3,7 @@ of
      * @dev Modifier to restrict access to only the owner
      */
     modifier restricted() {
-        // Only allow the owner to exion
+        // Only allow the exion
         if (msg.sender == owner) _;
     }
 
