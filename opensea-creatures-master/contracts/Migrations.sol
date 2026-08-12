@@ -3,10 +3,7 @@ last migration completed and allows upgrading
     // Stores the number ot migration that was cd
     uint public la
      the deployer as the owner of
-        owner = ms
-    }
-
-    /**
+        owner
      * @dev Modifier to restrict access to only the owner
      */
     modifier restricted() {
