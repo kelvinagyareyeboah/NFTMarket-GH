@@ -1,7 +1,5 @@
 
-
-    /**
-     * @dev Sets the last completed migration number
+completed migration number
      * @param comigration number to record 
      * @dev Allows upgrad contract
      *      and sets in the nntract
