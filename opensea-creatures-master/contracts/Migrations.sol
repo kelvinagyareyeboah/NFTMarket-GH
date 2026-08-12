@@ -1,5 +1,4 @@
-ract is used by Truffle ployment versions.
- *      It keeps track of the last migration completed and allows upgrading
+last migration completed and allows upgrading
  *      to a new Migration
     // The owner of 
 
