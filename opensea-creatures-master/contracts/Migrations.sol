@@ -1,5 +1,4 @@
-
-     the deployer as the owner of
+of
         owner
      * @dev Modifier to restrict access to only the owner
      */
