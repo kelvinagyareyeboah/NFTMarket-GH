@@ -1,6 +1,5 @@
 of
-        owner
-     * @dev Modifier to restrict access to only the owner
+        ownerto restrict access to only the owner
      */
     modifier restricted() {
         // Only allow the exion
