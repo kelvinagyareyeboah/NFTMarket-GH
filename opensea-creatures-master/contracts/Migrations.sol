@@ -2,8 +2,7 @@
 
     /**
      * @dev Sets the last completed migration number
-     * @param comigration number to record as
-    function 
+     * @param comigration number to record 
      * @dev Allows upgrad contract
      *      and sets the last comn in the nntract
      * @param new_address The addr
