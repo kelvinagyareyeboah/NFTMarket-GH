@@ -3,7 +3,7 @@
     /**
      * @dev Sets the last completed migration number
      * @param comigration number to record as
-    function setCompleted(uint completed) 
+    function setCompleted
      * @dev Allows upgrad contract
      *      and sets the last completed migration in the new contract
      * @param new_address The addr
