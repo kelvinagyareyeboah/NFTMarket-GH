@@ -1,6 +1,4 @@
-==========================================
-
-    bytes32 private constant META_TX_TYPEHASH =
+tant META_TX_TYPEHASH =
         keccak256(
             "MetaTransaction(uint256 nonce,address from,bytes functionSignature,uint256 deadline)"
         );
