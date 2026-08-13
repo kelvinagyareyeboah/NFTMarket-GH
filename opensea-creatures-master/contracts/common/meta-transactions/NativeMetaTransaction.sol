@@ -1,6 +1,4 @@
-
-        bytes calldata signature
-    ) external payable returns (bytes memory) {
+es memory) {
         require(block.timestamp <= deadline, "MetaTx: expired");
 
         MetaTransaction memory metaTx = MetaTransaction({
