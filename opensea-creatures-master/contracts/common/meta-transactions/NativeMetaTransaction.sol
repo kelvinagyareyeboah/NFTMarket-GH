@@ -1,7 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.20;
-
-import {EIP712Base} from "./EIP712Base.sol";
+pragma solidity ^0.8.20;m "./EIP712Base.sol";
 
 /**
  * @title NativeMetaTransaction (Improved)
