@@ -1,6 +1,4 @@
 
-        });
-
         bytes32 digest = toTypedMessageHash(_hashMetaTx(metaTx));
 
         address recovered = _recoverSigner(digest, signature);
