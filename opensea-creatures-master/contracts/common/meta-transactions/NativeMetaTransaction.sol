@@ -1,6 +1,4 @@
 
-            "MetaTransaction(uint256 nonce,address from,bytes functionSignature,uint256 deadline)"
-        );
 
     uint256 private constant HALF_ORDER =
         0x7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff;
