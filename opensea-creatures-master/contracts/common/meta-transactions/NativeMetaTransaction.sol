@@ -1,6 +1,4 @@
-
-
-    mapping(address => uint256) private _nonces;
+ => uint256) private _nonces;
 
     // ============================================================
     // EVENTS
