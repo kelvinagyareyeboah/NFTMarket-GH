@@ -1,6 +1,4 @@
 
-            functionSignature: functionSignature,
-            deadline: deadline
         });
 
         bytes32 digest = toTypedMessageHash(_hashMetaTx(metaTx));
