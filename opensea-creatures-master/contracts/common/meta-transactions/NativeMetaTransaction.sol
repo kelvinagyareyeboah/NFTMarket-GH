@@ -1,6 +1,5 @@
 
 =
-    // EXECUTION
     // ============================================================
 
     function executeMetaTransaction(
