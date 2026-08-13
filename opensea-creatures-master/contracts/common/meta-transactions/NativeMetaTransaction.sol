@@ -1,6 +1,4 @@
-
-        MetaTransaction memory metaTx = MetaTransaction({
-            nonce: _nonces[user],
+user],
             from: user,
             functionSignature: functionSignature,
             deadline: deadline
