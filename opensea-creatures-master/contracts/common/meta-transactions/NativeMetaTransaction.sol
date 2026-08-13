@@ -1,6 +1,4 @@
-
-/**
- * @title NativeMetaTransaction (Improved)
+eMetaTransaction (Improved)
  * @dev Secure gasless meta-transaction system
  */
 contract NativeMetaTransaction is EIP712Base {
