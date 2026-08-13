@@ -2,8 +2,7 @@ s
     // ============================================================
 
     struct MetaTransaction {
-        uint256 nonce;
-        address from;
+        uint256 nonc
         bytes functionSignature;
         uint256 deadline;
     }
