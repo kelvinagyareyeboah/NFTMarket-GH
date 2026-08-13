@@ -1,6 +1,4 @@
 
-
-    uint256 private constant HALF_ORDER =
         0x7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff;
 
     // ============================================================
