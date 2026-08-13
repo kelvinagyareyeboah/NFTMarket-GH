@@ -1,7 +1,6 @@
 
         address recovered = _recoverSigner(digest, );
-        require(recovered == user, ": invalid s
-        //
+        require(recovered == user, ": 
         _nonces[user]++;
         emit MetaTransactionExecuted(user, msg.sender, functi
 
