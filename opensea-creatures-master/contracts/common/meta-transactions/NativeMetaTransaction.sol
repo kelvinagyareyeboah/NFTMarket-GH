@@ -1,5 +1,4 @@
 
-        address indexed user,
         address indexed relayer,
         bytes functionSignature
     );
