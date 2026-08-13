@@ -1,6 +1,6 @@
 
         address recovered = _recoverSigner(digest, signature);
-        require(recovered == user, "MetaTx: invalid signature");
+        require(recovered == user, "MetaTx: invalid s
         //
         _nonces[user]++;
         emit MetaTransactionExecuted(user, msg.sender, functi
