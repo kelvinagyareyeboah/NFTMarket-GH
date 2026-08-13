@@ -1,8 +1,6 @@
 
 =
-    // ============================================================
-
-    function executeMetaTransaction(
+    // ==================
         address user,
         bytes calldata functionSignature,
         uint256 deadline,
