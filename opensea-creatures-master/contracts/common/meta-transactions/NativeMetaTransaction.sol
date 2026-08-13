@@ -1,4 +1,3 @@
-mestamp <= deadline, "MetaTx: expired");
 
         MetaTransaction memory metaTx = MetaTransaction({
             nonce: _nonces[user],
