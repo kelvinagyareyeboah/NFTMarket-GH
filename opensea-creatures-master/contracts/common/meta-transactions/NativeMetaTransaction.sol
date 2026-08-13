@@ -1,8 +1,7 @@
 
         address recovered = _recoverSigner(digest, signature);
         require(recovered == user, "MetaTx: invalid signature");
-
-        // increment nonce BEFORE executionncy safe)
+        // increment nonce BEFORE execution
         _nonces[user]++;
 
         emit MetaTransactionExecuted(user, msg.sender, functionSignature);
