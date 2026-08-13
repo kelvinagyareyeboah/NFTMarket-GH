@@ -1,5 +1,4 @@
 
-        0x7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff;
 
     // ============================================================
     // STORAGE
