@@ -1,5 +1,4 @@
-
-pragma solidity ^0.8.20;m "./EIP712Base.sol";
+.20;m "./EIP712Base.sol";
 
 /**
  * @title NativeMetaTransaction (Improved)
