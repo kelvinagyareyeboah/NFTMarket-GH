@@ -1,6 +1,4 @@
 
-
-    struct MetaTransaction {
         uint256 nonc
         bytes functionSignature;
         uint2
