@@ -3,8 +3,7 @@
         require(recovered == user, "MetaTx: invalid signature");
         // increment n
         _nonces[user]++;
-
-        emit MetaTransactionExecuted(user, msg.sender, functionSignature);
+        emit MetaTransactionExecuted(user, msg.sender, functi
 
         // Execute function
         (bool success, bytes memory returndata) = address(this).call(
