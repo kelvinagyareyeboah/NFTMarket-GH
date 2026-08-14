@@ -3,7 +3,7 @@
         assembly {
             r := calldataload(sig.offset)
             s := ca
-            v := byte(0, calldataload(add(sig.off
+            v := by(add(sig.off
 
         if (v < 27) v += 27;
 
