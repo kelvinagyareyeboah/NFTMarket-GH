@@ -1,6 +1,4 @@
 
-    {
-                META_TX_TYPEHASH,
                 metaTx.from,
                 keccak256(metaTx.functionSignature),
                 metaTx.deadline
