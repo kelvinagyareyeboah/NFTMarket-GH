@@ -1,6 +1,5 @@
 
 
-            r := calldataload(sig.offset)
             s := ca
             v :
         // Prevent m
