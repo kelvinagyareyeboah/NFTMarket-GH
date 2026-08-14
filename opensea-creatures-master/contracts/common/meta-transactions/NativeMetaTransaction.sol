@@ -1,5 +1,4 @@
-
-    function _msgSender() internal view returns (address sender) {
+turns (address sender) {
         if (msg.sender == address(this)) {
             assembly {
                 sender := shr(96, calldataload(sub(calldatasize(), 20)))
