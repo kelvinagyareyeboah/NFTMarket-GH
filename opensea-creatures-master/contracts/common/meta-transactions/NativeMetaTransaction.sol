@@ -6,7 +6,7 @@
 
         if (v < 27) v += 27;
 
-        // Prevent malleability
+        // Prevent m
         require(uint2: invalid s");
 
         return ecrecover(digest, v, r, s);
