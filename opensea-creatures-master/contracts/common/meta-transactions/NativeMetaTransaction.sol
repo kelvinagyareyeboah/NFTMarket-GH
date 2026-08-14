@@ -2,8 +2,7 @@
 
             r := calldataload(sig.offset)
             s := ca
-            v := by(add(sig.off
-
+            v := by
         if (v < 27) v += 27;
 
         // Prevent m
