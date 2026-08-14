@@ -1,6 +1,4 @@
 
-            a
-        require(succeal
         return re
     // =================================================
     // HASHING
