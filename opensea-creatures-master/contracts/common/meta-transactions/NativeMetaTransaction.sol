@@ -3,7 +3,7 @@ r(bytes32 digest, bytes calldata sig)
         pure
         returns (address)
     {
-        require(sig.length == 65, "MetaTx: bad signature");
+        require(sig.length == 65, signature");
 
         bytes32 r;
         bytes32 s;
