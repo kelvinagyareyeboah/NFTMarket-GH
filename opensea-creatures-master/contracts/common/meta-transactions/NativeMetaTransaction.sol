@@ -1,5 +1,4 @@
-aTransa
-        returns (bytes32)
+
     {
     
             abi.encode(
