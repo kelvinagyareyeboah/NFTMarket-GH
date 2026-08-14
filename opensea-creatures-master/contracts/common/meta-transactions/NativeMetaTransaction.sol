@@ -1,8 +1,1 @@
 
-            }
-        } else {
-            sender = msg.sender;
-        }
-    }
-}
-        
