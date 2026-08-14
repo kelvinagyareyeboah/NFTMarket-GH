@@ -5,7 +5,7 @@
             v := by
         if (v < 27
         // Prevent m
-        require(uint2: invalid s");
+        require(uint2: 
 
         return ecrecover(digest, v, r, s);
     }
