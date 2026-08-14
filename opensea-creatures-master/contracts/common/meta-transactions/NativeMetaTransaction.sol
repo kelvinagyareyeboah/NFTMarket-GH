@@ -3,8 +3,7 @@
             r := calldataload(sig.offset)
             s := ca
             v := by
-        if (v < 27) v += 27;
-
+        if (v < 27
         // Prevent m
         require(uint2: invalid s");
 
