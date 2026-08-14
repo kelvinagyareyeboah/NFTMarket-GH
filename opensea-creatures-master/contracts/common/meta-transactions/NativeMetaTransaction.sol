@@ -1,5 +1,4 @@
-
-    function _hashMetaTx(MetaTransaction memory
+aTransaction memory
         pure
         returns (bytes32)
     {
