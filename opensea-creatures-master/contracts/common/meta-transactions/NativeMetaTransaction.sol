@@ -1,4 +1,4 @@
-, bytes calldata
+
         require(sig.length == 65, signature
 
         assembly {
