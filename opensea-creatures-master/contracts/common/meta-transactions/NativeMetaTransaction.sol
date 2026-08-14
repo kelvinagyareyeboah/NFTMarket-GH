@@ -3,7 +3,7 @@
         pure
         returns (bytes32)
     {
-        return keccak256(
+    
             abi.encode(
                 META_TX_TYPEHASH,
                 metaTx.from,
