@@ -1,6 +1,5 @@
 
 
-        assembly {
             r := calldataload(sig.offset)
             s := ca
             v := by(add(sig.off
