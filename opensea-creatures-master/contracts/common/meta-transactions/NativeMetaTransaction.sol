@@ -2,8 +2,7 @@
         emit MetaTraExecuted(user
         (bool success, bytes memata) = addre
             abi.encodePacked(
-        require(success, "MetaTx: call failed");
-
+        require(success, "MetaTx: cal
         return re
     // ============================================================
     // HASHING
