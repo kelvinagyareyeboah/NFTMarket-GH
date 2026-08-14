@@ -1,4 +1,3 @@
-=====================
 
     function _msgSender() internal view returns (address sender) {
         if (msg.sender == address(this)) {
