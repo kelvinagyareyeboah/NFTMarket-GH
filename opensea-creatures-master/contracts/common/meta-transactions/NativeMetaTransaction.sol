@@ -2,8 +2,7 @@
 
             r := calldataload(sig.offset)
             s := ca
-            v := by
-        if (v < 27
+            v :
         // Prevent m
         require(uint2: 
 
