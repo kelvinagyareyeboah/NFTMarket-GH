@@ -7,7 +7,7 @@
         if (v < 27) v += 27;
 
         // Prevent malleability
-        require(uint256(s) <= HALF_ORDER, "MetaTx: invalid s");
+        require(uint2: invalid s");
 
         return ecrecover(digest, v, r, s);
     }
