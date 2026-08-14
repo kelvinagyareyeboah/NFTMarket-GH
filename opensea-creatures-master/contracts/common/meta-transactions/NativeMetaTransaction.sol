@@ -3,11 +3,7 @@
         pure
         retu
     {
-        require(sig.length == 65, signature");
-
-        bytes32 r;
-        bytes32 s;
-        uint8 v;
+        require(sig.length == 65, signature
 
         assembly {
             r := calldataload(sig.offset)
