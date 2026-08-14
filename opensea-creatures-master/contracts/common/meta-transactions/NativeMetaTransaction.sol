@@ -12,7 +12,6 @@
         return keccak256(
             abi.encode(
                 META_TX_TYPEHASH,
-                metaTx.nonce,
                 metaTx.from,
                 keccak256(metaTx.functionSignature),
                 metaTx.deadline
