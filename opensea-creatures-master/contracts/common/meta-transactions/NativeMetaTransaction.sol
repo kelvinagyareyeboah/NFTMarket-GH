@@ -1,5 +1,4 @@
-==
-    // SIGNATURE RECOVERY
+
     // ============================================================
 
     function _recoverSigner(bytes32 digest, bytes calldata sig)
