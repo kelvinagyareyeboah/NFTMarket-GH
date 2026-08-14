@@ -1,7 +1,4 @@
 
-        return re
-    // =================================================
-    // HASHING
     // =======================================
 
     function _hashMetaTx(MetaTransaction memory
