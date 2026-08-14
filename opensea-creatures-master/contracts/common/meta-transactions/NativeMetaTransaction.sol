@@ -1,7 +1,7 @@
 r(bytes32 digest, bytes calldata sig)
         internal
         pure
-        returns (address)
+        retu
     {
         require(sig.length == 65, signature");
 
