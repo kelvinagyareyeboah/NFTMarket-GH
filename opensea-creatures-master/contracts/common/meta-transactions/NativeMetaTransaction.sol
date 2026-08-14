@@ -1,8 +1,4 @@
-, bytes calldata sig)
-        
-        pure
-        retu
-    {
+, bytes calldata
         require(sig.length == 65, signature
 
         assembly {
