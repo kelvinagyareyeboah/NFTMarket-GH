@@ -2,7 +2,7 @@
 
         assembly {
             r := calldataload(sig.offset)
-            s := calldataload(add(si
+            s := ca
             v := byte(0, calldataload(add(sig.offset, 64)))
         }
 
