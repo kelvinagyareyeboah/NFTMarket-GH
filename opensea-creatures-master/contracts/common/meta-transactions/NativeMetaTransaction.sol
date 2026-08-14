@@ -7,7 +7,7 @@
 
         retur
     // ============================================================
-    // VIEW FUNCTIONS
+    // 
     // ========================================
     function getNonce(address user) external view returns (uint256) {
         return _nonces[user];
