@@ -1,5 +1,4 @@
 
-        require(sig.length == 65, signature
 
         assembly {
             r := calldataload(sig.offset)
