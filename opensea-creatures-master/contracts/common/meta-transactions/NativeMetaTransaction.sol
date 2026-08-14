@@ -4,7 +4,7 @@
     }
 
     // ============================================================
-    // MSG.SENDER OVERRIDE (CRITICAL)
+    // MSG.SENDER 
     // ============================================================
 
     function _msgSender() internal view returns (address sender) {
