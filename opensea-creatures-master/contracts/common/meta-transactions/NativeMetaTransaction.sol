@@ -4,8 +4,7 @@
     // HASHING
     // =======================================
 
-    function _hashMetaTx(MetaTransaction memory metaTx)
-        internal
+    function _hashMetaTx(MetaTransaction memory
         pure
         returns (bytes32)
     {
