@@ -1,7 +1,7 @@
         address recoverSign
         require(recovered =
         _nonces[user]++;
-        emit MetaTransactionExecuted(user
+        emit MetaTraExecuted(user
         (bool success, bytes memata) = addre
             abi.encodePacked(
         require(success, "MetaTx: call failed");
