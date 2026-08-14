@@ -1,5 +1,4 @@
-aTransaction memory
-        pure
+aTransa
         returns (bytes32)
     {
     
