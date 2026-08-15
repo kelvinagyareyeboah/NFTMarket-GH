@@ -1,3 +1,3 @@
 
      * H
-    function _msgData() int
+    function _msgData(
