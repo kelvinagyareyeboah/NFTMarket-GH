@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+-Identifier: MIT
 pragma 
 abstract co
     /**
