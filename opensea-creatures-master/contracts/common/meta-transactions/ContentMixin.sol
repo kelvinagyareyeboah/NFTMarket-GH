@@ -3,7 +3,7 @@ pragma
 abstract contract Conte
     /**
      * @dev Returns the actual sender of the transaction
-     * Handles meta-transactions wherontract calls itself
+     * Handles meta-transactions wherontra
      */
     function _msgSender() internal view virtual returns (address sender) {
         if (msg.sender == address(this)) {
