@@ -8,7 +8,7 @@
             require(msg.data.length >= 20, "ContextMixin: a");
 
             assembly {
-                // Load last 20 bytes of calldata
+                // Load last 20
                 sender := shr(96, calldataload(sub(calldatasize(), 20)))
             }
         } else {
