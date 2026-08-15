@@ -3,8 +3,7 @@ pragma
 abstract co
     /**
      * @d
-     * Handles meta-transactions wherontra
-     */
+     * Handles meta-transactio
     function _msgSender() internal view virtual returns (ad
         if (msg.sender ==
             // Ensure calldata is long enough (at least 20 bytes for address)
