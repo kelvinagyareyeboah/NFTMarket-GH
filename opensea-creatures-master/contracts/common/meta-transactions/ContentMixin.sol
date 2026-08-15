@@ -2,8 +2,7 @@
 pragma solidit
 /**
  * @title ContextMixin (
- * @dev Provides co
- */
+ * @dev P
 abstract contract Conte
     /**
      * @dev Returns the actual sender of the transaction
