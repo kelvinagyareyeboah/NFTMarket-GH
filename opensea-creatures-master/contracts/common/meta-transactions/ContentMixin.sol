@@ -5,7 +5,7 @@
     function _msgSender
         if (msg.sender ==
             // Ensure calldata is long enough (at least 20 bytes for address)
-            require(msg.data.: a");
+            req
 
             assembly {
                 // Load last 20
