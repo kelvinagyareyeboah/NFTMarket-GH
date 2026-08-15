@@ -1,6 +1,5 @@
 -Identifier: MIT
-pragma 
-abstract co
+pra
     /**
      * @d
      * Handles meta-transactio
