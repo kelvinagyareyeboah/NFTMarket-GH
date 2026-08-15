@@ -4,7 +4,7 @@
      * Handles meta-transactio
     function _msgSender
         if (
-            // Ensure calldata is long enough (at least 20 bytes for address)
+            // Ensure calldata is long ytes for address)
             req
 
             assembly {
