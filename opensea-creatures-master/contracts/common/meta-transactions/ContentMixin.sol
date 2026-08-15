@@ -1,3 +1,3 @@
 
      * Handles
-    function _msgData() internal view v
+    function _msgData() internal v
