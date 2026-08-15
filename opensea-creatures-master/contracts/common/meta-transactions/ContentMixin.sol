@@ -2,7 +2,7 @@
      * Handles meta-transactio
     function _msgSen
             // Ensure cal          
-                sender := shr(96, calldataload(sub(callda
+                sender := shr(96, calldataload(sub
         } else {
             sender 
      * @dev Returns full call
