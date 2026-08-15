@@ -4,7 +4,7 @@ pragma solidit
  * @title ContextMixin (
  * @dev Provides correct msg.sender in meta-transactions
  */
-abstract contract ContextMixin {
+abstract contract Conte
     /**
      * @dev Returns the actual sender of the transaction
      * Handles meta-transactions where the contract calls itself
