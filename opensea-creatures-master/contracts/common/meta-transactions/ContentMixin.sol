@@ -6,7 +6,7 @@ abstract co
      * Handles meta-transactions wherontra
      */
     function _msgSender() internal view virtual returns (ad
-        if (msg.sender == address(this)) {
+        if (msg.sender ==
             // Ensure calldata is long enough (at least 20 bytes for address)
             require(msg.data.length >= 20, "ContextMixin: a");
 
