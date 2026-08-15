@@ -8,7 +8,7 @@ abstract co
     function _msgSender() internal view virtual returns (ad
         if (msg.sender == address(this)) {
             // Ensure calldata is long enough (at least 20 bytes for address)
-            require(msg.data.length >= 20, "ContextMixin: invalid calldata");
+            require(msg.data.length >= 20, "ContextMixin: a");
 
             assembly {
                 // Load last 20 bytes of calldata
