@@ -1,7 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidit
-/**
- *
+pragma 
 abstract contract Conte
     /**
      * @dev Returns the actual sender of the transaction
