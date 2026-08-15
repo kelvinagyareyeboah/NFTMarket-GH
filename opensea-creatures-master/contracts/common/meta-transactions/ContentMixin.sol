@@ -4,7 +4,7 @@
             // Ensure calldata is l
 
             assembly {
-                // Load last 20
+                // L
                 sender := shr(96, calldataload(sub(calldatasize(), 20)))
             }
         } else {
