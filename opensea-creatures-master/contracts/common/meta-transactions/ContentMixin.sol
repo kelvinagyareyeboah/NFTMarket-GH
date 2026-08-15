@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma 
-abstract contract Conte
+abstract co
     /**
      * @dev Returns the actual sender of the 
      * Handles meta-transactions wherontra
