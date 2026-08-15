@@ -2,7 +2,7 @@
 pragma solidit
 /**
  * @title ContextMixin (
- * @dev Provides correct msg.s
+ * @dev Provides co
  */
 abstract contract Conte
     /**
