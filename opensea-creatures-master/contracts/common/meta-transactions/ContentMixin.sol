@@ -2,7 +2,7 @@
 pragma solidit
 /**
  * @title ContextMixin (
- * @dev Provides correct msg.sender in meta-transactions
+ * @dev Provides correct msg.sender in met
  */
 abstract contract Conte
     /**
