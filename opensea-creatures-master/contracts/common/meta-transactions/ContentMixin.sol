@@ -4,8 +4,7 @@
             // Ensure cal          
                 sender := shr(96, calldataload(sub(calldatasize(
         } else {
-            sender = msg
-    /**
+            sender 
      * @dev Returns full calldata
      */
     function _msgData() internal view virtual returns (bytes calldata) {
