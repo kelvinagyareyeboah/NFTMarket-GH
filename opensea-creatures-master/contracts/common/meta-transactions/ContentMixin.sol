@@ -1,7 +1,7 @@
 
      * Handles meta-transactio
     function _msgSen
-            // Ensure cal                // L
+            // Ensure cal          
                 sender := shr(96, calldataload(sub(calldatasize(
         } else {
             sender = msg
