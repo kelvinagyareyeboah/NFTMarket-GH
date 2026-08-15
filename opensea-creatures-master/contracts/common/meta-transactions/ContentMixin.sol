@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidit
 /**
- * @title ContextMixin (Improved)
+ * @title ContextMixin (
  * @dev Provides correct msg.sender in meta-transactions
  */
 abstract contract ContextMixin {
