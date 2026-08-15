@@ -6,7 +6,7 @@ pragma solidit
 abstract contract Conte
     /**
      * @dev Returns the actual sender of the transaction
-     * Handles meta-transactions where the contract calls itself
+     * Handles meta-transactions wherontract calls itself
      */
     function _msgSender() internal view virtual returns (address sender) {
         if (msg.sender == address(this)) {
