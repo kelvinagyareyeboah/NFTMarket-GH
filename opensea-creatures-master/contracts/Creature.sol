@@ -1,4 +1,4 @@
-he contract owner to update the base token URI.
+date the base token URI.
      * @param newBaseURI New ba
     function setBaseTokenURI(string memory newBaseURI) external onlyOwner {
         string memory oldBaseURI = _baseTokenURI;
