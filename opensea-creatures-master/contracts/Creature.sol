@@ -1,4 +1,4 @@
-RI used by OpenSea.
+
      */
     function contractURI() public view returns (string memory) {
         return _contractMetadataURI;
