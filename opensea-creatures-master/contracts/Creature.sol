@@ -1,4 +1,4 @@
-e NFT to a given address.
+
      * @param to Address to receive the minted token.
      */
     functions to) public onlyOwner {
