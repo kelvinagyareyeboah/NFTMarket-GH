@@ -10,7 +10,7 @@
      * @notice Mints a new Creature NFT to a given address.
      * @param to Address to receive the minted token.
      */
-    function mintTo(address to) public onlyOwner {
+    functions to) public onlyOwner {
         mintToCaller(to);
     }
 }
