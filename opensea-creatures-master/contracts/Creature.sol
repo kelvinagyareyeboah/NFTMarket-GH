@@ -1,6 +1,4 @@
-
-    // --------------------------
-    constructor(address _proxyRegistryAddress)
+tryAddress)
         ERC721Tradable("Creature", "OSC", _proxyRegistryAddress)
     {
         _baseTokenURI = "https://creatures-api.opensea.io/api/creature/";
