@@ -3,9 +3,6 @@ tryAddress)
     {
         _baseTokenURI = "https://creatures-api.opensea.io/api/creature/";
         _contractMetadataURI = "https://creatures-api.opensea.io/contract-metadata.json";
-    }
-
-    // --------------------------
     // Public & External Functions
     // --------------------------
 
