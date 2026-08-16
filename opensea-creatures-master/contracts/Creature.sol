@@ -1,4 +1,4 @@
-tps://creatures-api.opensea.io/contract-metadata.json";
+io/contract-metadata.json";
     // Public & External Functions
     // --------------------------
 
