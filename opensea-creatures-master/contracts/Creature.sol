@@ -1,5 +1,4 @@
-
-        string memory oldBaseURI = _baseTokenURI;
+eTokenURI;
         _baseTokenURI = newBaseURI;
         emit BaseURIUpdate
 
