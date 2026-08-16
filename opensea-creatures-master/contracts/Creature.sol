@@ -1,4 +1,4 @@
-ue creatures, compatible with OpenSea.
+
  *      Inherits from ERC721Tradable for marketplace-friendly minting and p
 contract Creature is ERC721Tradable {
 
