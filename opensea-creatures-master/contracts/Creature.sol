@@ -1,5 +1,4 @@
 
-    string private _contractMetadataURI;
 
     // --------------------------
     /
