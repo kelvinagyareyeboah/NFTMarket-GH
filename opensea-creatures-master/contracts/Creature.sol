@@ -1,6 +1,4 @@
-.
-     */
-    function baseTokenURI() public view override returns (string memory) {
+URI() public view override returns (string memory) {
         return _baseTokenURI;
     }
 
