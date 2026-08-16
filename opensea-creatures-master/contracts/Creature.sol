@@ -1,6 +1,4 @@
-
-    function setContractURI(string memory newContractURI) external onlyOwner {
-        string memory oldContractURI = _contractMetadataURI;
+ontractURI = _contractMetadataURI;
         _contractMetadataURI = newContractURI;
         emit ContractURIUpdated(oldContractURI, n
      * @notice Mints a new Creature NFT to a given address.
