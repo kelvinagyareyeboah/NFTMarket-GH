@@ -1,5 +1,4 @@
-
-     * @notice Returns the base URI for all tokens.
+he base URI for all tokens.
      */
     function baseTokenURI() public view override returns (string memory) {
         return _baseTokenURI;
