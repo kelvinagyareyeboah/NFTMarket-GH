@@ -1,4 +1,4 @@
-adable for marketplace-friendly minting and p
+ndly minting and p
 contract Creature is ERC721Tradable {
 
     // ----------------------
