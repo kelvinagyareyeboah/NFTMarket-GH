@@ -1,5 +1,4 @@
-I);
-    event ContractURIUpdated(string oldContractURI, string newContractURI);
+oldContractURI, string newContractURI);
 
     // --------------------------
     // Constructor
