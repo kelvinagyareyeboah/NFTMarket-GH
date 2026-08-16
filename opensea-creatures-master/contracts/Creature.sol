@@ -1,5 +1,4 @@
-
-        _contractMetadataURI = "https://creatures-api.opensea.io/contract-metadata.json";
+tps://creatures-api.opensea.io/contract-metadata.json";
     // Public & External Functions
     // --------------------------
 
