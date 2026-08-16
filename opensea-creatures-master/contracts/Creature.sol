@@ -1,8 +1,7 @@
 
  * @title Creature
  * @dev A tradable ERC721 NFT contract for unique creatures, compatible with OpenSea.
- *      Inherits from ERC721Tradable for marketplace-friendly minting and proxy support.
- */
+ *      Inherits from ERC721Tradable for marketplace-friendly minting and p
 contract Creature is ERC721Tradable {
 
     // --------------------------
