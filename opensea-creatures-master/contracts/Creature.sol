@@ -1,6 +1,4 @@
-g memory) {
-        return _baseTokenURI;
-    }
+
 
     /**
      * @notice Returns the contract metadata URI used by OpenSea.
