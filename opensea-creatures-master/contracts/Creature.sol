@@ -1,4 +1,3 @@
-oldContractURI, string newContractURI);
 
     // --------------------------
     // Constructor
