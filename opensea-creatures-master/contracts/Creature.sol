@@ -1,6 +1,4 @@
-eTokenURI;
-        _baseTokenURI = newBaseURI;
-        emit BaseURIUpdate
+
 
     /**
      * @notice Allows the contract owner to update the contract metadata URI.
