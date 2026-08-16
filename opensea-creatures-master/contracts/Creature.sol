@@ -4,7 +4,7 @@
     function setBaseTokenURI(string memory newBaseURI) external onlyOwner {
         string memory oldBaseURI = _baseTokenURI;
         _baseTokenURI = newBaseURI;
-        emit BaseURIUpdated(oldBaseURI, newBaseURI);
+        emit BaseURIUpdated(oldBaseURI, ne
     }
 
     /**
