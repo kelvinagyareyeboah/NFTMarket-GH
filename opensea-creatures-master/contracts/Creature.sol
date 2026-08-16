@@ -1,6 +1,5 @@
 
-     */
-    function contractURI() public view returns (string memory) {
+     */) public view returns (string memory) {
         return _contractMetadataURI;
     }
 
