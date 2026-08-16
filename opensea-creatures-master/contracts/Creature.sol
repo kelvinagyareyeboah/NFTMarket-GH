@@ -1,7 +1,4 @@
-
-
-    // ----------------------
-    // --------------------------
+---
     string private _baseTokenURI;
     string private _contractMetadataURI;
 
