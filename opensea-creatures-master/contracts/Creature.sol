@@ -1,4 +1,4 @@
-ndly minting and p
+
 contract Creature is ERC721Tradable {
 
     // ----------------------
