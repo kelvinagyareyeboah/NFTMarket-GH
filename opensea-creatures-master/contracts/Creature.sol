@@ -1,4 +1,4 @@
-ontractURI = _contractMetadataURI;
+aURI;
         _contractMetadataURI = newContractURI;
         emit ContractURIUpdated(oldContractURI, n
      * @notice Mints a new Creature NFT to a given address.
