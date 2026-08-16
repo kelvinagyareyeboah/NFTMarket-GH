@@ -1,4 +1,4 @@
-URI() public view override returns (string memory) {
+verride returns (string memory) {
         return _baseTokenURI;
     }
 
