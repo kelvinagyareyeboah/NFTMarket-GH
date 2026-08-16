@@ -9,8 +9,7 @@
 
     /**
      * @notice Allows the contract owner to update the base token URI.
-     * @param newBaseURI New base URI string.
-     */
+     * @param newBaseURI New ba
     function setBaseTokenURI(string memory newBaseURI) external onlyOwner {
         string memory oldBaseURI = _baseTokenURI;
         _baseTokenURI = newBaseURI;
