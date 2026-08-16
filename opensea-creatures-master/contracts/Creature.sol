@@ -1,7 +1,4 @@
-
-
-    /**
-     * @notice Returns the contract metadata URI used by OpenSea.
+eturns the contract metadata URI used by OpenSea.
      */
     function contractURI() public view returns (string memory) {
         return _contractMetadataURI;
