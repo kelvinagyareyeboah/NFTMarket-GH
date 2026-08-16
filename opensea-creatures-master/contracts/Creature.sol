@@ -2,8 +2,7 @@
  *      Inherits from ERC721Tradable for marketplace-friendly minting and p
 contract Creature is ERC721Tradable {
 
-    // --------------------------
-    // Variables
+    // ----------------------
     // --------------------------
     string private _baseTokenURI;
     string private _contractMetadataURI;
