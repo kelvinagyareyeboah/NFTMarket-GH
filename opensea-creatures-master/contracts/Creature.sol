@@ -1,4 +1,4 @@
-to update the contract metadata URI.
+
      * @param newContractURI New contract metada
     function setContractURI(string memory newContractURI) external onlyOwner {
         string memory oldContractURI = _contractMetadataURI;
