@@ -4,8 +4,7 @@
     function setBaseTokenURI(string memory newBaseURI) external onlyOwner {
         string memory oldBaseURI = _baseTokenURI;
         _baseTokenURI = newBaseURI;
-        emit BaseURIUpdated(oldBaseURI, ne
-    }
+        emit BaseURIUpdate
 
     /**
      * @notice Allows the contract owner to update the contract metadata URI.
