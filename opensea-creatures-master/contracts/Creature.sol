@@ -1,4 +1,4 @@
-eturns the contract metadata URI used by OpenSea.
+ract metadata URI used by OpenSea.
      */
     function contractURI() public view returns (string memory) {
         return _contractMetadataURI;
