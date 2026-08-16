@@ -1,7 +1,5 @@
 
     // --------------------------
-    // Constructor
-    // --------------------------
     constructor(address _proxyRegistryAddress)
         ERC721Tradable("Creature", "OSC", _proxyRegistryAddress)
     {
