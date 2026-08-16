@@ -1,5 +1,4 @@
-
-     * @param to Address to receive the minted token.
+eceive the minted token.
      */
     functions to) public onlyOwner {
         mintToCaller(to);
