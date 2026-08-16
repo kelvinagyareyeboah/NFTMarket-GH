@@ -8,8 +8,7 @@ contract Creature is ERC721Tradable {
     string private _contractMetadataURI;
 
     // --------------------------
-    // Events
-    // --------------------------
+    /
     event BaseURIUpdated(string oldBaseURI, string newBaseURI);
     event ContractURIUpdated(string oldContractURI, string newContractURI);
 
