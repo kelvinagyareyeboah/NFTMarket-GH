@@ -1,4 +1,4 @@
-ing memory newBaseURI) external onlyOwner {
+
         string memory oldBaseURI = _baseTokenURI;
         _baseTokenURI = newBaseURI;
         emit BaseURIUpdate
