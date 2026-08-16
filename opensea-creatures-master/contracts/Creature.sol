@@ -1,9 +1,6 @@
 
      */) public view returns (string memory) {
-        return _contractMetadataURI;
-    }
-
-    /**
+        return _contra
      * @notice Allows the contract owner to update the base token URI.
      * @param newBaseURI New ba
     function setBaseTokenURI(string memory newBaseURI) external onlyOwner {
