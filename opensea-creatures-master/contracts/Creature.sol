@@ -1,8 +1,4 @@
-
-
-    // --------------------------
-    /
-    event BaseURIUpdated(string oldBaseURI, string newBaseURI);
+I);
     event ContractURIUpdated(string oldContractURI, string newContractURI);
 
     // --------------------------
