@@ -1,6 +1,6 @@
 s-Interactions ordering enforced everywhere
  *      - Explicit zero-address checks on allarrays cause under/over-minting in the or *      - Burn amount validated against balance before subtracti *        Solidity 0.8 underflow revert
- *      - Pause now also b URI/royalty changes that
+ *      - Pause now also b URI/ro
  *        shouldn't happen mid-incident
  *      - Royalty fee & receiver validated (non-zero receiver, capped fee)
  *      - supportsInternst interfaceId == 0xffffffff
