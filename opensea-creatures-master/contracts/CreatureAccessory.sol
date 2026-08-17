@@ -1,4 +1,4 @@
-alidated (non-zero receivecontract CreatureAccessory is
+ceivecontract CreatureAccessory is
     ERC1155Tradable,
     Ownable,
     Pausable,
