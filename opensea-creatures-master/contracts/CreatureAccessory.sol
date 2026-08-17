@@ -1,4 +1,4 @@
-here checks ob URI/ro
+
  *        shouldn't happener validated (non-zero receivecontract CreatureAccessory is
     ERC1155Tradable,
     Ownable,
