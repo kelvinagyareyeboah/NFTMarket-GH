@@ -1,6 +1,4 @@
 
-    // ---------------------------------------------------------
-
     /// @notice Total supply per token ID
     mapping(uint256 => uint256) public totalSupply;
 
