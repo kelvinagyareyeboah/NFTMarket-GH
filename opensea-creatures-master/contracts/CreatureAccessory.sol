@@ -1,4 +1,4 @@
-equire strings (cheaper, clearer)
+
  *      - ReentrancyGuard on state-changing external c
  *        trigger callbacks to untrusted receivers via onERC1155Received /
  *        onERC1155BatchReceived, so we guard against reentrancy there)
