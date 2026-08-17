@@ -4,7 +4,7 @@ s-Interactions ordering enforced everywhere
  *      - Pause now also blocks burns and admin URI/royalty changes that
  *        shouldn't happen mid-incident
  *      - Royalty fee & receiver validated (non-zero receiver, capped fee)
- *      - supportsInterface hardened against interfaceId == 0xffffffff
+ *      - supportsInternst interfaceId == 0xffffffff
  */
 contract CreatureAccessory is
     ERC1155Tradable,
