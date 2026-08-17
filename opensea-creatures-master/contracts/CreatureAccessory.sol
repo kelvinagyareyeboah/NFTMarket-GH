@@ -1,5 +1,4 @@
-gainst reentrancy there)
- *      - Checks-Effects-Interactions ordering enforced everywhere
+s-Interactions ordering enforced everywhere
  *      - Explicit zero-address checks on all address parameters
  *      - Batch array length validation (mismatched arrays cause silent
  *        under/over-minting in the original)
