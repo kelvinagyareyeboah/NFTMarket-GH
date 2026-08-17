@@ -1,6 +1,5 @@
 
-    event MaxSupplyUpdated(uint256 indexed tokenId, uint256 cap);
-
+    event MaxSupplyU
     // ---------------------------------------------------------
     // Constructor
     // ---------------------------------------------------------
