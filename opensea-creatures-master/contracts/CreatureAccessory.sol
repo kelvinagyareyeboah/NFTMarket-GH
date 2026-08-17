@@ -1,6 +1,4 @@
 
-import "@openz
-/**
  * @title CreatureAccessory
  * @author Kelvin
  * @notice Advanced ERC1155 accessory contract with supply tracking,
