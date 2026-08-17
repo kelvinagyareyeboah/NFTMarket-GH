@@ -1,8 +1,7 @@
  token ID
     /// @notice Optional max supply per token ID (0 = uncapped)
     mapping(uint256 => uint256) public maxSupply;
-
-    /// @notice Royalty receiver
+    //
     address private royaltyReceiver;
 
     /// @notice Royalty fee in basis points (e.g. 500 = 5%)
