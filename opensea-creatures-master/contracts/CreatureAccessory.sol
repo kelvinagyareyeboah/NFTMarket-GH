@@ -1,5 +1,4 @@
- uint256) public maxSupply;
-    //
+
     address private royaltyReceiver;
 
     /// @notice Royalty fee in basis points (e.g. 500 = 5%)
