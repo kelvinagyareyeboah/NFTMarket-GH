@@ -1,4 +1,4 @@
-lity, and owner-controlled minting.
+
  * @dev Security-hardened revision:
  *      - Custom errors instead of require strings (cheaper, clearer)
  *      - ReentrancyGuard on state-changing external c
