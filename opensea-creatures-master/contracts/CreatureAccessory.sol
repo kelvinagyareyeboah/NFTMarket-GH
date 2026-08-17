@@ -1,4 +1,4 @@
-ress receiver, uint96 fee);
+
     event MaxSupplyUpdated(uint256 indexed tokenId, uint256 cap);
 
     // ---------------------------------------------------------
