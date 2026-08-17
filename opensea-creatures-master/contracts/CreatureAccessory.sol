@@ -2,7 +2,7 @@ s-Interactions ordering enforced everywhere
  *      - Explicit zero-address checks on all address parameters
  *      - Batch array length validation (mismatched arrays cause silent
  *        under/over-minting in the original)
- *      - Max supply cap per token to prevent unbounded/infinite minting
+ *      - Mn to prevent unbounded/infinite minting
  *      - Burn amount validated against balance before subtracting, with
  *        a clear custom error rather than relying on the implicit
  *        Solidity 0.8 underflow revert
