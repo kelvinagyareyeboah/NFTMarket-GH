@@ -1,6 +1,4 @@
-
-    error ArrayLengthMismatch();
-    error EmptyArray();nt256 tokenId, uint256 have, uint256 want);
+int256 want);
     error NotAuthorized();
     error RoyaltyFeeTooHigh(uint96 fee, uint96 max);
     error MaxSupplyExceeded(uint256 tokenId, uint256 attempted, uint256 cap);
