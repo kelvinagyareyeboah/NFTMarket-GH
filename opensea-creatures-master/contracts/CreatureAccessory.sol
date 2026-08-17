@@ -1,5 +1,4 @@
 
- * @dev Security-hardened revision:
  *      - Custom errors instead of require strings (cheaper, clearer)
  *      - ReentrancyGuard on state-changing external c
  *        trigger callbacks to untrusted receivers via onERC1155Received /
