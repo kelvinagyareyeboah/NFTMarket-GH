@@ -1,6 +1,4 @@
  token ID
-    mapping(uint256 => uint256) public totalSupply;
-
     /// @notice Optional max supply per token ID (0 = uncapped)
     mapping(uint256 => uint256) public maxSupply;
 
