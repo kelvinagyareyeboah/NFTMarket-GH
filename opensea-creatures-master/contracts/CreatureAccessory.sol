@@ -1,6 +1,5 @@
 g external c
- *        trigger callbacks to untrusted receivers via onERC1155Received /
- *        onERC1155BatchReceived, so we guard against reentrancy there)
+ *      hReceived, so we guard against reentrancy there)
  *      - Checks-Effects-Interactions ordering enforced everywhere
  *      - Explicit zero-address checks on all address parameters
  *      - Batch array length validation (mismatched arrays cause silent
