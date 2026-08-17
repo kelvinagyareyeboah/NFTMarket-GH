@@ -1,6 +1,4 @@
- token ID
-    / per token ID (0 = uncapped)
-    mapping(uint256 => uint256) public maxSupply;
+ uint256) public maxSupply;
     //
     address private royaltyReceiver;
 
