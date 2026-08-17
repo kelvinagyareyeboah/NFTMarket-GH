@@ -1,6 +1,5 @@
 
-
-    /// @notice Royalty fee in basis points (e.g. 500 = 5%)
+ts (e.g. 500 = 5%)
     uint96 private royaltyFee;
 
     uint96 private constant MAX_ROYALTY_FEE_BPS = 1000; // 10%
