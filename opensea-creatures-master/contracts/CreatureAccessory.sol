@@ -1,10 +1,6 @@
 
     // ---------------------------------------------------------
-    // Events
-    // ---------------------------------------------------------
-
-    event Minted(address indexed to, uint256 indexed tokenId, uint256 amount);
-    event Burned(address indexed from, uint256 indexed tokenId, uint256 amount);
+    // --------------------------------------------------------    event Minted(address indexed to, uint256 indexed tokenId, uint256 amoudexed from, uint256 indexed tokenId, uint256 amount);
     event BaseURIUpdated(string newURI);
     event RoyaltyUpdated(address receiver, uint96 fee);
     event MaxSupplyUpdated(uint256 indexed tokenId, uint256 cap);
