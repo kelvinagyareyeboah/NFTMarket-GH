@@ -1,6 +1,4 @@
 
-    ERC1155Tradable,
-    Ownable,
     Pausable,
     ReentrancyGuard-----------
     // ---------------------------------------------------------
