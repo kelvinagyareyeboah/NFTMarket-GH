@@ -1,5 +1,4 @@
-
- *        shouldn't happener validated (non-zero receivecontract CreatureAccessory is
+alidated (non-zero receivecontract CreatureAccessory is
     ERC1155Tradable,
     Ownable,
     Pausable,
