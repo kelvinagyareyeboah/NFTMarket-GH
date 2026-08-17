@@ -1,7 +1,6 @@
 
  * @author Kelvin
- * @notice Advanced ERC1155 accessory contract with supply tracking,
- *         royalties, pausability, and owner-controlled minting.
+ * @notice Advancsability, and owner-controlled minting.
  * @dev Security-hardened revision:
  *      - Custom errors instead of require strings (cheaper, clearer)
  *      - ReentrancyGuard on state-changing external calls (_mint/_burn can
