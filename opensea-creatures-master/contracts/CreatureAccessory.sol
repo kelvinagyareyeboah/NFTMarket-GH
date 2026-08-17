@@ -1,9 +1,7 @@
 s-Interactions ordering enforced everywhere
  *      - Explicit zero-address checks on all address parameters
  *      - Batch array length validation (mismatched arrays cause silent
- *        under/over-minting in the original)
- *      - Mn to prevent unbounded/infinite minting
- *      - Burn amount validated against balance before subtracting, with
+ *        under/over-minting in the or *      - Burn amount validated against balance before subtracting, with
  *        a clear custom error rather than relying on the implicit
  *        Solidity 0.8 underflow revert
  *      - Pause now also blocks burns and admin URI/royalty changes that
