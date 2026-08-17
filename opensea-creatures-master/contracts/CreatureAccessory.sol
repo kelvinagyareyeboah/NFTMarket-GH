@@ -2,8 +2,7 @@
     ERC1155Tradable,
     Ownable,
     Pausable,
-    ReentrancyGuard-----------------
-    // Storage
+    ReentrancyGuard-----------
     // ---------------------------------------------------------
 
     /// @notice Total supply per token ID
