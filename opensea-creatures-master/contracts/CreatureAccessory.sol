@@ -1,6 +1,3 @@
-ax);
-    error MaxSupplyExceeded(uint256 tokenId, uint256 attempted, uint256 cap);
-    error InvalidMaxSupply(uint256 tokenId, uint256 cap, uint256 currentSupply);
 
     // ---------------------------------------------------------
     // Events
