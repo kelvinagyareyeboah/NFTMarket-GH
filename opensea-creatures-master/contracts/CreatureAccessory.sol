@@ -1,4 +1,4 @@
- ZeroAddress();
+
     error ArrayLengthMismatch();
     error EmptyArray();
     error InsufficientBalance(uint256 tokenId, uint256 have, uint256 want);
