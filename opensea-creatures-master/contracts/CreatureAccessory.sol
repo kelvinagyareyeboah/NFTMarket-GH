@@ -1,5 +1,4 @@
 
- * @title CreatureAccessory
  * @author Kelvin
  * @notice Advanced ERC1155 accessory contract with supply tracking,
  *         royalties, pausability, and owner-controlled minting.
