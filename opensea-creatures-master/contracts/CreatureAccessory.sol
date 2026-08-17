@@ -1,6 +1,4 @@
-int256 want);
-    error NotAuthorized();
-    error RoyaltyFeeTooHigh(uint96 fee, uint96 max);
+int256 want); fee, uint96 max);
     error MaxSupplyExceeded(uint256 tokenId, uint256 attempted, uint256 cap);
     error InvalidMaxSupply(uint256 tokenId, uint256 cap, uint256 currentSupply);
 
