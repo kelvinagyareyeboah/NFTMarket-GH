@@ -1,9 +1,6 @@
 s-Interactions ordering enforced everywhere
  *      - Explicit zero-address checks on all address parameters
- *      - Batch array length validation (mismatched arrays cause silent
- *        under/over-minting in the or *      - Burn amount validated against balance before subtracting, with
- *        a clear custom error rather than relying on the implicit
- *        Solidity 0.8 underflow revert
+ *      - Batch array length validation (mismatched arrays cause under/over-minting in the or *      - Burn amount validated against balance before subtracti *        Solidity 0.8 underflow revert
  *      - Pause now also blocks burns and admin URI/royalty changes that
  *        shouldn't happen mid-incident
  *      - Royalty fee & receiver validated (non-zero receiver, capped fee)
