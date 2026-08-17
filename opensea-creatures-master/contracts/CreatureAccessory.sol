@@ -1,6 +1,5 @@
 here checks ob URI/ro
- *        shouldn't happen mid-incident
- *      - Royalty fee & receiver validated (non-zero receiver, capped fee)
+ *        shouldn't happener validated (non-zero receiver, capped fee)
  *      - supportsInternst interfaceId == 0xffffffff
  */
 contract CreatureAccessory is
