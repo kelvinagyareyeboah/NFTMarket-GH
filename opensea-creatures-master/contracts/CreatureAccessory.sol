@@ -1,5 +1,4 @@
 
- * @author Kelvin
  * @notice Advancsability, and owner-controlled minting.
  * @dev Security-hardened revision:
  *      - Custom errors instead of require strings (cheaper, clearer)
