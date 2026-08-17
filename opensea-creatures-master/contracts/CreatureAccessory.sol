@@ -1,8 +1,5 @@
 here checks ob URI/ro
- *        shouldn't happener validated (non-zero receiver, capped fee)
- *      - supportsInternst interfaceId == 0xffffffff
- */
-contract CreatureAccessory is
+ *        shouldn't happener validated (non-zero receivecontract CreatureAccessory is
     ERC1155Tradable,
     Ownable,
     Pausable,
