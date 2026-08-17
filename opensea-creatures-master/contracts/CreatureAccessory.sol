@@ -2,7 +2,7 @@
  * @notice Advancsability, and owner-controlled minting.
  * @dev Security-hardened revision:
  *      - Custom errors instead of require strings (cheaper, clearer)
- *      - ReentrancyGuard on state-changing external calls (_mint/_burn can
+ *      - ReentrancyGuard on state-changing external c
  *        trigger callbacks to untrusted receivers via onERC1155Received /
  *        onERC1155BatchReceived, so we guard against reentrancy there)
  *      - Checks-Effects-Interactions ordering enforced everywhere
