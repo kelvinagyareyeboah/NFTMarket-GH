@@ -1,6 +1,6 @@
 IT
 
-pragma solidity ^0.8.0;
+pragm
 
 import "./ERC721Tradable.sol";
 import "./Creature.
