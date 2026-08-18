@@ -7,9 +7,7 @@
 
         // Insert c
         for (uint256 i = 0; i < NUM_CREATURES_PER_BOX; i++) {
-            // Mint the 
-            FactoryERC721 factory = FactoryERC721(factoryAddress);
-            factory.mint(OPTION_ID, _msgSender());
+            // M            factory.mint(OPTION_ID, _msgSender());
         }
 
         // Burn the presale item.
