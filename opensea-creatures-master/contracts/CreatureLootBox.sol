@@ -1,5 +1,4 @@
 
-import "./ERC721Tradable.sol";
 import "./Creature.
  * CreatureLootBox - a tradeable loot box of Creatures.
  */
