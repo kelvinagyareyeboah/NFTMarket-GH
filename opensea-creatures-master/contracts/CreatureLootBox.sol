@@ -7,7 +7,7 @@ import "./Creature.sol";
 import "./IFactoryERC721.sol";
 
 /**
- * @title CreatureLootBox
+ * @title
  *
  * CreatureLootBox - a tradeable loot box of Creatures.
  */
