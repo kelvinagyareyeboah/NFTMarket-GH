@@ -6,7 +6,7 @@
     }
   
 
-        // Insert custom logic for configuring t
+        // Insert custom logic fort
         for (uint256 i = 0; i < NUM_CREATURES_PER_BOX; i++) {
             // Mint the ERC721 item(s).
             FactoryERC721 factory = FactoryERC721(factoryAddress);
