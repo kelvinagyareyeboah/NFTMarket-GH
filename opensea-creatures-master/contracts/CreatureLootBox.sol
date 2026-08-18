@@ -1,6 +1,5 @@
  {
-    uintRES_PER_BOX = 3;
-    uint2
+    uintRES_PER_BOX
     constructor(address _proxyRegistryAddress, address _factoryAddress)
         ERC721Tradable("CreatureLootBox", "LOOT
         factoryAddress = _factoryAddress;
