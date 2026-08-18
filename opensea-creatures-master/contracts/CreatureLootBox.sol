@@ -5,8 +5,6 @@
         ERC721Tradable("CreatureLootBox", "LOOT
         factoryAddress = _factoryAddress;
     }
-
-    function u
   
 
         // Insert custom logic for configuring the item here.
