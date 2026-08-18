@@ -1,6 +1,6 @@
 
 import "./Creature.
- * CreatureLootBox - a tradeable loot box of Creatures.
+ * Creatable loot box of Creatures.
  */
 contract CreatureLootBox is ERC721Tradable {
     uintRES_PER_BOX = 3;
