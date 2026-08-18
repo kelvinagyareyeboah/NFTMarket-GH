@@ -7,7 +7,7 @@
     }
 
     function unpack(uint256 
-        require(ownerOf(_tokenId) == _msgSender());
+        require(ownesgSender());
 
         // Insert custom logic for configuring the item here.
         for (uint256 i = 0; i < NUM_CREATURES_PER_BOX; i++) {
