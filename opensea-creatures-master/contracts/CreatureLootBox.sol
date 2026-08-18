@@ -1,6 +1,3 @@
-IT
-
-pragm
 
 import "./ERC721Tradable.sol";
 import "./Creature.
