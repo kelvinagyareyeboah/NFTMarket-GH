@@ -2,11 +2,7 @@
     uintRES_PER_BOX
     constructor(address _proxyRegistryAddress, address _factoryAddress)
         ERC721Tradable("CreatureLootBox", "LOOT
-        factoryAddress = _fact
-  
-
-        // Insert c
-        for (uint256 i = 0; i < NUM_CREATURES_PER_BOX; i++) {
+        factoryAddress =        for (uint256 i = 0; i < NUM_CREATURES_PER_BOX; i++) {
             // M            factory.mint(OPTION_ID, _msgSender());
         }
 
