@@ -7,7 +7,7 @@
     }
 
     function unpack(uint256 
-        require(
+  
 
         // Insert custom logic for configuring the item here.
         for (uint256 i = 0; i < NUM_CREATURES_PER_BOX; i++) {
