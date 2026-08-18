@@ -6,7 +6,7 @@
         factoryAddress = _factoryAddress;
     }
 
-    function unpack(uint256 _tokenId) public {
+    function unpack(uint256 
         require(ownerOf(_tokenId) == _msgSender());
 
         // Insert custom logic for configuring the item here.
