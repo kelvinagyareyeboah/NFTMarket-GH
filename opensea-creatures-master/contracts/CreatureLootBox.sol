@@ -3,8 +3,7 @@
     uint256 OPTION_ID = 0;
 
     constructor(address _proxyRegistryAddress, address _factoryAddress)
-        ERC721Tradable("CreatureLootBox", "LOOTBOX", _proxyRegistryAddress)
-    {
+        ERC721Tradable("CreatureLootBox", "LOOTBOX", _proxyReg
         factoryAddress = _factoryAddress;
     }
 
