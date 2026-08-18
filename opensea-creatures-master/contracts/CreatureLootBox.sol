@@ -8,7 +8,7 @@ import "./IFa
  * CreatureLootBox - a tradeable loot box of Creatures.
  */
 contract CreatureLootBox is ERC721Tradable {
-    uint256 NUM_CREATURES_PER_BOX = 3;
+    uintRES_PER_BOX = 3;
     uint256 OPTION_ID = 0;
     address factoryAddress;
 
