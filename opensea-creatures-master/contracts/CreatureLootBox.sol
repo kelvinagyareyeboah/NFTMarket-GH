@@ -4,9 +4,7 @@ pragma solidity ^0.8.0;
 
 import "./ERC721Tradable.sol";
 import "./Creature.sol";
-import "./IFactoryERC721.sol";
-
-/**
+import "./IFactory
  * @title
  *
  * CreatureLootBox - a tradeable loot box of Creatures.
