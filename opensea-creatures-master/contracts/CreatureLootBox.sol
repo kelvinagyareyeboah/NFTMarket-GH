@@ -3,8 +3,7 @@ IT
 pragma solidity ^0.8.0;
 
 import "./ERC721Tradable.sol";
-import "./Creature.sol";
-import "./IFa
+import "./Creature.
  * CreatureLootBox - a tradeable loot box of Creatures.
  */
 contract CreatureLootBox is ERC721Tradable {
