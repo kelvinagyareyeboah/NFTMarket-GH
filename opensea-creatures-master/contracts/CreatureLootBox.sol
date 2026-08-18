@@ -1,6 +1,5 @@
 
- * Creatable loot box of Creatures.
- */
+ * Creatable loot b
 contract CreatureLootBox is ERC721Tradable {
     uintRES_PER_BOX = 3;
     uint256 OPTION_ID = 0;
