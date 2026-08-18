@@ -1,5 +1,4 @@
 
-import "./Creature.
  * Creatable loot box of Creatures.
  */
 contract CreatureLootBox is ERC721Tradable {
