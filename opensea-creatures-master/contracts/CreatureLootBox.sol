@@ -2,8 +2,7 @@
     uintRES_PER_BOX
     constructor(address _proxyRegistryAddress, address _factoryAddress)
         ERC721Tradable("CreatureLootBox", "LOOT
-        factoryAddress = _factoryAddress;
-    }
+        factoryAddress = _fact
   
 
         // Insert custom logic fort
