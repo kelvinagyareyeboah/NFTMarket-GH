@@ -1,5 +1,4 @@
-
-        LootBoxRandomness.setOptionSettings(statyPerOpen, _classProbabilities, _gu
+rOpen, _classProbabilities, _gu
     ////////////////////////////////////
     // MAIN U
      * @notice Oded NFTs to the recipis Address that will rece
