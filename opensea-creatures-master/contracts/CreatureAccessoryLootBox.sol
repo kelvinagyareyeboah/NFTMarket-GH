@@ -1,7 +1,6 @@
 axQuantityPerOpen Maximum n
      * @param _classProbabilities Arra to select each item cla     * Callable only by t
-        uint256 _ma
-        uint16[] m
+        uint256 _
         LootBoxRandomness.setOptionSettings(state, _option, _maxQuantityPerOpen, _classProbabilities, _guarantees);
     }
 
