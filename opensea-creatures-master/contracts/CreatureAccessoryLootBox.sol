@@ -6,7 +6,7 @@ hat class.
      * @param _maxQuantityPerOpen Maximum number of NFTs .
      * @param _classProbabilities Arra to select each item class.
      * @param _guarantee guaper open.
-     * Callable only by the contract ow  
+     * Callable only by t
         uint256 _maxQuantityPerOpen,
         uint16[] memory _classProbabilities,
         uint16[] memory _guarantees
