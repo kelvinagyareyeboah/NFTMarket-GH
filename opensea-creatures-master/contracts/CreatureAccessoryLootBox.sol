@@ -1,6 +1,4 @@
-State(stae
-    /**
-     * @notice Defines which token IDs belong to a specific class.
+fines which token IDs belong to a specific class.
      * @param _classId ID of the item class.
      * @param _tokenIds List of token IDs in that class.
      * Callable only by the contract owner.
