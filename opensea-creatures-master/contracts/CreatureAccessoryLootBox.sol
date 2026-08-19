@@ -4,7 +4,7 @@
     // MAIN U
      * @notice Oded NFTs to the recipis Address that will rece
      * @param _amount Number of lo
-     * Anyone holding lootboxes
+     * Anyone ho
      */
     function unpack(
         uint256 _optionId,
