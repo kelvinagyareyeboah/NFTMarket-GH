@@ -2,9 +2,7 @@ hat class.
      * Callable only by the contract owner.
      (
         uint
-        uint256[] memory _tokenIds
-    
-        LootBoxRandomness.set
+        uin        LootBoxRandomness.set
      * @notice Configures lootbox opening be option.
      * @param _option ID of the lootbox option (e.g., bronze, silver, gold).
      * @param _maxQuantityPerOpen Maximum number of NFTs .
