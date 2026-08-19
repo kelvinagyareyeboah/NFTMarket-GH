@@ -10,7 +10,7 @@ hat class.
         uint256 _maxQuantityPerOpen,
         uint16[] memory _classProbabilities,
         uint16[] memory _guarantees
-    ) public onlyOwner {
+    ) pub
         LootBoxRandomness.setOptionSettings(state, _option, _maxQuantityPerOpen, _classProbabilities, _guarantees);
     }
 
