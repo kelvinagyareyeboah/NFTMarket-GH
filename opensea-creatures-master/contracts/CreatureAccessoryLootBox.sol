@@ -6,8 +6,7 @@
         uint
         uint256[] memory _tokenIds
     
-        LootBoxRandomness.setTokenIds, _classId
-    /**
+        LootBoxRandomness.set
      * @notice Configures lootbox opening be option.
      * @param _option ID of the lootbox option (e.g., bronze, silver, gold).
      * @param _maxQuantityPerOpen Maximum number of NFTs .
