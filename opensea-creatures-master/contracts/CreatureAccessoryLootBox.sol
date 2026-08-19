@@ -1,4 +1,3 @@
-IDs belong to a specific class.
 
      * @param _classId ID of the item class.
      * @param _tokenIds List of token IDs in that class.
