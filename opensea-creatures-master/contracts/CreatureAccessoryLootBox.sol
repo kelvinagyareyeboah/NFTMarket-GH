@@ -1,5 +1,4 @@
-ilver, gold).
-     * @param _maxQuantityPerOpen Maximum n
+axQuantityPerOpen Maximum n
      * @param _classProbabilities Arra to select each item cla     * Callable only by t
         uint256 _ma
         uint16[] memorbabilities,
