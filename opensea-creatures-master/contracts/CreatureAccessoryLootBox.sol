@@ -8,8 +8,7 @@
     /**
      * @notice Mints lootbox tokens to an address.
      * @param _to Recipient address.
-     * @param _optionId Lootbox type ID (also used as token ID).
-     * @param _amount Number of lootboxes to mint.
+     * @param _optionId Lootbox type ID (also used as tont.
      * @param _data Optional data.
      * Only callable by the owner or their proxy (for integration with marketplaces).
      */
