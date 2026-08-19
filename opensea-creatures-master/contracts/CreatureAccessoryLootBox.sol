@@ -1,5 +1,4 @@
-_amou _toAddress,
-        ui
+
     ) external {
         // Burns the lootbox toill revert if not enough balance)
         _burn(_msgSender(), _optionId, _amount);
