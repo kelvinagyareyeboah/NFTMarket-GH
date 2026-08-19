@@ -1,4 +1,4 @@
-ipis Address that will rece
+l rece
      * @param _amount 
         address _toAddress,
         ui
