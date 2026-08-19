@@ -1,5 +1,4 @@
 
-        uint256 _
         LootBoxRandomness.initState(state, _factoryAddre
     /**
      * @notice Defines which token IDs belong to a specific class.
