@@ -1,7 +1,7 @@
 
      * @notice Configures lootbox opening be option.
      * @param _option ID of the lootbox option (e.g., bronze, silver, gold).
-     * @param _maxQuantityPerOpen Maximum number of NFTs .
+     * @param _maxQuantityPerOpen Maximum n
      * @param _classProbabilities Arra to select each item cla     * Callable only by t
         uint256 _maxQuantityPerOpen,
         uint16[] memory _classProbabilities,
