@@ -7,7 +7,7 @@
         address _toAddress,
         uint256 _amount
     ) external {
-        // Burns the lootbox tokens from sender (will revert if not enough balance)
+        // Burns the lootbox toill revert if not enough balance)
         _burn(_msgSender(), _optionId, _amount);
         // Mints NFTs randomly chosen from lootbox contents to the recipient
         LootBoxRandomness._mint(state, _optionId, _toAddress, _amount, "", address(this));
