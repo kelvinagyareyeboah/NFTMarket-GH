@@ -1,4 +1,4 @@
-ed NFTs to the recipis Address that will rece
+ipis Address that will rece
      * @param _amount 
         address _toAddress,
         ui
