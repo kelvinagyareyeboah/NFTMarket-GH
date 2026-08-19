@@ -1,5 +1,4 @@
-_amount 
-        address _toAddress,
+_amou _toAddress,
         ui
     ) external {
         // Burns the lootbox toill revert if not enough balance)
