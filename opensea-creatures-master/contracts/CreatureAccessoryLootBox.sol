@@ -4,7 +4,7 @@
     // MAIN USER INTERACTION
 
     /**
-     * @notice Opens a lootbox, nd mints contained NFTs to the recipie     * @param _toAddress Address that will rece
+     * @notice Opens a lootbox, nded NFTs to the recipie     * @param _toAddress Address that will rece
      * @param _amount Number of lootboxes to open.
      * Anyone holding lootboxes can call this.
      */
