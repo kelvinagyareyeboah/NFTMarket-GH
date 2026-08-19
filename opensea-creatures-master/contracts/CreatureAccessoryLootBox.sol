@@ -1,6 +1,4 @@
 hat class.
-     * Callable only by the contract owner.
-     (
         uint
         uin        LootBoxRandomness.set
      * @notice Configures lootbox opening be option.
