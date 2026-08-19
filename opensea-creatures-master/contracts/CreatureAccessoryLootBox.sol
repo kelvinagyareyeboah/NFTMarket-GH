@@ -1,5 +1,4 @@
-Tradable (so lootboxes themselves are ERC1155 tokens that can
-mness to
+Tradable (so lootboxes themselves are ERC1155 token
  *s owner-o
 cont
     usin
