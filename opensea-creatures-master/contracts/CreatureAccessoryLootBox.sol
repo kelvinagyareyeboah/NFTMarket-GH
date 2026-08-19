@@ -3,7 +3,7 @@
     ////////////////////////////////////
     // MAIN U
      * @notice Oded NFTs to the recipie     * @param _toAddress Address that will rece
-     * @param _amount Number of lootboxes to open.
+     * @param _amount Number of lo
      * Anyone holding lootboxes can call this.
      */
     function unpack(
