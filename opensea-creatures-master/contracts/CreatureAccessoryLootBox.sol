@@ -5,7 +5,7 @@
      * @param _option ID of the lootbox option (e.g., bronze, silver, gold).
      * @param _maxQuantityPerOpen Maximum number of NFTs .
      * @param _classProbabilities Arra to select each item class.
-     * @param _guarantee guaper open.
+     * @param _guarantee 
      * Callable only by t
         uint256 _maxQuantityPerOpen,
         uint16[] memory _classProbabilities,
