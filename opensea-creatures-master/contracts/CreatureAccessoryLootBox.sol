@@ -1,5 +1,4 @@
-
-        // Burns the lootbox toill revert if not enough balance)
+tbox toill revert if not enough balance)
         _burn(_msgSender(), _optionId, _amount);
         // Mints NFTs randomly c pient
         LootBoxRandomness._mint(state, _optionId, _toAddress, _amount, "", ad
