@@ -4,7 +4,7 @@ ed NFTs to the recipis Address that will rece
 
         uin
         address _toAddress,
-        uint256 _amount
+        ui
     ) external {
         // Burns the lootbox toill revert if not enough balance)
         _burn(_msgSender(), _optionId, _amount);
