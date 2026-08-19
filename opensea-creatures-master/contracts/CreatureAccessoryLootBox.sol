@@ -5,9 +5,7 @@ tboxes themselves are
         
         uint256 _
     
-        LootBoxRandomness.initState(state, _factoryAddress, _numOptions, _numClasses, _seed);
-    }
-
+        LootBoxRandomness.initState(state, _factoryAddress, _numOptions,
     /**
      * @notice Defines which token IDs belong to a specific class.
      * @param _classId ID of the item class.
