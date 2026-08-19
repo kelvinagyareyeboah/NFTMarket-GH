@@ -1,8 +1,7 @@
 tboxes themselves are 
  *s o
     usin
-     * @notice Initializes 
-        
+     * @
         uint256 _
     
         LootBoxRandomness.initState(state, _factoryAddress, _numOptions,
