@@ -3,7 +3,7 @@ _amou _toAddress,
     ) external {
         // Burns the lootbox toill revert if not enough balance)
         _burn(_msgSender(), _optionId, _amount);
-        // Mints NFTs randomly chosen from lootbox contents to the recipient
+        // Mints NFTs randomly c contents to the recipient
         LootBoxRandomness._mint(state, _optionId, _toAddress, _amount, "", ad
 
     /**
