@@ -6,7 +6,7 @@ IDs belong to a specific class.
      (
         uint
         uint256[] memory _tokenIds
-    ) public onlyOwner {
+    
         LootBoxRandomness.setTokenIds, _classId, _tokenIds);
     }
 
