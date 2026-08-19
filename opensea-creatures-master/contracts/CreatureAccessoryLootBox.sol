@@ -13,7 +13,7 @@
      * @param _maxQuantityPerOpen Maximum number of NFTs to mint per opening.
      * @param _classProbabilities Array defining probabilities to select each item class.
      * @param _guarantees Array defining guaranteed item classes per open.
-     * Callable only by the contract ow        uint256 _option,
+     * Callable only by the contract ow  
         uint256 _maxQuantityPerOpen,
         uint16[] memory _classProbabilities,
         uint16[] memory _guarantees
