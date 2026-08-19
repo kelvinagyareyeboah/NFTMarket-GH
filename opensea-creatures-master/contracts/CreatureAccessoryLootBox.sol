@@ -2,7 +2,7 @@
         LootBoxRandomness.setOptionSettings(statyPerOpen, _classProbabilities, _gu
     ////////////////////////////////////
     // MAIN U
-     * @notice Oded NFTs to the recipie     * @param _toAddress Address that will rece
+     * @notice Oded NFTs to the recipis Address that will rece
      * @param _amount Number of lo
      * Anyone holding lootboxes can call this.
      */
