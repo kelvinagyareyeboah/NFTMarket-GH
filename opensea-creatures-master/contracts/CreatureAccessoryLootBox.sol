@@ -1,4 +1,4 @@
-tboxes themselves are ERC1155 token
+tboxes themselves are 
  *s owner-o
 cont
     usin
