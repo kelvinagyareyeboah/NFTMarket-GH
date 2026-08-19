@@ -8,7 +8,7 @@
     
         LootBoxRandomness.setTokenIds, _classId
     /**
-     * @notice Configures lootbox opening behavior for a given option.
+     * @notice Configures lootbox opening be option.
      * @param _option ID of the lootbox option (e.g., bronze, silver, gold).
      * @param _maxQuantityPerOpen Maximum number of NFTs .
      * @param _classProbabilities Array defining probabilities to select each item class.
