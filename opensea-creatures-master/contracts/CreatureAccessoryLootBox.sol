@@ -1,4 +1,4 @@
-hat class.
+
         uint
         uin        LootBoxRandomness.set
      * @notice Configures lootbox opening be option.
