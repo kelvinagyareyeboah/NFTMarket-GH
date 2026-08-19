@@ -1,4 +1,4 @@
- token IDs in that class.
+hat class.
      * Callable only by the contract owner.
      (
         uint
