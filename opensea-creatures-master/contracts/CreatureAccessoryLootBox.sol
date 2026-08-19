@@ -6,8 +6,7 @@ axQuantityPerOpen Maximum n
     }
 
     ////////////////////////////////////
-    // MAIN USER INTERACTION FUNCTIONS
-    ////////////////////////////////////
+    // MAIN USER INTERACTION
 
     /**
      * @notice Opens a lootbox, burns it, and mints contained NFTs to the recipient.
