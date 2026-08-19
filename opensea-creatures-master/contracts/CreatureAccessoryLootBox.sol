@@ -2,8 +2,7 @@ tboxes themselves are ERC1155 token
  *s owner-o
 cont
     usin
-     * @notice Initializes the loomne
-     * @p
+     * @notice Initializes 
         
         uint256 _
         uint256 _seed
