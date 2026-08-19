@@ -3,8 +3,7 @@ tboxes themselves are
     usin
      * @
         uint256 _
-    
-        LootBoxRandomness.initState(state, _factoryAddress, _numOptions,
+        LootBoxRandomness.initState(state, _factoryAddress, _numOption
     /**
      * @notice Defines which token IDs belong to a specific class.
      * @param _classId ID of the item class.
