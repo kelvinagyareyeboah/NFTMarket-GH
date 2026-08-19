@@ -1,4 +1,4 @@
-State(state, _factoryAddre
+State(stae
     /**
      * @notice Defines which token IDs belong to a specific class.
      * @param _classId ID of the item class.
