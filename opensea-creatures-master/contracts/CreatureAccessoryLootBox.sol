@@ -5,8 +5,7 @@ cont
      * @notice Initializes 
         
         uint256 _
-        uint256 _seed
-    )
+    
         LootBoxRandomness.initState(state, _factoryAddress, _numOptions, _numClasses, _seed);
     }
 
