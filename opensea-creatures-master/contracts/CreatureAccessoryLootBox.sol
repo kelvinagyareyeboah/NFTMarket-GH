@@ -1,5 +1,5 @@
-
-     * @param _classId ID of the item class.
+s
+ID of the item class.
      * @param _tokenIds List of token IDs in that class.
      * Callable only by the contract owner.
      (
