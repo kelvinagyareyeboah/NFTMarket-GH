@@ -1,5 +1,4 @@
-
-        LootBoxRandomness.initState(state, _factoryAddre
+State(state, _factoryAddre
     /**
      * @notice Defines which token IDs belong to a specific class.
      * @param _classId ID of the item class.
