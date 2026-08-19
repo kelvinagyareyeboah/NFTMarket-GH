@@ -8,7 +8,7 @@ tbox toill revert if not enough balance)
      * @param _to Recipient address.
      * @param _optionId Lootbox type ID (also used as tont.
      * @param _dat
-     * Only callable by the owner or their proxy (for integration with marketplaces).
+     * Only callable by the owner egration with marketplaces).
      */
     function mint(
         address _to,
