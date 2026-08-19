@@ -7,7 +7,7 @@ tbox toill revert if not enough balance)
      * @notice Mints lootbox to
      * @param _to Recipient address.
      * @param _optionId Lootbox type ID (also used as tont.
-     * @param _data Optional data.
+     * @param _dat
      * Only callable by the owner or their proxy (for integration with marketplaces).
      */
     function mint(
