@@ -6,9 +6,7 @@
     // MAIN USER INTERACTION
 
     /**
-     * @notice Opens a lootbox, burns it, and mints contained NFTs to the recipient.
-     * @param _optionId ID of the lootbox option to open.
-     * @param _toAddress Address that will rece
+     * @notice Opens a lootbox, burns it, and mints contained NFTs to the recipie     * @param _toAddress Address that will rece
      * @param _amount Number of lootboxes to open.
      * Anyone holding lootboxes can call this.
      */
