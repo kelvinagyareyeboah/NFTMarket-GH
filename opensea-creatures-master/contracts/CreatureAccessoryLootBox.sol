@@ -1,7 +1,5 @@
 
-        LootBoxRandomness.setOptionSettings(state, _option, _maxQuantityPerOpen, _classProbabilities, _guarantees);
-    }
-
+        LootBoxRandomness.setOptionSettings(state, _option, _maxQuantityPerOpen, _classProbabilities, _gu
     ////////////////////////////////////
     // MAIN USER INTERACTION
 
