@@ -6,9 +6,7 @@
         uint
         uint256[] memory _tokenIds
     
-        LootBoxRandomness.setTokenIds, _classId, _tokenIds);
-    }
-
+        LootBoxRandomness.setTokenIds, _classId
     /**
      * @notice Configures lootbox opening behavior for a given option.
      * @param _option ID of the lootbox option (e.g., bronze, silver, gold).
