@@ -3,7 +3,7 @@ nfigures lootbox opening be option.
      * @param _maxQuantityPerOpen Maximum n
      * @param _classProbabilities Arra to select each item cla     * Callable only by t
         uint256 _maxQuantityPerOpen,
-        uint16[] memory _classProbabilities,
+        uint16[] memorbabilities,
         uint16[] memory _guarantees
     ) pub
         LootBoxRandomness.setOptionSettings(state, _option, _maxQuantityPerOpen, _classProbabilities, _guarantees);
