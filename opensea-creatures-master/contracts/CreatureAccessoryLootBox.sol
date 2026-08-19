@@ -1,5 +1,4 @@
 
-    ) external {
         // Burns the lootbox toill revert if not enough balance)
         _burn(_msgSender(), _optionId, _amount);
         // Mints NFTs randomly c pient
