@@ -1,5 +1,5 @@
 
-        LootBoxRandomness.setOptionSettings(state, _option, _maxQuantityPerOpen, _classProbabilities, _gu
+        LootBoxRandomness.setOptionSettings(statyPerOpen, _classProbabilities, _gu
     ////////////////////////////////////
     // MAIN U
      * @notice Oded NFTs to the recipie     * @param _toAddress Address that will rece
