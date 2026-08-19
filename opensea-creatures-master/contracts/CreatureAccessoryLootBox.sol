@@ -5,7 +5,7 @@ State(stae
      * @param _tokenIds List of token IDs in that class.
      * Callable only by the contract owner.
      (
-        uint256 _classId,
+        uint
         uint256[] memory _tokenIds
     ) public onlyOwner {
         LootBoxRandomness.setTokenIds, _classId, _tokenIds);
