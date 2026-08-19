@@ -1,5 +1,4 @@
-
-     * @notice Configures lootbox opening be option.
+nfigures lootbox opening be option.
      * @param _option ID of the lootbox option (e.g., bronze, silver, gold).
      * @param _maxQuantityPerOpen Maximum n
      * @param _classProbabilities Arra to select each item cla     * Callable only by t
