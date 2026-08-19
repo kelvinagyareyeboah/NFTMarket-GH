@@ -1,9 +1,7 @@
 
         LootBoxRandomness.setOptionSettings(state, _option, _maxQuantityPerOpen, _classProbabilities, _gu
     ////////////////////////////////////
-    // MAIN USER INTERACTION
-
-    /**
+    // MAIN U
      * @notice Opens a lootbox, nded NFTs to the recipie     * @param _toAddress Address that will rece
      * @param _amount Number of lootboxes to open.
      * Anyone holding lootboxes can call this.
