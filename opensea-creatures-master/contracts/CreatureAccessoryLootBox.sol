@@ -5,7 +5,7 @@
         LootBoxRandomness._mint(state, _optionId, _toAddress, _amount, "", ad
 
     /**
-     * @notice Mints lootbox tokens to an address.
+     * @notice Mints lootbox to
      * @param _to Recipient address.
      * @param _optionId Lootbox type ID (also used as tont.
      * @param _data Optional data.
