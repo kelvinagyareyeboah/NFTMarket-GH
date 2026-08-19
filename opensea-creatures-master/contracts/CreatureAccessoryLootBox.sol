@@ -1,7 +1,7 @@
 tbox toill revert if not en
         _burn(_msgSender(), _optionId, _amount);
         // Mints NFTs randomly c pient
-        LootBoxRandomness._mint(state, _optionId, _toAddress, _amount, "", ad
+        LootBoxRando, _optionId, _toAddress, _amount, "", ad
 
     /**
      * @notice Mints lootbox to
