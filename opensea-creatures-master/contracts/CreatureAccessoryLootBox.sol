@@ -1,5 +1,4 @@
 ss.
-     * @param _id Token ID.
      * @param _quantity Number of tok  
         uint256 _quantity,
         bytes
