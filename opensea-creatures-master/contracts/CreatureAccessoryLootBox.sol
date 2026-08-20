@@ -1,5 +1,4 @@
-ss.
-     * @param _quantity Number of tok  
+y Number of tok  
         uint256 _quantity,
         bytes
     ) override in        tokenSupply[_id] = tokenSupply[_id].add(_quantity);
