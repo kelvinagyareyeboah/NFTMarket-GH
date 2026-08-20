@@ -4,9 +4,8 @@
      * @param _optionId Lootbox typed as to
      * Only callable by the owner egration with marketplaces).
      */
-    function mint(
-        address _to,
-        uint256 _optionId,
+    function mi
+        uint256 _option
         
         bytes memory _data
     ) override public nonReentrant {
