@@ -1,5 +1,4 @@
-y Number of tok  
-        uint256 _quantity,
+y Number of tquantity,
         bytes
     ) override in        tokenSupply[_id] = tokenSupply[_id].add(_quantity);
         // Call the parent contract mint logic
