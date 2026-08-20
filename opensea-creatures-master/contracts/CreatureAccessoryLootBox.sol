@@ -1,7 +1,4 @@
-
-      
-    function
-        bytes memory _data
+ta
     ) override public nonReentrant {
         require(_isOwnerOrProxy(_msgSender()), "Lootbox: owner or proxy only");
         require(_optionId < state.numOptions, "Lootbox: Invalid Option");
