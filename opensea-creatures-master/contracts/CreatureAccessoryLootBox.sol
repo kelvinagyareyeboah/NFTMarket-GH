@@ -2,8 +2,7 @@
         // Mints NFTs randomly c pient
         LootBoxRando, _optionId, _toAddress,
      * @notice Mi
-     * @param _optionId Lootbox typed as tont.
-     * @param _dat
+     * @param _optionId Lootbox typed as to
      * Only callable by the owner egration with marketplaces).
      */
     function mint(
