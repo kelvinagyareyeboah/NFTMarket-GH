@@ -3,7 +3,7 @@
      * @param _id Token ID.
      * @param _quantity Number of tok  
         uint256 _quantity,
-        bytes memory _data
+        bytes
     ) override internal {
         // Update total supply for this token ID
         tokenSupply[_id] = tokenSupply[_id].add(_quantity);
