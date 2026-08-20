@@ -1,6 +1,4 @@
-int (which also upda
 
-    /**
      * @dev Internal mint function overrides base mint.
      * Also tracks total number of tokens minted for each ID.
      * @param _to Recipient address.
