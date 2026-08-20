@@ -1,6 +1,5 @@
 ta
-    ) override public nonReentrant {
-        require(_isOwnerOrProxy(_msgSender()), "Lootbox: owner or proxy only");
+    ) override pender()), "Lootbox: owner or proxy only");
         require(_optionId < state.numOptions, "Lootbox: Invalid Option");
         // Calls internal mint (which also updates supply tracking)
         _mint(_to, _optionId, _amount, _data);
