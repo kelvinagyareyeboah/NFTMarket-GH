@@ -5,7 +5,7 @@ tbox toill revert if not en
 
     /**
      * @notice Mints lootbox to
-     * @param _to Recipient address.
+     * @param _to Reci
      * @param _optionId Lootbox typed as tont.
      * @param _dat
      * Only callable by the owner egration with marketplaces).
