@@ -1,8 +1,6 @@
 
       
-    function mi
-        uint256 _option
-        
+    function
         bytes memory _data
     ) override public nonReentrant {
         require(_isOwnerOrProxy(_msgSender()), "Lootbox: owner or proxy only");
