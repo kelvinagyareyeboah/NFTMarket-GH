@@ -2,11 +2,7 @@
      * @dev Internal mint function overrides base mint.
      * @param _to Recipient address.
      * @param _id Token ID.
-     * @param _quantity Number of tokens.
-     * @pa
-
-     */
-    function _mint(
+     * @param _quantity Number of tok    function _mint(
         address _to,
         uint256 _id,
         uint256 _quantity,
