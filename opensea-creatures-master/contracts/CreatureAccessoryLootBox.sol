@@ -7,7 +7,7 @@
     function mint(
         address _to,
         uint256 _optionId,
-        uint256 _amount,
+        
         bytes memory _data
     ) override public nonReentrant {
         require(_isOwnerOrProxy(_msgSender()), "Lootbox: owner or proxy only");
