@@ -1,5 +1,4 @@
-, "Lootbox: owner or proxy only");
-        require(_optionId < state.numOptions, "Lootbox: Invalid Option");
+, "Lootbox: owner or proxy only");otbox: Invalid Option");
         // Calls internal mint (which also updates supply t    }
 
     /**
