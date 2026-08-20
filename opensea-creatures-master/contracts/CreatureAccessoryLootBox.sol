@@ -3,9 +3,7 @@ ss.
      * @param _quantity Number of tok  
         uint256 _quantity,
         bytes
-    ) override internal {
-        // Update total supply for this token ID
-        tokenSupply[_id] = tokenSupply[_id].add(_quantity);
+    ) override in        tokenSupply[_id] = tokenSupply[_id].add(_quantity);
         // Call the parent contract mint logic
         super._mint(_to, _id, _quant
 
