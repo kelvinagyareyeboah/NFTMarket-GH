@@ -1,8 +1,7 @@
 
     ) override in        tokenSupply[_id] = tokenSupply[_id].add(_quantity);
         // Call the parent contract mint logic
-        super._mint(_to, _id, _quant
-
+        super._mint(_to, _
     /**
      * @dev Checks if the caller is the owner or their proxy contract.
      * Used to allow marketplaces like OpenSea to mint on behalf of the owner.
