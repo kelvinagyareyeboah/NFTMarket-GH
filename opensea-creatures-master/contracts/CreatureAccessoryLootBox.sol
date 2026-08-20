@@ -1,5 +1,4 @@
-
-        _burn(_msgSender(), _optionId, _amount);
+, _optionId, _amount);
         // Mints NFTs randomly c pient
         LootBoxRando, _optionId, _toAddress, _amount, "", ad
 
