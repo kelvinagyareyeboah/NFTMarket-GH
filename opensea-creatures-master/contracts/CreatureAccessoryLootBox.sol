@@ -1,5 +1,4 @@
-
-        // Calls internal mint (which also upda
+int (which also upda
 
     /**
      * @dev Internal mint function overrides base mint.
