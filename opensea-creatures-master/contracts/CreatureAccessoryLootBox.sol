@@ -7,6 +7,5 @@ upply[_id] = tokenSupply[_id].add(_quantity);
      * @return True if caller is owner o
     function _isOwnerOrProxy(address _address) internal view returns (bool) {
         ProxyRegistry proxyRegistry = ProxyRegistry(proxyRegistryAddress);
-        return owner() == _address || address(proxyRegistry.proxies(owner())) == _address;
-    }
+        return owner() == _address || address(proxyRegistry.proxies(owner())) == _
 }
