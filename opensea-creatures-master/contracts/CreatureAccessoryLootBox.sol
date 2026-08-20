@@ -1,4 +1,4 @@
-, "Lootbox: owner or proxy only");otbox: Invalid Option");
+ proxy only");otbox: Invalid Option");
         // Calls internal mint (which also upda
 
     /**
