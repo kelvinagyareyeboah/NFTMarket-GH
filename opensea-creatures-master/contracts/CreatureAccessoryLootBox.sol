@@ -1,6 +1,5 @@
 
      * @dev Internal mint function overrides base mint.
-     * Also tracks total number of tokens minted for each ID.
      * @param _to Recipient address.
      * @param _id Token ID.
      * @param _quantity Number of tokens.
