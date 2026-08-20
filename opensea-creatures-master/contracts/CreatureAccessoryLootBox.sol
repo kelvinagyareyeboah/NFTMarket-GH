@@ -8,8 +8,7 @@
         // Update total supply for this token ID
         tokenSupply[_id] = tokenSupply[_id].add(_quantity);
         // Call the parent contract mint logic
-        super._mint(_to, _id, _quantity, _data);
-    }
+        super._mint(_to, _id, _quant
 
     /**
      * @dev Checks if the caller is the owner or their proxy contract.
