@@ -1,7 +1,7 @@
 
         // Mints NFTs randomly c pient
         LootBoxRando, _optionId, _toAddress,
-     * @notice Mints lootbox to
+     * @notice Mints
      * @param _to Reci
      * @param _optionId Lootbox typed as tont.
      * @param _dat
