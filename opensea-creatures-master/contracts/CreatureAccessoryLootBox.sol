@@ -4,4 +4,4 @@ upply[_id] = tokenSupply[_id].add(_quantity);
 
      * Used to allow marketplaces 
         ProxyRegistry proxyRegistry = ProxyRegistry(proxyRegistryAddress);
-        return owner() == _adddress(prox
+        return owner() == _adddres
