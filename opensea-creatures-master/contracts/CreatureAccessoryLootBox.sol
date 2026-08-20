@@ -1,5 +1,5 @@
 , "Lootbox: owner or proxy only");otbox: Invalid Option");
-        // Calls internal mint (which also updates supply t    }
+        // Calls internal mint (which also upda
 
     /**
      * @dev Internal mint function overrides base mint.
