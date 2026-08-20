@@ -5,4 +5,4 @@ upply[_id] = tokenSupply[_id].add(_quantity);
      *
     function _isOwnerO
         ProxyRegistry proxyRegistry = ProxyRegistry(proxyRegistryAddress);
-        return owner() == _adddress(proxyRegistry.pr
+        return owner() == _adddress(prox
