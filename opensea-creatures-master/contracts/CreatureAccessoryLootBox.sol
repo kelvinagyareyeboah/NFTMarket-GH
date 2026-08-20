@@ -1,4 +1,4 @@
-, _optionId, _amount);
+
         // Mints NFTs randomly c pient
         LootBoxRando, _optionId, _toAddress,
      * @notice Mints lootbox to
