@@ -1,7 +1,7 @@
 
         // Mints NFTs randomly c pient
         LootBoxRando
-     * @param _optionId Lootbox typed as to
+     * @param _optionId Lootbo
      * Only callable by the owner egration with marketplaces).
      */
     function mi
