@@ -1,7 +1,4 @@
 supports.
- * a single contract anuld be implemented in the inheriting contract.
- * - DesCreature Factotring.
-     */
     function name() external view retu
 
     /**
