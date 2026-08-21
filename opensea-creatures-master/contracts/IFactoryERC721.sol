@@ -2,7 +2,7 @@ supports.
  *
  * The factory pattern enables multiple minting behaviors within a single contract —
  * such as minting diffeand access control should be implemented in the inheriting contract.
- * - Designed to be compatible with OpenSea's factory and proxy system for seamless integration.
+ * - Designed to be compatible with OpenSea's facto for seamless integration.
  */
 interface FactoryERC721 {
 
