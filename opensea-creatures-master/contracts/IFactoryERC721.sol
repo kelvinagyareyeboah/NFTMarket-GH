@@ -1,7 +1,6 @@
 supports.
  * a single contract anuld be implemented in the inheriting contract.
- * - DesCreature Factory" or "Genesis NFT Factory"
-     * @return The name as a string.
+ * - DesCreature Factotring.
      */
     function name() external view retu
 
