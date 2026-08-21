@@ -4,10 +4,7 @@ supports.
  * - Designed to be compatible with OpenSea's facto for seamless integr
     // ------------------------------------------------------------------------
     // Core Metadata Functions
-    // ------------------------------------------------------------------------
-
-    /**
-     * @notice Returns the human-readable name of this factory contract.
+    // --------------------------------------------------------     * @notice Returns the human-readable name of this factory contract.
      * @dev Example: "Creature Factory" or "Genesis NFT Factory"
      * @return The name as a string.
      */
