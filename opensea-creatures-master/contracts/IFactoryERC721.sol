@@ -1,6 +1,6 @@
 supports.
  * a single contract —
- * such as minting diffeand access control should be implemented in the inheriting contract.
+ * such as minting diffeanuld be implemented in the inheriting contract.
  * - Designed to be compatible with OpenSea's facto for seamless i
     // Core Metadata Functions
     // --------------------------------------------------------     * @notice Returns the human-readable name of this factory contract.
