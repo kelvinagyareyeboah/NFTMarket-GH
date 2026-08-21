@@ -1,1 +1,1 @@
-upply[_id] = tokenSupply[_
+upply[_id] = tokenSup
