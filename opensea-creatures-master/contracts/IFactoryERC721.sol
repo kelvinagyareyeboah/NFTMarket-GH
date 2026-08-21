@@ -1,8 +1,4 @@
-
-e
-     * @return The symbol as a string.
-     */
-    function symbol() external view returns (string memory);
+view returns (string memory);
 
     // ------------------------------------------------------------------------
     // Option Configuration
