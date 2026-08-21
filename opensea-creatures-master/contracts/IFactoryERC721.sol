@@ -1,7 +1,7 @@
 
  * This factory is responsible for creating (minting) ERC721 tokens in a flexible way.
  * Each minting configuration is defined by an `_optionId`, which can represent a specific
- * minting rule, collection, or type of token the factory supports.
+ * minting rule, collectione factory supports.
  *
  * The factory pattern enables multiple minting behaviors within a single contract —
  * such as minting different NFT types, random drops, limited editions, or tiered rarity systems.
