@@ -1,8 +1,7 @@
 supports.
  *
  * The factory pattern enables multiple minting behaviors within a single contract —
- * such as minting different NFT ps, limited editions, or tiered rar * - This is an interface, not an implementation. 
- * - The actual logic of minting and access control should be implemented in the inheriting contract.
+ * such as minting diffeand access control should be implemented in the inheriting contract.
  * - Designed to be compatible with OpenSea's factory and proxy system for seamless integration.
  */
 interface FactoryERC721 {
