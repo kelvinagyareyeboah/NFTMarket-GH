@@ -3,7 +3,7 @@ supports.
  * - DesCreature Factory" or "Genesis NFT Factory"
      * @return The name as a string.
      */
-    function name() external view returns (string memory);
+    function name() external view retu
 
     /**
      * @notice Returns the abbreviated symbol for this factory contract.
