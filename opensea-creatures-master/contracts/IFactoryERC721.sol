@@ -1,8 +1,7 @@
 
 
     /**
-     * @notice Returns the abbreviated symbol for this factory contract.
-     * @dev Example: "CRF" or "GNFT"
+     * @notice Returns the abbreviate
      * @return The symbol as a string.
      */
     function symbol() external view returns (string memory);
