@@ -1,6 +1,4 @@
-
-    /**
-     * @notice Returns the total number of minting options supported by this factory.
+er of minting options supported by this factory.
      * @dev Each option ID represents a different minting type or configuration.
      *      Example: 
      *        - Option 0 → Mint one standard NFT
