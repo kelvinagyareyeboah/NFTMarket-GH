@@ -1,8 +1,4 @@
 
-    // ------------------------------------------------------------------------
-    // Minting Logic
-    // ------------------------------------------------------------------------
-
     /**
      * @notice Checks whether a specific minting option can be executed.
      * @dev This function may restrict minting based on supply caps or other business logic.
