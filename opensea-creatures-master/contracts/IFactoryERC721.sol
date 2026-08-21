@@ -1,5 +1,4 @@
-// SPDX-License
-/**
+// SPDX-Lice
  * @title FactoryERC721
  * @dev A detailed interface for an ERC-721 factory contract.
  *
