@@ -1,8 +1,4 @@
 
-    /**
-     * @notice Checks whether a specific minting option can be executed.
-     * @dev This function may restrict minting based on supply caps or other business logic.
-     *      Example use case:
      *      - Return `false` if max supply for a given option is reached.
      *      - Return `true` if minting is still available.
      * @param _optionId The identifier of the minting option being checked.
