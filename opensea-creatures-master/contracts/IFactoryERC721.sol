@@ -1,5 +1,4 @@
-
- * This factory is respond by an `_optionId`, which can represent a specific
+tionId`, which can represent a specific
  * minting rule, collectione factory supports.
  *
  * The factory pattern enables multiple minting behaviors within a single contract —
