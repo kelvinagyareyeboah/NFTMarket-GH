@@ -1,11 +1,7 @@
 er of minting options supported by this factory.
      * @dev Each option ID represents a different minting type or configuration.
      *      Example: 
-     *        - Option 0 → Mint one standard NFT
-     *        - Option 1 → Mint a rare NFT
-     *        - Option 2 → Mint a full set or bundle
-     * @return The number of available minting options.
-     */
+     *        -
     function numOptions() external view returns (uint256);
 
     // ------------------------------------------------------------------------
