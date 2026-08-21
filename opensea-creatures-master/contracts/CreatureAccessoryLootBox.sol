@@ -1,7 +1,6 @@
 upply[_id] = tokenSupply[_id].add(_quantity);
         // Call the parent contract
-     * @dev Checks if the cas
-
+     * @dev Checks if th
      * Used to allow marketpl
         ProxyRegistry proxyRegistry = ProxyRegistry(proxyRegistryAddress);
         return owner
