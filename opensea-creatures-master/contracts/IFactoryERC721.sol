@@ -3,10 +3,7 @@
      * @dev Used to help other contracts or services recognize that this interface
      *      represents a minting factory rather than a standard ERC721 token.
      *      Ideally, this should follow the ERC165 `supportsInterface()` pattern.
-     * @return Always returns true if implemented properly.
-     */
-    function supportsFactoryInterface() external view returns (bool);
-
+     * @return Always returns true if implement
     // ------------------------------------------------------------------------
     // Minting Execution
     // ------------------------------------------------------------------------
