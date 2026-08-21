@@ -2,11 +2,6 @@
      * @notice Identifies this
     // ------------------------------------------------------------------------
 
-    /**
-     * @notice Executes the minting operation based on a given option.
-     * @dev The logic inside the implementing contract determines how many tokens
-     *      are minted, what kind they are, and to whom they are sent.
-     * 
      * Requirements:
      * - Can only be called by the contract owner or an authorized proxy.
      * - The `_optionId` must be valid (less than `numOptions()`).
