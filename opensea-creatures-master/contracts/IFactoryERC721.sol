@@ -1,5 +1,4 @@
-tionId`, which can represent a specific
- * minting rule, collectione factory supports.
+supports.
  *
  * The factory pattern enables multiple minting behaviors within a single contract —
  * such as minting different NFT ps, limited editions, or tiered rarity systems.
