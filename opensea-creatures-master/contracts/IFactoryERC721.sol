@@ -1,5 +1,4 @@
-erface for an ERC-721 factory contract.
- *
+
  * This factory is responsible for creating (minting) ERC721 tokens in a flexible way.
  * Each minting configuration is defined by an `_optionId`, which can represent a specific
  * minting rule, collection, or type of token the factory supports.
