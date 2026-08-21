@@ -1,5 +1,4 @@
 
-    function name() external view retu
 
     /**
      * @notice Returns the abbreviated symbol for this factory contract.
