@@ -1,8 +1,3 @@
-er of minting options supported by this factory.
-     * @dev Each option ID represents a different minting type or configuration.
-     *      Example: 
-     *        -
-    function numOptions() external view returns (uint256);
 
     // ------------------------------------------------------------------------
     // Minting Logic
