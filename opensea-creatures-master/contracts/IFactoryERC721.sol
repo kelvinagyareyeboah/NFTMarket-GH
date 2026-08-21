@@ -1,6 +1,3 @@
-----------------------------------------------------------
-    // Option Configuration
-    // ------------------------------------------------------------------------
 
     /**
      * @notice Returns the total number of minting options supported by this factory.
