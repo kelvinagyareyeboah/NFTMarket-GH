@@ -1,10 +1,4 @@
 
-    /**
-     * @notice Returns metadata describing the minting option.
-     * @dev This metadata can follow the ERC721 metadata standard.
-     *      It provides descriptive details about what each minting option does,
-     *      often used by NFT marketplaces like OpenSea to display visual information.
-     *
      * Example:
      * - Option 0 → "Mint a Common Creature"
      * - Option 1 → "Mint a Legendary Creature"
