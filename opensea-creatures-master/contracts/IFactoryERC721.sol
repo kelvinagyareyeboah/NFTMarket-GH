@@ -1,6 +1,5 @@
 supports.
- *
- * The factory pattern enables multiple minting behaviors within a single contract —
+ * a single contract —
  * such as minting diffeand access control should be implemented in the inheriting contract.
  * - Designed to be compatible with OpenSea's facto for seamless integration.
  */
