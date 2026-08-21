@@ -1,9 +1,4 @@
-
-     * Example:
-     * - Option 0 → "Mint a Common Creature"
-     * - Option 1 → "Mint a Legendary Creature"
-     *
-     * @param _optionId The identifier for the minting option.
+ting option.
      * @return A string representing a JSON metadata URI.
      */
     function tokenURI(uint256 _optionId) external view returns (string memory);
