@@ -1,10 +1,4 @@
 
-    function canMint(uint256 _optionId) external view returns (bool);
-
-    // ------------------------------------------------------------------------
-    // Metadata Reference
-    // ------------------------------------------------------------------------
-
     /**
      * @notice Returns metadata describing the minting option.
      * @dev This metadata can follow the ERC721 metadata standard.
