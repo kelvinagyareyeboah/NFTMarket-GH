@@ -1,8 +1,4 @@
 
-     *      - Return `false` if max supply for a given option is reached.
-     *      - Return `true` if minting is still avain being checked.
-     * @return A boolean indicating if this option is available for minting.
-     */
     function canMint(uint256 _optionId) external view returns (bool);
 
     // ------------------------------------------------------------------------
