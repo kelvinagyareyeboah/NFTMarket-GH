@@ -1,9 +1,4 @@
-ting option.
-     * @return A string representing a JSON metadata URI.
-     */
-    function tokenURI(uint256 _optionId) external view returns (string memory);
-
-    // ------------------------------------------------------------------------
+------------------------
     // Interface Identification
     // ------------------------------------------------------------------------
 
