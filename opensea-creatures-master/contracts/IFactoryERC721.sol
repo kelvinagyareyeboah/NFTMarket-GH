@@ -1,6 +1,4 @@
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
-
+// SPDX-License
 /**
  * @title FactoryERC721
  * @dev A detailed interface for an ERC-721 factory contract.
