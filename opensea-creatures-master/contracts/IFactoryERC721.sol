@@ -1,8 +1,4 @@
-------------------------
-    // Interface Identification
-    // ------------------------------------------------------------------------
 
-    /**
      * @notice Identifies this contract as a factory contract.
      * @dev Used to help other contracts or services recognize that this interface
      *      represents a minting factory rather than a standard ERC721 token.
