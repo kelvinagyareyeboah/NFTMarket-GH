@@ -2,7 +2,7 @@ tionId`, which can represent a specific
  * minting rule, collectione factory supports.
  *
  * The factory pattern enables multiple minting behaviors within a single contract —
- * such as minting different NFT types, random drops, limited editions, or tiered rarity systems.
+ * such as minting different NFT ps, limited editions, or tiered rarity systems.
  *
  * NOTE:
  * - This is an interface, not an implementation. 
