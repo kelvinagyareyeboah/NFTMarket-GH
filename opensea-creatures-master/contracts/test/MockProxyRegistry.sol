@@ -2,7 +2,7 @@
  '@openzeppelin/contracts
  * @dev A simple mock ProxyRegistr
   /********
-  |  Public Configuration Fu
+  |  Public Conf
   |_________
   /**
    * @notice Aner to set a proxy for testing
