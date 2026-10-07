@@ -1,8 +1,7 @@
 // SPDX-License-Identifier: MIT
 
 pragma 
- '@openzeppelin/contracts/access/Ownable.sol'
-/**
+ '@openzeppelin/contracts/access/Owna
  * @dev A simple mock ProxyRegistry for use in local tests with minimal securi
 contract MockProxyRegistry is Ownable {
   mapping(address => address) public proxies;
