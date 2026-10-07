@@ -1,7 +1,7 @@
 // SPDX-
    * @n
    * @param _address         
-   * @param _proxyForAddress  The proxy that will act on beh
+   * @param _proxyForAddress  The proxy that will act
   setProxy(address _address, address _proxyFo
       external
       onlyOwner()
