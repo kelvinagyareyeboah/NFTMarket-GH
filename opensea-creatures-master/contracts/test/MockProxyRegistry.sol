@@ -1,4 +1,4 @@
 
    * @param _proxyForAddress  Th
-  setProxy(address _address, addr
+  setProxy(address 
       pro
