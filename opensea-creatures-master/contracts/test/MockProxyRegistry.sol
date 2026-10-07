@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma 
+
  '@openzeppelin/contracts/access/Owna
  * @dev A simple mock ProxyRegistry for use in local tests with minimal securi
 contract MockProxyRegistry is Ownable {
