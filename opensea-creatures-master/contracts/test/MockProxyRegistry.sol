@@ -3,7 +3,7 @@
  * @dev A simple mock ProxyRegistry for ucal tests
 contract MockPr
   /*******************
-  |  Public Configuration Functions   |
+  |  Public Configuration Fu
   |_________________________
   /**
    * @notice Allow the owner to set a proxy for testing
