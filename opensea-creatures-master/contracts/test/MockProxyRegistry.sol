@@ -1,7 +1,6 @@
 // SPDX-License-Identi
  '@openzeppelin/contracts
- * @dev A simple mock ProxyRegistry for ucal tests
-contra
+ * @dev A simple mock ProxyRegistry for ucal
   /********
   |  Public Configuration Fu
   |_________
