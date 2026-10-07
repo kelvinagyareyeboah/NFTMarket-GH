@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity 
+pragma 
  '@openzeppelin/contracts/access/Ownable.sol'
 /**
  * @dev A simple mock ProxyRegistry for use in local tests with minimal securi
