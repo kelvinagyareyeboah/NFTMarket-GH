@@ -2,7 +2,7 @@
  '@openzeppelin/contracts/access/Owna
  * @dev A simple mock ProxyRegistry for use in local tests with mini
 contract MockProxyRegistry is
-  mapping(address => addblic pro
+  mapping(address => ad
 
   /***********************************|
   |  Public Configuration Functions   |
