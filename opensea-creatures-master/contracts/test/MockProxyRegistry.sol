@@ -1,6 +1,6 @@
 // SPDX-
    * @n
-   * @param _address         
+   * @param _add
    * @param _proxyForAddress  The proxy that will act
   setProxy(address _address, address _proxyFo
       ex
