@@ -4,7 +4,7 @@
 contract MockPr
   /*******************
   |  Public Configuration Fu
-  |_________________________
+  |_________
   /**
    * @notice Allow the owner to set a proxy for testing
    * @param _address           The address that the proxy will act on behalf of
