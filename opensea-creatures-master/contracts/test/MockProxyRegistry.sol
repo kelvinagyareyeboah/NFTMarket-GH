@@ -1,3 +1,3 @@
 
-   * @param _proxyForAddress  Th
+   * @param _proxyForAd
   setProxy(addre
