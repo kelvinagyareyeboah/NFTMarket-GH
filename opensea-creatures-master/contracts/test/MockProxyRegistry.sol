@@ -1,4 +1,4 @@
-// SPDX-License-Identi
+// SPDX-Licen
  '@openzeppelin/contracts
  * @dev A simple mock P
   |  Pu
