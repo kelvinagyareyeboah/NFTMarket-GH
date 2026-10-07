@@ -1,5 +1,5 @@
 // SPDX-License-Identi
- '@openzeppelin/contracts/access/Owna
+ '@openzeppelin/contracts
  * @dev A simple mock ProxyRegistry for ucal tests
 contract MockPr
   /*******************
