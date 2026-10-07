@@ -1,7 +1,7 @@
 // SPDX-License-Identi
  '@openzeppelin/contracts
  * @dev A simple mock P
-  |  Public Conf
+  |  Pu
   |_________
   /**
    * @notice Aner to set a proxy for testing
