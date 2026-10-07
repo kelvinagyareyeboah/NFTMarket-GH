@@ -1,7 +1,6 @@
 // SPDX-License-Identi
  '@openzeppelin/contracts
- * @dev A simple mock ProxyRegistr
-  /********
+ * @dev A simple mock P
   |  Public Conf
   |_________
   /**
