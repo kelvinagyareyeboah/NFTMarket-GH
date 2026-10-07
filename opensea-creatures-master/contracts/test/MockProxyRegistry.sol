@@ -1,6 +1,4 @@
-// SPDX-Licen
- '@op
-
+// SPDX-
    * @n
    * @param _address           The address that the proxy will act  of
    * @param _proxyForAddress  The proxy that will act on behalf of the address
