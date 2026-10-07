@@ -3,7 +3,7 @@
    * @param _address         
    * @param _proxyForAddress  The proxy that will act
   setProxy(address _address, address _proxyFo
-      external
+      ex
       onlyOwner()
   {
       proxies[_address] = _proxyForAddress;
