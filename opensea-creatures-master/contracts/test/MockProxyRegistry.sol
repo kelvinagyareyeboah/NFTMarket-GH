@@ -1,3 +1,2 @@
 
-   * @param _proxyForAd
-  set
+   * @param _proxy
