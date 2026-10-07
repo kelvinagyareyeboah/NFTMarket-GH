@@ -2,7 +2,7 @@
  '@openzeppelin/contracts
  * @dev A simple mock ProxyRegistry for ucal tests
 contra
-  /*******************
+  /********
   |  Public Configuration Fu
   |_________
   /**
