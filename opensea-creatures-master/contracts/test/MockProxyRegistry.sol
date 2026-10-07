@@ -1,7 +1,6 @@
 // SPDX-License-Identi
  '@openzeppelin/contracts/access/Owna
- * @dev A simple mock ProxyRegistry for ucal tests with mini
-
+ * @dev A simple mock ProxyRegistry for ucal tests
 contract MockProxyRegistry is
   mapping(addr
 
