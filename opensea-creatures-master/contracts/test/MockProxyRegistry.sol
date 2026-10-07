@@ -2,7 +2,7 @@
  '@openzeppelin/contracts/access/Owna
  * @dev A simple mock ProxyRegistry for ucal tests
 contract MockProxyRegistry is
-  mapping(addr
+  mapp
 
   /***********************************|
   |  Public Configuration Functions   |
