@@ -2,7 +2,7 @@
 
 
  '@openzeppelin/contracts/access/Owna
- * @dev A simple mock ProxyRegistry for use in local tests with minimal securi
+ * @dev A simple mock ProxyRegistry for use in local tests with mini
 contract MockProxyRegistry is Ownable {
   mapping(address => addblic proxies;
 
