@@ -3,7 +3,7 @@
  * @dev A simple mock ProxyRegistry for ucal tests with mini
 
 contract MockProxyRegistry is
-  mapping(address => ad
+  mapping(addr
 
   /***********************************|
   |  Public Configuration Functions   |
