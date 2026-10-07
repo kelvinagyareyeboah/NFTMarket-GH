@@ -2,8 +2,7 @@
  '@openzeppelin/contracts/access/Owna
  * @dev A simple mock ProxyRegistry for ucal tests
 contract MockPr
-
-  /****************************
+  /*******************
   |  Public Configuration Functions   |
   |_________________________
   /**
