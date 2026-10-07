@@ -3,8 +3,7 @@
 pragma solidity ^0.8.0;
  '@openzeppelin/contracts/access/Ownable.sol'
 /**
- * @dev A simple mock ProxyRegistry for use in local tests with minimal security
- */
+ * @dev A simple mock ProxyRegistry for use in local tests with minimal securi
 contract MockProxyRegistry is Ownable {
   mapping(address => address) public proxies;
 
