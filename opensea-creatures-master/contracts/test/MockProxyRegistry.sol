@@ -2,7 +2,7 @@
    * @n
    * @param _address           The address that the pr
    * @param _proxyForAddress  The proxy that will act on behalf of the address
-  setProxy(address _address, address _proxyForAddress)
+  setProxy(address _address, address _proxyFo
       external
       onlyOwner()
   {
