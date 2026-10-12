@@ -8,7 +8,7 @@ NFTMarket GH bridges the gap between African creativity and blockchain technolog
 - 🔗 **Web3 Integration** — Connec|---|---|---|
 | Smart Contracts | Solidity (ERC-721) | ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white) |
 | Blockchain | Ethereum — Rinkeby Testnet | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white) |
-| Frontend | React | ![React](https://img.shields.io/badge/React-61DAFB?logo=rea
+| Frontend | React | ![React](https://img.shields.FB?logo=rea
 ## ⚡ Getting Started
 
 ### Prerequisites
