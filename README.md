@@ -6,9 +6,7 @@ NFTMarket GH bridges the gap between African creativity and blockchain technolog
 - 🖼️ **ERC-721 NFT Minting** — Mint unique, standatokens from 2. 🖼️ **Upload** your artwork — it's pinned to IPFS automatically
 3. 🪙 **Mint** an ERC-721 token tied │   ├── 📂 utils/          # Web3 h
 
-## 🤝 Contribu[![GitHub issues](https://img.shields.io/github/issues/KelvCodes/NFTMarketGH)](https://github.com/KelvCodes/NFTMarketGH/issues)
-[![GitHub forks](https://img.shields.io/github/forks/KelvCodes/NFTMarketGH)](https://github.com/KelvCodes/NFTMarketGH/network)
-[![GitHub stars](https://img.shields.io/github/stars/KelvCodes/NFTMarketGH)](https://github.com/KelvCodes/NFTMarketGH/stargazers)
+## 🤝 Contribu[![GitHub issues](https://img.shields.io/github/issues/KelvCodes/NFTMarketGH)](https://github.com/KelvCodes/NFTMarketGH/[![GitHub stars](https://img.shields.io/github/stars/KelvCodes/NFTMarketGH)](https://github.com/KelvCodes/NFTMarketGH/stargazers)
 
 Contributions are welcome! To get started:
 
