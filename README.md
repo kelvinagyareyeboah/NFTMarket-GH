@@ -7,9 +7,7 @@ NFTMarket GH bridges the gap between African creativity and blockchain technolog
 - 📦 **IPFS Decentralized Storage** — Assets stored off-chain, permanently and censorshi- ⚛️ **React Frontend** — Clean, responsive UI for browsing, minti
 - 🔗 **Web3 Integration** — Conn
 
-![Node](https://img.shields.io/badge/Node.js-≥16-339933?logo=nodedotjs&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-Required-E2761B?logo=metamask&logoColor=white)
-- **Truffle** — `npm install -g truffle`
+![Node](https://img.shields.io/badge/Node.js-≥16-339933?logo=nodedotjs&logoColor=whi- **Truffle** — `npm install -g truffle`
 - **MetaMask** browser extension
 - **Rinkeby testnet ETH** — grab some from the [Chainlink faucet](https://faucets.chain.link/rinkeby)
 
