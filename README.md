@@ -5,9 +5,7 @@ ow.svg)](LICENSE)
 [![IPFS](https://img.shields.io/badge/Storage-IPFS-65C2CB?logo=ipfs&logoColor=white)](https://ipfs.tech/)
 [![Web3.js](https://img.shields.io/badge/Web3.js-1.x-F16822?logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightg
-NFTMarket GH bridges the gap between African creativity and blockchain technology — giving local artists a transparent, trustless way to tokenize, showcase, and se
-</div>
-
+NFTMarket GH bridges the gap between African creativity and blockchain technology — giving local artists a transparent, trustless way to tokenize, sh
 ---
 
 ## ✨ Features
