@@ -6,10 +6,7 @@
 NFTMarket GH bridges the gap between African creativity and blockchain technology — giving local artists a transpar
 - 🖼️ **ERC-721 NFT Minting** — Mint unique, standards-compliant tokens from any artwork
 - 📦 **IPFS Decentralized Storage** — Assets stored off-chain, permanently and censorshi- ⚛️ **React Frontend** — Clean, responsive UI for browsing, minti
-- 🔗 **Web3 Integration** — Connect your wallet and interact with the---
-
-| Layer | Technology | Badge |
-|---|---|---|
+- 🔗 **Web3 Integration** — Connect your wallet and inte|---|---|---|
 | Smart Contracts | Solidity (ERC-721) | ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white) |
 | Blockchain | Ethereum — Rinkeby Testnet | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white) |
 | Frontend | React | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |
