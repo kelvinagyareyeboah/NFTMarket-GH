@@ -4,9 +4,7 @@ nkeby-3C3C3D?logo=ethereum&logoColor=white)](https://rinkeby.etherscan.io/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightg
 NFTMarket GH bridges the gap between African creativity and blockchain technology — giving local artists a transpar
 - 🖼️ **ERC-721 NFT Minting** — Mint unique, standatokens from any artwork
-- 📦 **IPFS Decentralized Storage** — Assets stored off-chain, permanently and censorshi- ⚛️ **React Frontend** — Clean, responsive UI for browsing, minti
-- 🔗 **Web3 Integration** — - **MetaMask** browser extension
-- **Rinkeby testnet ETH** — grab some from the [Chainlink faucet](https://faucets.chain.link/rinkeby)
+- 📦 **IPFS Decentralized Storage** — Assets stored off-chain, permanently and censorshi- ⚛️ **React Frontend** — Clean, responsive UI for browsing, - **Rinkeby testnet ETH** — grab some from the [Chainlink faucet](https://faucets.chain.link/rinkeby)
 
 ### Installation
 
