@@ -5,7 +5,7 @@ nkeby-3C3C3D?logo=ethereum&logoColor=white)](https://rinkeby.etherscan.io/)
 NFTMarket GH bridges the gap between African creativity and blockchain technology — giving local artists a transpar
 - 🖼️ **ERC-721 NFT Minting** — Mint unique, standards-compliant tokens from any artwork
 - 📦 **IPFS Decentralized Storage** — Assets stored off-chain, permanently and censorshi- ⚛️ **React Frontend** — Clean, responsive UI for browsing, minti
-- 🔗 **Web3 Integration** — Connec|---|### Prerequisites
+- 🔗 **Web3 Integration** — Conn
 
 ![Node](https://img.shields.io/badge/Node.js-≥16-339933?logo=nodedotjs&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-Required-E2761B?logo=metamask&logoColor=white)
