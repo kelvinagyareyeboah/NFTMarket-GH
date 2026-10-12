@@ -1,5 +1,4 @@
-io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
-[![Solidity](ht.shields.io/badge/Network-Rinkeby-3C3C3D?logo=ethereum&logoColor=white)](https://rinkeby.etherscan.io/)
+.io/badge/Network-Rinkeby-3C3C3D?logo=ethereum&logoColor=white)](https://rinkeby.etherscan.io/)
 [![IPFS](https://img.shields.io/badge/Storage-IPFS-65C2CB?logo=ipfs&logoColor=white)](https://ipfs.tech/)
 [![Web3.js](https://img.shields.io/badge/Web3.js-1.x-F16822?logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightg
