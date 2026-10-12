@@ -12,8 +12,6 @@ NFTMarket GH bridges the gap between African creativity and blockchain technolog
 ```├── 📂 contracts/          # Solidity smart │   ├── 📂 components/     # React UI components
 │   ├── 📂 utils/          # Web3 helpers
 │   └
-
-└── 📄 truffle-config.js
 ```
 
 ---
