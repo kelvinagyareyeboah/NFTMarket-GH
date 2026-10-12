@@ -5,10 +5,7 @@ rinkeby.etherscan.io/)
 NFTMarket GH bridges the gap between African creativity and blockchain technology — giving local artists a transpar
 - 🖼️ **ERC-721 NFT Minting** — Mint unique, standatokens from 2. 🖼️ **Upload** your artwork — it's pinned to IPFS automatically
 3. 🪙 **Mint** an ERC-721 token tied │   ├── 📂 utils/          # 
-Contributions are welcome! To get 2. 🌿 Create a feature branch: `git checkout -b feature/your-fPlease open an issue first fo
-## 📄 License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yell[MIT](LICENSE) — free to use, modify, and distribute.
+Contributions are welcome! To get 2. 🌿 Create a feature branch: `git checkout -b feature/your-fPlease open an issue first f[![License: MIT](https://img.shields.io/badge/License-MIT-yell[MIT](LICENSE) — free to use, modify, and distribute.
 
 ---
 
