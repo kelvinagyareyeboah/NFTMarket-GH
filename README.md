@@ -7,7 +7,7 @@ NFTMarket GH bridges the gap between African creativity and blockchain technolog
 ### Installat# 1. Clone the recd NFTMarketGnpm i# 4. Start      🦊                 🖼️               🪙            💸                  📜
 ```
 
-1. 🦊 **Connect** your MetaMask wallet to the Rinkeby testnet
+1. 🦊 **Connect** your MetaMask wallet to the
 2. 🖼️ **Upload** your artwork — it's pinned to IPFS automatically
 3. 🪙 **Mint** an ERC-721 token tied to your piece
 4. 💸 **Trade** — list it for sale or transfer ownership directly
