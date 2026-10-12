@@ -9,8 +9,6 @@ NFTMarket GH bridges the gap between African creativity and blockchain technolog
 
 ![Node](https://img.shields.io/badge/Node.js-≥16-339933?logo=nodedotjs&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-Required-E2761B?logo=metamask&logoColor=white)
-
-- **Node.js** ≥ 16
 - **Truffle** — `npm install -g truffle`
 - **MetaMask** browser extension
 - **Rinkeby testnet ETH** — grab some from the [Chainlink faucet](https://faucets.chain.link/rinkeby)
