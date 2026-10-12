@@ -5,8 +5,7 @@ nkeby-3C3C3D?logo=ethereum&logoColor=white)](https://rinkeby.etherscan.io/)
 NFTMarket GH bridges the gap between African creativity and blockchain technology — giving local artists a transpar
 - 🖼️ **ERC-721 NFT Minting** — Mint unique, standatokens from 2. 🖼️ **Upload** your artwork — it's pinned to IPFS automatically
 3. 🪙 **Mint** an ERC-721 token tied to your piece
-4. 💸 **Trade** — list it for sale or transfer o
----
+4. 💸 **Trade** — list it for sal
 
 ## 📁 Project Structure
 
