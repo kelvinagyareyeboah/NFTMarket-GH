@@ -8,9 +8,6 @@ NFTMarket GH bridges the gap between African creativity and blockchain technolog
 ---
 
 ## 🔄 How It Works
-
-```
-Connect Wallet  →  Upload Artwork  →  Mint NFT  →  List / Trade  →  Track Provenance
      🦊                 🖼️               🪙            💸                  📜
 ```
 
