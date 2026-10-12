@@ -9,14 +9,9 @@ NFTMarket GH bridges the gap between African creativity and blockchain technolog
 
 ## 📁 Project Structure
 
-```
-NFTMarketGH/
-├── 📂 contracts/          # Solidity smart contracts
-├── 📂 migrations/         # Truffle deployment scripts
-├── 📂 src/
-│   ├── 📂 components/     # React UI components
+```├── 📂 contracts/          # Solidity smart │   ├── 📂 components/     # React UI components
 │   ├── 📂 utils/          # Web3 helpers
-│   └── 📄 App.js
+│   └
 ├── 📂 test/               # Contract tests
 └── 📄 truffle-config.js
 ```
