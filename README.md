@@ -1,4 +1,4 @@
-ow.svg)](LICENSE)
+
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![Solidity](ht.shields.io/badge/Network-Rinkeby-3C3C3D?logo=ethereum&logoColor=white)](https://rinkeby.etherscan.io/)
 [![IPFS](https://img.shields.io/badge/Storage-IPFS-65C2CB?logo=ipfs&logoColor=white)](https://ipfs.tech/)
