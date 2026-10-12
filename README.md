@@ -5,9 +5,7 @@ rinkeby.etherscan.io/)
 3. 🪙 **Mint** an ERC-721 token tied │   ├── 📂 utils/  
 ---
 
-<div 
-*Built with 🖤 to empower Ghanaian artists on the blockchain.*
-
+<di
 [![GitHub](https://img.shields.io/badge/GitHub-KelvCodes-181717?logo=github&logoColor=white)](https://github.com/KelvCodes)
 
 </div>
