@@ -4,10 +4,7 @@ rinkeby.etherscan.io/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightg
 NFTMarket GH bridges the gap between African creativity and blockchain technology — giving local artists a transpar
 - 🖼️ **ERC-721 NFT Minting** — Mint unique, standatokens from 2. 🖼️ **Upload** your artwork — it's pinned to IPFS automatically
-3. 🪙 **Mint** an ERC-721 token tied │   ├── 📂 utils/          # Web3 h
-
-## 🤝 Contribu[![GitHub issues](https://img.shields.io/github/issues/KelvCodes/NFTMarketGH)](https://github.com/KelvCodes/NFTMarketGH/[![GitHub stars](https://img.shields.io/github/stars/KelvCodes/NFTMarketGH)](https://github.com/KelvCodes/NFTMarketGH/stargazers)
-
+3. 🪙 **Mint** an ERC-721 token tied │   ├── 📂 utils/          # 
 Contributions are welcome! To get started:
 
 1. 🍴 Fork the repository
