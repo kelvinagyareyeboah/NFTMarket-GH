@@ -7,7 +7,6 @@ NFTMarket GH bridges the gap between African creativity and blockchain technolog
 3. 🪙 **Mint** an ERC-721 token tied to your piece
 4. 💸 **Trade** — list it for sal
 
-## 📁 Project Structure
 
 ```├── 📂 contracts/          # Solidity smart │   ├── 📂 components/     # React UI components
 │   ├── 📂 utils/          # Web3 helpers
