@@ -10,9 +10,7 @@ NFTMarket GH bridges the gap between African creativity and blockchain technolog
 
 - 🖼️ **ERC-721 NFT Minting** — Mint unique, standards-compliant tokens from any artwork
 - 📦 **IPFS Decentralized Storage** — Assets stored off-chain, permanently and censorshi- ⚛️ **React Frontend** — Clean, responsive UI for browsing, minti
-- 🔗 **Web3 Integration** — Connect your wallet and interact with the blockchain seamlessly
-
----
+- 🔗 **Web3 Integration** — Connect your wallet and interact with the---
 
 ## 🛠️ Tech Stack
 
