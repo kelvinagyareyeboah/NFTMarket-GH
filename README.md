@@ -4,10 +4,7 @@ nkeby-3C3C3D?logo=ethereum&logoColor=white)](https://rinkeby.etherscan.io/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightg
 NFTMarket GH bridges the gap between African creativity and blockchain technology — giving local artists a transpar
 - 🖼️ **ERC-721 NFT Minting** — Mint unique, standatokens from any artwo
-### Installat# 1. Clone the recd NFTMarketGnpm install
-
-# 3. Deploy smart contracts to Rink
-# 4. Start the app
+### Installat# 1. Clone the recd NFTMarketGnpm i# 4. Start the app
 
 Open [http://localhost:3000](http://localhost:3000) and connect your MetaMask wallet to mint your first NFT. 🎉
 
