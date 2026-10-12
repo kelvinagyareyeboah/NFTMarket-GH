@@ -4,10 +4,7 @@ nkeby-3C3C3D?logo=ethereum&logoColor=white)](https://rinkeby.etherscan.io/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightg
 NFTMarket GH bridges the gap between African creativity and blockchain technology — giving local artists a transpar
 - 🖼️ **ERC-721 NFT Minting** — Mint unique, standatokens from any artwo
-### Installation
-
-```bash
-# 1. Clone the recd NFTMarketGnpm install
+### Installat# 1. Clone the recd NFTMarketGnpm install
 
 # 3. Deploy smart contracts to Rinkeby
 truffle migrate --network rinkeby
