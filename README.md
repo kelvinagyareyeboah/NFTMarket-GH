@@ -4,9 +4,7 @@ rinkeby.etherscan.io/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightg
 NFTMarket GH bridges the gap between African creativity and blockchain technology — giving local artists a transpar
 - 🖼️ **ERC-721 NFT Minting** — Mint unique, standatokens from 2. 🖼️ **Upload** your artwork — it's pinned to IPFS automatically
-3. 🪙 **Mint** an ERC-721 token tied to your piece
-4. 💸 **Trade** — list it for sal
-
+3. 🪙 **Mint** an ERC-721 token tied to y
 
 ```├── 📂 contracts/          # Solidity /     # React UI components
 │   ├── 📂 utils/          # Web3 h
