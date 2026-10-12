@@ -1,4 +1,4 @@
-lds.io/badge/License-MIT-yellow.svg)](LICENSE)
+ow.svg)](LICENSE)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![Solidity](https://img.shields.io/badge/Solidity-0.8-363636?lo=white)](https://soliditylang.org/)
 [![Ethereum](https://img.shields.io/badge/Network-Rinkeby-3C3C3D?logo=ethereum&logoColor=white)](https://rinkeby.etherscan.io/)
