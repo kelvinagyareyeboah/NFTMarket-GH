@@ -8,8 +8,6 @@ NFTMarket GH bridges the gap between African creativity and blockchain technolog
 - 📦 **IPFS Decentralized Storage** — Assets stored off-chain, permanently and censorshi- ⚛️ **React Frontend** — Clean, responsive UI for browsing, minti
 - 🔗 **Web3 Integration** — Connect your wallet and interact with the---
 
-## 🛠️ Tech Stack
-
 | Layer | Technology | Badge |
 |---|---|---|
 | Smart Contracts | Solidity (ERC-721) | ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white) |
