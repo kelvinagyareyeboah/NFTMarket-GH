@@ -6,6 +6,4 @@ rinkeby.etherscan.io/)
 ---
 
 <di
-[![GitHub](https://img.shields.io/badge/GitHub-KelvCodes-181717?logo=github&logoColor=white)](https://github.com/KelvCodes)
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-KelvCodes-181717?logo=github&logoColor=white)](https://github.com/KelvCodes)<
