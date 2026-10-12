@@ -7,9 +7,7 @@ NFTMarket GH bridges the gap between African creativity and blockchain technolog
 ### Installation
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/KelvCodes/NFTMarketGH.git
-cd NFTMarketGnpm install
+# 1. Clone the recd NFTMarketGnpm install
 
 # 3. Deploy smart contracts to Rinkeby
 truffle migrate --network rinkeby
