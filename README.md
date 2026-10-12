@@ -6,9 +6,7 @@ NFTMarket GH bridges the gap between African creativity and blockchain technolog
 - 🖼️ **ERC-721 NFT Minting** — Mint unique, standatokens from any artwo
 ### Installat# 1. Clone the recd NFTMarketGnpm install
 
-# 3. Deploy smart contracts to Rinkeby
-truffle migrate --network rinkeby
-
+# 3. Deploy smart contracts to Rink
 # 4. Start the app
 npm start
 ```
