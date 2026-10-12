@@ -11,7 +11,6 @@
 
 NFTMarket GH bridges the gap between African creativity and blockchain technology — giving local artists a transparent, trustless way to tokenize, showcase, and sell their work.
 
-[Getting Started](#-getting-started) · [Features](#-features) · [Tech Stack](#-tech-stack) · [Contributing](#-contributing)
 
 </div>
 
