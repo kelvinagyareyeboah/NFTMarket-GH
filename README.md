@@ -8,9 +8,7 @@ NFTMarket GH bridges the gap between African creativity and blockchain technolog
 Contributions are welcome! To get 2. 🌿 Create a feature branch: `git checkout -b feature/your-fPlease open an issue first fo
 ## 📄 License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-[MIT](LICENSE) — free to use, modify, and distribute.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yell[MIT](LICENSE) — free to use, modify, and distribute.
 
 ---
 
