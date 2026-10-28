@@ -1,3 +1,3 @@
 n.io/)
-[![IPFS](https://img.shields.io/badgeorage-I
+[![IPFS](https://img.shields.io/badgeora
 [![Web3.js](https://img.shields.io/badge/
