@@ -5,4 +5,4 @@ rinkeby.etherscan.io/)
 3. 🪙 **Mint** an ERC-721 token tied │   ├── 📂 utils/ 
 
 <di
-[![GitHub](https://img.shields.io/badge/GitHub-KelvCodes-181717?
+[![GitHub](https://img.shields.io/badge/GitHub-KelvCodes-1
