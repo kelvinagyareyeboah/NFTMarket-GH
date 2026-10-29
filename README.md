@@ -1,4 +1,4 @@
-e&logo=metamask&logoColor=white)
+Color=white)
 ![CoinGecko](https://img.shields.io/badge/CoinGecko-API_key-8DC63F?style=flat-square&logo=coingecko&logoColor=white)
 
 - [Node.js](https://nodejs.org/) 16 or later
