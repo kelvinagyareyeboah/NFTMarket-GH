@@ -1,4 +1,4 @@
-t contract on an Ethereum testnet so anyone can verify them.
+yone can verify them.
 
 ## Features
 
