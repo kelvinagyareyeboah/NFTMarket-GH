@@ -1,4 +1,4 @@
-interactions to a smart contract on an Ethereum testnet so anyone can verify them.
+t contract on an Ethereum testnet so anyone can verify them.
 
 ## Features
 
