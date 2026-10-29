@@ -1,5 +1,3 @@
- on the testnet block explorer.
-
 
 ```mermaid
 flowchart TB
