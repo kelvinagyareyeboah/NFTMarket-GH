@@ -1,4 +1,3 @@
-yone can verify them.
 
 ## Features
 
