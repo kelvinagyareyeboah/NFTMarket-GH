@@ -1,6 +1,4 @@
 
-### Install and run
-
 ```bash
 # Clone
 git clone https://github.com/KelvCodes/CryptoHubGhana.git
