@@ -3,8 +3,7 @@
     
 <summa
 ├── contracts/          # Solidity interaction logger
-├── migrations/         # Truffle deployment scripts
-├── src/
+├── migrations/         # Truffle 
 │   ├── components/     # React UI components
 │   ├── hooks/          # Price fetching and Web3 hooks
 │   ├── utils/          # API helpers and Web3 utilities
