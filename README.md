@@ -1,8 +1,7 @@
 
     W --> SC[Interaction Logger Contract]
     
-<summary><b>Pr
-CryptoHubGhana/
+<summa
 ├── contracts/          # Solidity interaction logger
 ├── migrations/         # Truffle deployment scripts
 ├── src/
