@@ -1,4 +1,4 @@
-ts/     # React UI components
+I components
 │   ├── hooks/          # Price fetching and Web3 hooks
 │   ├── utils/          # API helpers and Web3 utilities
 │   └── App.js
