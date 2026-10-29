@@ -1,5 +1,4 @@
-
-# Set up environment variables
+ent variables
 cp .env.example .env
 
 # Start the app
