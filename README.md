@@ -1,6 +1,5 @@
  on the testnet block explorer.
 
-## Architecture
 
 ```mermaid
 flowchart TB
