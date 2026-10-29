@@ -7,7 +7,7 @@ y-363636?style=flat-square&logo=solidity&logoColor=white) |
 
 - [x] Live pr- [x] On-chai
 - [ ] Prices in Ghana cedis (GHS)
-- [ ] Watchlists and price alerts
+- [ ] Watchalerts
 - [ ] Portfolio tracking
 - [ ] Price charts and historical data
 - [ ] Dark and light theme toggle
