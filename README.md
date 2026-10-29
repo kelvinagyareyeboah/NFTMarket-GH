@@ -1,6 +1,4 @@
 
-```
-Create a `.en
 REACT_APP_COING
 REACT_APP_RPC_URL=https://your-testnet-rpc-url
 REACT_APP_CONTRACT_ADDRESS=0xYourDeplo
