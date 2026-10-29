@@ -1,4 +1,4 @@
-* | Real-time market data from the CoinGecko API |
+ the CoinGecko API |
 | 🔗 | **On-Chain Logging** | Interactions are recorded by a Solidity contract on an Ethereum testnet |
 | 🦊 | **Wallet Connect** | Works with MetaMask and other Web3 wallets |
 | 🎨 | **Modern UI** | Responsive React and Tailwind CSS interface |
