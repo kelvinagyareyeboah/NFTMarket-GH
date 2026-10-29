@@ -1,4 +1,3 @@
-s://gitGhana
 
 # Install dependencies
 npm install
