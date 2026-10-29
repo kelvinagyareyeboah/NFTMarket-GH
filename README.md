@@ -1,6 +1,4 @@
-
-
-| 🇬🇭 | **Ghana-First** | Built with the local crypto community in mind |
+to community in mind |
 
 ## Quick Start
 
