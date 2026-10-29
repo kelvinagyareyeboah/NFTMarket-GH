@@ -1,6 +1,3 @@
-ng](#contributing)
-
-</div>
 
 ---
 
