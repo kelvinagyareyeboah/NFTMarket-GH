@@ -1,6 +1,4 @@
-
-    W --> SC[Interaction Logge
-├── contracts/          # Solidity interaction logger
+   # Solidity interaction logger
 ├── migrations/         # Truffle 
 │   ├── components/     # React UI components
 │   ├── hooks/          # Price fetching and Web3 hooks
