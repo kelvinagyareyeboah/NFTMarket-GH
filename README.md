@@ -1,6 +1,4 @@
 
-    B --> C[Search and Filter]
-    C --> D[Log Interaction]
     D --> E[Audit on Explorer]
 ```
 
