@@ -1,6 +1,4 @@
-
-allet
-- A [CoinGecko API key](https://www.coingecko.com/en/api) for reliable rate limits
+tps://www.coingecko.com/en/api) for reliable rate limits
 
 ### Install and run
 
