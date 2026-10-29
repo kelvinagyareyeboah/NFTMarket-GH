@@ -1,7 +1,7 @@
 
     W --> SC[Interaction Logger Contract]
     
-<summary><b>Project structure</b></summary>
+<summary><b>Project struct
 
 ```text
 CryptoHubGhana/
