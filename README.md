@@ -1,5 +1,4 @@
-ct tests
-├── .env.example        # Environment variable template
+ronment variable template
 └── truffle-config.js
 ```
 
