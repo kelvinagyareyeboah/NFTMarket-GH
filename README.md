@@ -1,5 +1,4 @@
-
-000**, connect your wallet, and start tracking.
+ wallet, and start tracking.
 
 > [!NOTE]
 > Fill in your `.env` before starting. See [Configuration](#configuration).
