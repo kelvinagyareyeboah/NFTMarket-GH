@@ -1,6 +1,5 @@
 lo
-|---|---|
-| `REACT_APP_COINGECKO_API_KEY` | Your CoinGecko API key |
+ECKO_API_KEY` | Your CoinGecko API key |
 | `REACT_APP_RPC_URL` | RPC endpoint for the testnet (e.g. Sepolia) |
 | `REACT_APP_CONTRACT_ADDRESS` | Address of your deployed logger contract |
 
