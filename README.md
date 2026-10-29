@@ -1,4 +1,3 @@
-CryptoHub Ghana" width="100%" />
 
 **Live crypto prices, on-chain activity logging, and wallet connect, built for Ghana.**
 
