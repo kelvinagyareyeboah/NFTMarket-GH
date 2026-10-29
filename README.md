@@ -1,8 +1,4 @@
 
-
-## How It Works
-
-```mermaid
 flowchart LR
     A[Connect Wallet] --> B[Fetch Live Prices]
     B --> C[Search and Filter]
