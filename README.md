@@ -1,6 +1,4 @@
-
-REACT_APP_s://your-testnet-rpc-url
-REACT_APP_CONTRACT_ADDRESS=0xYourDeplo
+lo
 
 | Variable | Description |
 |---|---|
