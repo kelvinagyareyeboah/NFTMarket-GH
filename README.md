@@ -1,6 +1,4 @@
-
-> [!NOTE]
-> Fill in your `.env` before starting. See [Configuration](#configuration).
+` before starting. See [Configuration](#configuration).
 
 ## How It Works
 
