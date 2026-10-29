@@ -1,5 +1,4 @@
-ronment variable template
-└── truffle-config.js
+
 ```
 
 </details>
