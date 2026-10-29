@@ -1,5 +1,4 @@
-tching and Web3 hooks
-│   ├── utils/          # API helpers and Web3 utilities
+        # API helpers and Web3 utilities
 │   └── App.js
 ├── test/               # Contract tests
 ├── .env.example        # Environment variable template
