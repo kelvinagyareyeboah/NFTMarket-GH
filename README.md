@@ -1,7 +1,5 @@
 
-    W --> SC[Interaction Logger Contract]
-    
-<summa
+    W --> SC[Interaction Logge
 ├── contracts/          # Solidity interaction logger
 ├── migrations/         # Truffle 
 │   ├── components/     # React UI components
