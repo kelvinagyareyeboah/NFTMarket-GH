@@ -1,6 +1,4 @@
-to community in mind |
 
-## Quick Start
 
 ### Prerequisites
 
