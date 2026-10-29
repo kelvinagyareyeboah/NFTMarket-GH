@@ -1,6 +1,5 @@
 
-
-Open **http://localhost:3000**, connect your wallet, and start tracking.
+000**, connect your wallet, and start tracking.
 
 > [!NOTE]
 > Fill in your `.env` before starting. See [Configuration](#configuration).
