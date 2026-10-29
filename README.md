@@ -2,8 +2,7 @@
 
 ## Tech Stack
 
-| Layer | Technology |
-|---|---|
+| Layer | 
 | Smart contracts | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
 | Frontend | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | Styling | ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) |
