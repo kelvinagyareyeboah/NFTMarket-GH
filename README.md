@@ -1,5 +1,4 @@
-ge)](CONTRIB[Quick
-[Configuration](#configuration) •
+ •
 [Roadmap](#roadmap) •
 [Contributing](#contributing)
 
