@@ -1,4 +1,4 @@
-e=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
+=solidity&logoColor=white)](https://soliditylang.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIB[Quick Start](#quick-start) •
 [How It Works](#how-it-works) •
 [Configuration](#configuration) •
