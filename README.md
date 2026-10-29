@@ -1,5 +1,4 @@
-I components
-│   ├── hooks/          # Price fetching and Web3 hooks
+tching and Web3 hooks
 │   ├── utils/          # API helpers and Web3 utilities
 │   └── App.js
 ├── test/               # Contract tests
