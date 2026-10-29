@@ -1,5 +1,4 @@
-tion logger
-├── migrations/         # Truffle 
+     # Truffle 
 │   ├── components/     # React UI components
 │   ├── hooks/          # Price fetching and Web3 hooks
 │   ├── utils/          # API helpers and Web3 utilities
