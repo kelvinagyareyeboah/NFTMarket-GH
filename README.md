@@ -1,4 +1,4 @@
-chain activity logging, and wallet connect, built for Ghana.**
+logging, and wallet connect, built for Ghana.**
 
 <br />
 
