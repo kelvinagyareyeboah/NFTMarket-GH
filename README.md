@@ -1,5 +1,5 @@
 
-| 🎨 | **Modern UI** | Responsive React and Tailwind CSS interface |
+
 | 🇬🇭 | **Ghana-First** | Built with the local crypto community in mind |
 
 ## Quick Start
