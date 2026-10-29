@@ -1,6 +1,4 @@
-es
-│   └── App.js
-├── test/               # Contract tests
+ct tests
 ├── .env.example        # Environment variable template
 └── truffle-config.js
 ```
