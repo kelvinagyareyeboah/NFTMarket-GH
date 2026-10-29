@@ -1,4 +1,4 @@
-` before starting. See [Configuration](#configuration).
+
 
 ## How It Works
 
