@@ -1,5 +1,4 @@
-
-2. **Browse** live prices pulled from CoinGecko.
+s pulled from CoinGecko.
 3. **Explore** by searching and filtering your favourite coins.
 4. **Log** interactions on-chain, optionally.
 5. **Audit** the history on the testnet block explorer.
