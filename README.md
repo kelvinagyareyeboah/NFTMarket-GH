@@ -1,6 +1,4 @@
-
-> [!CAUTION]
-> Never commit your `.env` file. Make sure it is listed in `.gitignore`. Anything prefixed `REACT_APP_` is bundled into the frontend and visible to users, so don't put private keys there.
+it your `.env` file. Make sure it is listed in `.gitignore`. Anything prefixed `REACT_APP_` is bundled into the frontend and visible to users, so don't put private keys there.
 
 ## Tech Stack
 
