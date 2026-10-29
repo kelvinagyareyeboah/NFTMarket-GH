@@ -1,5 +1,4 @@
-int for the testnet (e.g. Sepolia) |
-| `REACT_APP_CONTRACT_ADDRESS` | Address of your deployed logger contract |
+ss of your deployed logger contract |
 
 > [!CAUTION]
 > Never commit your `.env` file. Make sure it is listed in `.gitignore`. Anything prefixed `REACT_APP_` is bundled into the frontend and visible to users, so don't put private keys there.
