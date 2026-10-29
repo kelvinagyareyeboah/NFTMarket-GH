@@ -1,5 +1,4 @@
-
-# Install dependencies
+ndencies
 npm install
 
 # Set up environment variables
