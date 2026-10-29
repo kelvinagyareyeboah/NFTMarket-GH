@@ -3,9 +3,7 @@
 ## 
 | Smart contracts | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
 | Frontend | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| Styling | ![Tailwind](https://i/-Tailwind_CSS-38B2AC?style=ftailwindcss&logoColor=white) |
-| Web3 | ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white) |
-| Price data | ![CoinGecko](https://img.shields.io/badge/-CoinGecko-8DC63F?style=flat-square&logo=coingecko&logoColor=white) |
+| Styling | ![Tailwind](https://i/-Tailwind_CSS-38B2AC?style=ftailwindcss&logoColo| Price data | ![CoinGecko](https://img.shields.io/badge/-CoinGecko-8DC63F?style=flat-square&logo=coingecko&logoColor=white) |
 | Tooling | ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white) |
 
 ## Roadmap
