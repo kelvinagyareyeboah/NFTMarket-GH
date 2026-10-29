@@ -1,7 +1,4 @@
 
-    D --> E[Audit on Explorer]
-```
-
 1. **Connect** your wallet to an Ethereum testnet.
 2. **Browse** live prices pulled from CoinGecko.
 3. **Explore** by searching and filtering your favourite coins.
