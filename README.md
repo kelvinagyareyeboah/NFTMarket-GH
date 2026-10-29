@@ -1,5 +1,4 @@
-ge)](CONTRIB[Quick Start](#quick-start) •
-[How It Works](#how-it-works) •
+ge)](CONTRIB[Quick
 [Configuration](#configuration) •
 [Roadmap](#roadmap) •
 [Contributing](#contributing)
