@@ -1,5 +1,4 @@
-, optionally.
-5. **Audit** the history on the testnet block explorer.
+ on the testnet block explorer.
 
 ## Architecture
 
