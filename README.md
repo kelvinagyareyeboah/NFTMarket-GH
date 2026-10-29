@@ -1,5 +1,4 @@
-urite coins.
-4. **Log** interactions on-chain, optionally.
+, optionally.
 5. **Audit** the history on the testnet block explorer.
 
 ## Architecture
