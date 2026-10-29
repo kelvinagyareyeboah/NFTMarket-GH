@@ -1,4 +1,4 @@
-   # Solidity interaction logger
+tion logger
 ├── migrations/         # Truffle 
 │   ├── components/     # React UI components
 │   ├── hooks/          # Price fetching and Web3 hooks
