@@ -1,6 +1,4 @@
 
-    UI[React + Tailwind UI] -->|REST| CG[CoinGecko API]
-    UI -->|Web3.js| W[Wallet]
     W --> SC[Interaction Logger Contract]
     SC --> EX[(Testnet Explorer)]
 ```
