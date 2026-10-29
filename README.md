@@ -1,4 +1,4 @@
-ing and filtering your favourite coins.
+urite coins.
 4. **Log** interactions on-chain, optionally.
 5. **Audit** the history on the testnet block explorer.
 
