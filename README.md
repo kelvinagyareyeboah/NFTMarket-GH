@@ -1,4 +1,4 @@
-ome-brightgreen?style=for-the-badge)](CONTRIB[Quick Start](#quick-start) •
+ge)](CONTRIB[Quick Start](#quick-start) •
 [How It Works](#how-it-works) •
 [Configuration](#configuration) •
 [Roadmap](#roadmap) •
