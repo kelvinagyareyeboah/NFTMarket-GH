@@ -1,6 +1,4 @@
 
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/K/main/docs/banner.png" alt="CryptoHub Ghana" width="100%" />
 
 **Live crypto prices, on-chain activity logging, and wallet connect, built for Ghana.**
