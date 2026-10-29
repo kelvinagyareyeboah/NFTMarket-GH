@@ -1,5 +1,4 @@
- •
-[Roadmap](#roadmap) •
+
 [Contributing](#contributing)
 
 </div>
