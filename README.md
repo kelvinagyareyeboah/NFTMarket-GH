@@ -1,5 +1,4 @@
-     # Truffle 
-│   ├── components/     # React UI components
+ts/     # React UI components
 │   ├── hooks/          # Price fetching and Web3 hooks
 │   ├── utils/          # API helpers and Web3 utilities
 │   └── App.js
