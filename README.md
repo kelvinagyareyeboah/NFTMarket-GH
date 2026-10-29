@@ -1,4 +1,4 @@
-style=for-th=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+oColor=white)](https://tailwindcss.com/)
 [![Solidity](https://img.shields.io/badge/Solidity-0.8-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIB[Quick Start](#quick-start) •
 [How It Works](#how-it-works) •
