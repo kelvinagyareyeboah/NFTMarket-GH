@@ -1,5 +1,4 @@
-logging, and wallet connect, built for Ghana.**
-
+=
 <br />
 
 [![License](https://img.shields.io/badge/license-MIT-2ea44f?style=for-the-badge)](LICENSE)
