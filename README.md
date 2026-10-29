@@ -1,5 +1,4 @@
-ent variables
-cp .env.example .env
+
 
 # Start the app
 npm start
