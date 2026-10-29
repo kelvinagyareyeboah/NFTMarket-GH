@@ -1,5 +1,4 @@
-
-CryptoHub Ghana is a decentralized crypto price tracker for enthusiasts, traders, and auditors. It pulls real-time market data from CoinGecko, connects to your Web3 wallet, and can log your interactions to a smart contract on an Ethereum testnet so anyone can verify them.
+ecentralized crypto price tracker for enthusiasts, traders, and auditors. It pulls real-time market data from CoinGecko, connects to your Web3 wallet, and can log your interactions to a smart contract on an Ethereum testnet so anyone can verify them.
 
 ## Features
 
