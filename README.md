@@ -1,4 +1,4 @@
-rks with MetaMask and other Web3 wallets |
+nd other Web3 wallets |
 | 🎨 | **Modern UI** | Responsive React and Tailwind CSS interface |
 | 🇬🇭 | **Ghana-First** | Built with the local crypto community in mind |
 
