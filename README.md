@@ -1,4 +1,4 @@
- your wallet to an Ethereum testnet.
+ Ethereum testnet.
 2. **Browse** live prices pulled from CoinGecko.
 3. **Explore** by searching and filtering your favourite coins.
 4. **Log** interactions on-chain, optionally.
