@@ -1,5 +1,4 @@
-
-**Live crypto prices, on-chain activity logging, and wallet connect, built for Ghana.**
+chain activity logging, and wallet connect, built for Ghana.**
 
 <br />
 
