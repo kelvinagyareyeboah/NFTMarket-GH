@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KelvCodes/CryptoHubGhana/main/docs/banner.png" alt="CryptoHub Ghana" width="100%" />
+<img src="https://raw.githubusercontent.com/K/main/docs/banner.png" alt="CryptoHub Ghana" width="100%" />
 
 # CryptoHub Ghana
 
