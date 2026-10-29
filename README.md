@@ -3,9 +3,7 @@ y-363636?style=flat-square&logo=solidity&logoColor=white) |
 | Styling | ![Tailwind](https://i/-Tailwind_CSS-38B2AC?style=ftailwindcss&logoColo| Price data | ![CoinGecko](https://img.shields.io/badge/-CoinGecko-8DC63F?style=flat-square&logo=coingecko&logoColor=white) |
 | Tooling | ![npm](https://img.shields.io/badge/-npm-CB38&logo=npm&logoColor=white) |
 
-## Roadmap
-
-- [x] Live pr- [x] On-chai
+## Roas
 - [ ] Prices in Ghana cedis (GHS)
 - [ ] Watchalerts
 - [ ] Portfolio tracking
