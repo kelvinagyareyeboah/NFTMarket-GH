@@ -1,5 +1,4 @@
-
-git clone https://github.com/KelvCodes/CryptoHubGhana.git
+s://github.com/KelvCodes/CryptoHubGhana.git
 cd CryptoHubGhana
 
 # Install dependencies
