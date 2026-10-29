@@ -1,5 +1,4 @@
-
-[Contributing](#contributing)
+ng](#contributing)
 
 </div>
 
