@@ -1,9 +1,5 @@
 
 ```
-
-</details>
-
-## Configuration
 Create a `.en
 REACT_APP_COINGECKO_API_KEY=your_api_key_here
 REACT_APP_RPC_URL=https://your-testnet-rpc-url
