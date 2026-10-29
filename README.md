@@ -1,4 +1,3 @@
-tps://www.coingecko.com/en/api) for reliable rate limits
 
 ### Install and run
 
