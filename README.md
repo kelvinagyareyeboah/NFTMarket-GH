@@ -4,8 +4,7 @@
 </details>
 
 ## Configuration
-
-Create a `.env` file in the project root:
+Create a `.env` file in the
 
 ```env
 REACT_APP_COINGECKO_API_KEY=your_api_key_here
