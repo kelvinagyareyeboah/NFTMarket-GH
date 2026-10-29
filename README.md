@@ -1,4 +1,4 @@
-dejs.org/) 16 or later
+
 - [MetaMask](https://metamask.io/) or any Web3 wallet
 - A [CoinGecko API key](https://www.coingecko.com/en/api) for reliable rate limits
 
