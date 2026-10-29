@@ -6,7 +6,7 @@ y-363636?style=flat-square&logo=solidity&logoColor=white) |
 ## Roas
 - [ ] Prices in Ghana cedis (GHS)
 - [ ] Watchalerts
-- [ ] Portfolio tracking
+- [ ] Portfo
 - [ ] Price charts and historical data
 - [ ] Dark and light t
 
