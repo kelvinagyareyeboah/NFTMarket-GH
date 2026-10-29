@@ -1,6 +1,6 @@
 
     W --> SC[Interaction Logger Contract]
-    SC --> EX[(Testnet Expl
+    
 <summary><b>Project structure</b></summary>
 
 ```text
