@@ -8,7 +8,7 @@
 
 ## Roadmap
 
-- [x] Live pr- [x] On-chain interaction logging
+- [x] Live pr- [x] On-chai
 - [ ] Prices in Ghana cedis (GHS)
 - [ ] Watchlists and price alerts
 - [ ] Portfolio tracking
