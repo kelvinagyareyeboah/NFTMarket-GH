@@ -1,5 +1,4 @@
-
-| `REACT_APP_RPC_URL` | RPC endpoint for the testnet (e.g. Sepolia) |
+int for the testnet (e.g. Sepolia) |
 | `REACT_APP_CONTRACT_ADDRESS` | Address of your deployed logger contract |
 
 > [!CAUTION]
