@@ -1,5 +1,4 @@
-s://github.com/KelvCodes/CryptoHubGhana.git
-cd CryptoHubGhana
+s://gitGhana
 
 # Install dependencies
 npm install
