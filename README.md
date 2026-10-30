@@ -8,6 +8,4 @@ Built with 🖤 in Ghana 🇬🇭 to bring crypto transparency to everyone.
 
 [![GitHub](https://img.shields.io/badge/-KelvCodes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KelvCodes)
 
-⭐ **Star this repo if you found it useful.**
-
-<
+⭐ **Star this repo if you found it u
