@@ -4,9 +4,7 @@ y-363636?style=flat-square&logo=solidity&logoColor=white) |
 | Tooling | ![npm](https://img.shields.io/badge/-npm-CB38&logo=npm&logoColor=white) |
 
 ## Roas
-- [ ] Prices in Ghana ced- [ ] Portfo
-- [ ] Price torical data
-- [ ] Dark and 
+- [ ] Prices in Ghana ced- - [ ] Dark and 
 Contributions are welcome, whether it's a bug fix, a new feature, or a docs improvement. For major changes, please open an issue first.
 
 ```bash
