@@ -1,1 +1,1 @@
-y-363636?style=flat-square&
+y-363636?sty
