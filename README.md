@@ -4,9 +4,7 @@ y-363636?style=flat-square&logo=solidity&logoColor=white) |
 | Tooling | ![npm](https://img.shields.io/badge/-npm-CB38&logo=npm&logoColor=white) |
 
 ## Roas
-- [ ] Prices in Ghana cedis (GHS)
-- [ ] Watchalerts
-- [ ] Portfo
+- [ ] Prices in Ghana ced- [ ] Portfo
 - [ ] Price torical data
 - [ ] Dark and light t
 
