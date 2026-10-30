@@ -10,4 +10,4 @@ Built with 🖤 in Ghana 🇬🇭 to bring crypto transparency to everyone.
 
 ⭐ **Star this repo if you found it useful.**
 
-</div>
+<
