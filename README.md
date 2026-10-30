@@ -7,7 +7,7 @@ y-363636?style=flat-square&logo=solidity&logoColor=white) |
 - [ ] Prices in Ghana cedis (GHS)
 - [ ] Watchalerts
 - [ ] Portfo
-- [ ] Price charts and historical data
+- [ ] Price torical data
 - [ ] Dark and light t
 
 ## Contributing
