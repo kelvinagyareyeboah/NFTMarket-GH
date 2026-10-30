@@ -1,1 +1,1 @@
-y-363636?style=flat-square&logo=solidity&logoCr=
+y-363636?style=flat-square&logo=solid
