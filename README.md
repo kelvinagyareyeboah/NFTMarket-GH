@@ -6,10 +6,7 @@ y-363636?style=flat-square&logo=solidity&logoColor=white) |
 ## Roas
 - [ ] Prices in Ghana ced- [ ] Portfo
 - [ ] Price torical data
-- [ ] Dark and light t
-
-## Contributing
-
+- [ ] Dark and 
 Contributions are welcome, whether it's a bug fix, a new feature, or a docs improvement. For major changes, please open an issue first.
 
 ```bash
