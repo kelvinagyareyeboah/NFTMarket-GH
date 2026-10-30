@@ -5,14 +5,7 @@ y-363636?style=flat-square&logo=solidity&logoColor=white) |
 ```bash
 git checkout -b feature/your-feature
 git commit -m "Add your feature"
-git push origin feature/your-feature
-```
-
-Then open a Pull Request.
-
-## License
-
-Released under the [MIT License](LICENSE).
+git push origin feature/your-featur
 
 <div align="center">
 
