@@ -1,10 +1,7 @@
 y-363636?style=flat-square&logo=solidity&logoColor=white) |
 | Frontend | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | Styling | ![Tailwind](https://i/-Tailwind_CSS-38B2AC?style=ftailwindcss&logoColo| Price data | ![CoinGecko](https://img.shields.io/badge/-CoinGecko-8DC63F?style=flat-square&logo=coingecko&logoColor=white) |
-| Tooling | ![npm](https://img.shields.io/badge/-npm-CB38&logo=npm&logoColor=white) |
-
-## Roas
-- [ ] Prices in Ghana ced- - [ ] Dark and 
+| Tooling | ![npm](https://img.shields.io/badge/-npm-CB38&logo=npm&logoColor- [ ] Prices in Ghana ced- - [ ] Dark and 
 Contributions are welcome, whether it's a bug fix, a new feature, or a docs improvement. For major changes, please open an issue first.
 
 ```bash
