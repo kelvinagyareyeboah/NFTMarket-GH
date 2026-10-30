@@ -4,4 +4,4 @@ y-363636?style=flat-square&logo=solidity&logoColor=white) |
 | Tooling | ![npm](https://img.shields.io/badge/-npm-CB38&logo=npm& in Ghana
 
 Built with 🖤 in Ghana 🇬🇭 to bring crypto transparency to every
-⭐ **Star this repo if you found 
+⭐ **Star this repo if you fo
