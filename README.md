@@ -3,9 +3,7 @@ y-363636?style=flat-square&logo=solidity&logoColor=white) |
 | Styling | ![Tailwind](https://i/-Tailwind_CSS-38B2AC?style=ftailwindcss&logoColo| Price data | ![CoinGecko](https://img.shields.io/badge/-CoinGecko-8DC63F?style=flat-square&logo=coingecko&logoColor=white) |
 | Tooling | ![npm](https://img.shields.io/badge/-npm-CB38&logo=npm& in Ghana ced- - [ ] D
 ```bash
-git checkout -b feature/your-feature
-git commit -m "Add your feature"
-git push origin feature/your-featur
+git checkout -b feature/ygit push origin feature/your-featur
 
 <div align="center">
 
